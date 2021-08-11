@@ -1,0 +1,27 @@
+
+================================
+CO.AG MusicPack Redux (11-Dec-19)
+
+-- CO.AG SoundPack becomes MusicPack and no longer implement Sound effects into the game.
+-- Added 36 new songs to the MusicPack (Originally 26-tracks, now it has 62-tracks in total)
+-- Due this, playlist duration have been increased from [1:40m:00s] to [3h:22m:00s]
+-- The entire playlist order has been reworked.
+-- Reworked the entire forum topic making it more simplified and clear, easy to read organized categories and a more concise step-by-step guide has been added, for veterans and new players
+-- Old links has been removed for avoid confusion and conflicts. The old CO.AG soundpack link still operational while i found a work around.
+
+================================
+CO.AG SoundPack v1.1 (02-Mar-19)
+
+-- New sounds with multiple variations for: steps: (barefoot, dirt, grass, metal, water, tarmac)
+-- New Alarm sound.
+-- New smash sounds: (hit metal, hit wood)
+-- Large explosion sound volume has been slightly reduced (destroy the abominations!, not your ears!)
+-- Multiple changes in the soundset.json. All files names edited, expanded sound variations, fixed some loud volumes.
+-- Moving on to this Obstacle sound is now deaf (now the sound is the same as the ground on which the character is walking).
+-- All the audio tracks renamed for future updates.
+-- Removed old audio tracks that will never be used again to reduce the weight of the soundpack.
+
+================================
+CO.AG SoundPack v1.0 (27-feb-19)
+
+-- Release
