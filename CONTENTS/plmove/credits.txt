@@ -6,6 +6,13 @@ walk_grass_4.wav by Ashe Kirk https://freesound.org/s/151230/
 walk_grass_5.wav by Ashe Kirk https://freesound.org/s/151229/
 walk_grass_6.wav by Ashe Kirk https://freesound.org/s/151235/
 
+walk_dirt_1 by nuFF3 https://freesound.org/s/477396/
+walk_dirt_2 by nuFF3 https://freesound.org/s/477395/
+walk_dirt_3 by nuFF3 https://freesound.org/s/477394/
+walk_dirt_4 by nuFF3 https://freesound.org/s/477392/
+walk_dirt_5 by nuFF3 https://freesound.org/s/477391/
+walk_dirt_6 by nuFF3 https://freesound.org/s/477390/
+
 walk_t_water_sh_1.wav by nathanaelj83 https://freesound.org/s/145242/
 
 walk_t_water_sh_2.wav by duckduckpony https://freesound.org/s/204017/

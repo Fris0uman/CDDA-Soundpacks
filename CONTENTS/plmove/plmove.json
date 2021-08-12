@@ -16,6 +16,20 @@
   {
     "type": "sound_effect",
     "id": "plmove",
+    "variant": "walk_dirt",
+    "volume": 50,
+    "files": [
+      "plmove/walk_dirt_1.ogg",
+      "plmove/walk_dirt_2.ogg",
+      "plmove/walk_dirt_3.ogg",
+      "plmove/walk_dirt_4.ogg",
+      "plmove/walk_dirt_5.ogg",
+      "plmove/walk_dirt_6.ogg"
+    ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "plmove",
     "variant": "t_water_sh",
     "volume": 50,
     "files": [
