@@ -1,6 +1,15 @@
 walk_grass_1.wav by spycrah https://freesound.org/s/535220/
 walk_grass_2.wav by spycrah https://freesound.org/s/535222/
+
 walk_grass_3.wav by Ashe Kirk https://freesound.org/s/151229/
 walk_grass_4.wav by Ashe Kirk https://freesound.org/s/151230/
 walk_grass_5.wav by Ashe Kirk https://freesound.org/s/151229/
 walk_grass_6.wav by Ashe Kirk https://freesound.org/s/151235/
+
+walk_t_water_sh_1.wav by nathanaelj83 https://freesound.org/s/145242/
+
+walk_t_water_sh_2.wav by duckduckpony https://freesound.org/s/204017/
+walk_t_water_sh_3.wav by duckduckpony https://freesound.org/s/204035/
+walk_t_water_sh_4.wav by duckduckpony https://freesound.org/s/204034/
+walk_t_water_sh_5.wav by duckduckpony https://freesound.org/s/204033/
+walk_t_water_sh_6.wav by duckduckpony https://freesound.org/s/204032/
