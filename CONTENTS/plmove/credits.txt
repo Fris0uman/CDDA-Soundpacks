@@ -39,3 +39,4 @@ walk_t_rock_floor_2.wav by samulis https://freesound.org/s/197780/
 walk_t_rock_floor_3.wav by samulis https://freesound.org/s/197779/
 walk_t_rock_floor_4.wav by samulis https://freesound.org/s/197778/
 
+walk_t_carpet 1 to 6 by redjim https://freesound.org/s/32575/
