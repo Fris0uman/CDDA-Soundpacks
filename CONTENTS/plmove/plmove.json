@@ -61,6 +61,24 @@
   {
     "type": "sound_effect",
     "id": "plmove",
+    "variant": "walk_barefoot",
+    "volume": 100,
+    "files": [
+      "plmove/walk_barefoot_1.wav",
+      "plmove/walk_barefoot_3.wav",
+      "plmove/walk_barefoot_2.wav",
+      "plmove/walk_barefoot_4.wav",
+      "plmove/walk_barefoot_5.wav",
+      "plmove/walk_barefoot_6.wav",
+      "plmove/walk_barefoot_7.wav",
+      "plmove/walk_barefoot_8.wav",
+      "plmove/walk_barefoot_9.wav",
+      "plmove/walk_barefoot_10.wav"
+    ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "plmove",
     "variant": "t_water_sh",
     "volume": 50,
     "files": [
