@@ -23,6 +23,10 @@ walk_barefoot 1 to 10 by SpliceSound https://freesound.org/s/338106/
 
 walk_water 1 to 10 by dawidwmika https://freesound.org/s/372518/
 
+clear_obstacle_1 by niamhd00145229 https://freesound.org/s/422683/
+
+clear_obstacle_2 to 4 by MWsfx https://freesound.org/s/574247/
+
 walk_t_water_sh_1.wav by nathanaelj83 https://freesound.org/s/145242/
 
 walk_t_water_sh_2.wav by duckduckpony https://freesound.org/s/204017/

@@ -97,6 +97,18 @@
   {
     "type": "sound_effect",
     "id": "plmove",
+    "variant": "clear_obstacle",
+    "volume": 40,
+    "files": [
+      "plmove/clear_obstacle_1.wav",
+      "plmove/clear_obstacle_3.wav",
+      "plmove/clear_obstacle_2.wav",
+      "plmove/clear_obstacle_4.wav"
+    ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "plmove",
     "variant": "t_water_sh",
     "volume": 50,
     "files": [
