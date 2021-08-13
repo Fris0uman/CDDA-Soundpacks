@@ -43,6 +43,24 @@
   {
     "type": "sound_effect",
     "id": "plmove",
+    "variant": "walk_tarmac",
+    "volume": 100,
+    "files": [
+      "plmove/walk_t_concrete_1.wav",
+      "plmove/walk_t_concrete_2.wav",
+      "plmove/walk_t_concrete_3.wav",
+      "plmove/walk_t_concrete_4.wav",
+      "plmove/walk_t_concrete_5.wav",
+      "plmove/walk_t_concrete_6.wav",
+      "plmove/walk_t_concrete_7.wav",
+      "plmove/walk_t_concrete_8.wav",
+      "plmove/walk_t_concrete_9.wav",
+      "plmove/walk_t_concrete_10.wav"
+    ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "plmove",
     "variant": "t_water_sh",
     "volume": 50,
     "files": [

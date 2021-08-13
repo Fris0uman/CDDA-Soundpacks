@@ -40,3 +40,16 @@ walk_t_rock_floor_3.wav by samulis https://freesound.org/s/197779/
 walk_t_rock_floor_4.wav by samulis https://freesound.org/s/197778/
 
 walk_t_carpet 1 to 6 by redjim https://freesound.org/s/32575/
+
+walk_t_gravel_10.wav by ali-6868 https://freesound.org/s/384880/
+walk_t_gravel_9.wav by ali-6868 https://freesound.org/s/384879/
+walk_t_gravel_8.wav by ali-6868 https://freesound.org/s/384878/
+walk_t_gravel_7.wav by ali-6868 https://freesound.org/s/384877/
+walk_t_gravel_6.wav by ali-6868 https://freesound.org/s/384876/
+walk_t_gravel_5.wav by ali-6868 https://freesound.org/s/384875/
+walk_t_gravel_4.wav by ali-6868 https://freesound.org/s/384874/
+walk_t_gravel_3.wav by ali-6868 https://freesound.org/s/384873/
+walk_t_gravel_2.wav by ali-6868 https://freesound.org/s/384872/
+walk_t_gravel_1.wav by ali-6868 https://freesound.org/s/384871/
+
+walk_t_concrete 1 to 10 by InspectorJ https://freesound.org/s/336598/
