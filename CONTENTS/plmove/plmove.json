@@ -237,5 +237,17 @@
       "plmove/walk_t_floor_5.wav",
       "plmove/walk_t_floor_6.wav"
     ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "plmove",
+    "variant": "t_rock_floor",
+    "volume": 100,
+    "files": [
+      "plmove/walk_t_rock_floor_1.wav",
+      "plmove/walk_t_rock_floor_2.wav",
+      "plmove/walk_t_rock_floor_3.wav",
+      "plmove/walk_t_rock_floor_4.wav"
+    ]
   }
 ]
