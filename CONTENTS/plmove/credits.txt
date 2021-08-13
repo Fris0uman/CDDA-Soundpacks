@@ -1,0 +1,65 @@
+walk_grass_1.wav by spycrah https://freesound.org/s/535220/
+walk_grass_2.wav by spycrah https://freesound.org/s/535222/
+
+walk_grass_3.wav by Ashe Kirk https://freesound.org/s/151229/
+walk_grass_4.wav by Ashe Kirk https://freesound.org/s/151230/
+walk_grass_5.wav by Ashe Kirk https://freesound.org/s/151229/
+walk_grass_6.wav by Ashe Kirk https://freesound.org/s/151235/
+
+walk_dirt_1 by nuFF3 https://freesound.org/s/477396/
+walk_dirt_2 by nuFF3 https://freesound.org/s/477395/
+walk_dirt_3 by nuFF3 https://freesound.org/s/477394/
+walk_dirt_4 by nuFF3 https://freesound.org/s/477392/
+walk_dirt_5 by nuFF3 https://freesound.org/s/477391/
+walk_dirt_6 by nuFF3 https://freesound.org/s/477390/
+
+walk_metal_1.wav by GiocoSound https://freesound.org/s/421137/
+walk_metal_2.wav by GiocoSound https://freesound.org/s/421136/
+walk_metal_3.wav by GiocoSound https://freesound.org/s/421134/
+walk_metal_4.wav by GiocoSound https://freesound.org/s/421133/
+walk_metal_5.wav by GiocoSound https://freesound.org/s/421132/
+
+walk_barefoot 1 to 10 by SpliceSound https://freesound.org/s/338106/
+
+walk_water 1 to 10 by dawidwmika https://freesound.org/s/372518/
+
+clear_obstacle_1 by niamhd00145229 https://freesound.org/s/422683/
+
+clear_obstacle_2 to 4 by MWsfx https://freesound.org/s/574247/
+
+walk_t_water_sh_1.wav by nathanaelj83 https://freesound.org/s/145242/
+
+walk_t_water_sh_2.wav by duckduckpony https://freesound.org/s/204017/
+walk_t_water_sh_3.wav by duckduckpony https://freesound.org/s/204035/
+walk_t_water_sh_4.wav by duckduckpony https://freesound.org/s/204034/
+walk_t_water_sh_5.wav by duckduckpony https://freesound.org/s/204033/
+walk_t_water_sh_6.wav by duckduckpony https://freesound.org/s/204032/
+
+walk_t_floor_6.wav by kretopi https://freesound.org/s/406749/
+walk_t_floor_5.wav by kretopi https://freesound.org/s/406748/
+walk_t_floor_4.wav by kretopi https://freesound.org/s/406747/
+walk_t_floor_3.wav by kretopi https://freesound.org/s/406746/
+walk_t_floor_2.wav by kretopi https://freesound.org/s/406745/
+walk_t_floor_1.wav by kretopi https://freesound.org/s/406744/
+
+walk_t_rock_floor_1.wav by samulis https://freesound.org/s/197781/
+walk_t_rock_floor_2.wav by samulis https://freesound.org/s/197780/
+walk_t_rock_floor_3.wav by samulis https://freesound.org/s/197779/
+walk_t_rock_floor_4.wav by samulis https://freesound.org/s/197778/
+
+walk_t_carpet 1 to 6 by redjim https://freesound.org/s/32575/
+
+walk_t_gravel_10.wav by ali-6868 https://freesound.org/s/384880/
+walk_t_gravel_9.wav by ali-6868 https://freesound.org/s/384879/
+walk_t_gravel_8.wav by ali-6868 https://freesound.org/s/384878/
+walk_t_gravel_7.wav by ali-6868 https://freesound.org/s/384877/
+walk_t_gravel_6.wav by ali-6868 https://freesound.org/s/384876/
+walk_t_gravel_5.wav by ali-6868 https://freesound.org/s/384875/
+walk_t_gravel_4.wav by ali-6868 https://freesound.org/s/384874/
+walk_t_gravel_3.wav by ali-6868 https://freesound.org/s/384873/
+walk_t_gravel_2.wav by ali-6868 https://freesound.org/s/384872/
+walk_t_gravel_1.wav by ali-6868 https://freesound.org/s/384871/
+
+walk_t_concrete 1 to 10 by InspectorJ https://freesound.org/s/336598/
+
+walk_t_grass_long 1 to 10 by tatianafeudal https://freesound.org/s/542258/
