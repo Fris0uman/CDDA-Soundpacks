@@ -30,6 +30,19 @@
   {
     "type": "sound_effect",
     "id": "plmove",
+    "variant": "walk_metal",
+    "volume": 50,
+    "files": [
+      "plmove/walk_metal_1.wav",
+      "plmove/walk_metal_2.wav",
+      "plmove/walk_metal_3.wav",
+      "plmove/walk_metal_4.wav",
+      "plmove/walk_metal_5.wav"
+    ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "plmove",
     "variant": "t_water_sh",
     "volume": 50,
     "files": [
@@ -248,6 +261,149 @@
       "plmove/walk_t_rock_floor_2.wav",
       "plmove/walk_t_rock_floor_3.wav",
       "plmove/walk_t_rock_floor_4.wav"
+    ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "plmove",
+    "variant": "t_metal_floor_olight",
+    "volume": 50,
+    "files": [
+      "plmove/walk_metal_1.wav",
+      "plmove/walk_metal_2.wav",
+      "plmove/walk_metal_3.wav",
+      "plmove/walk_metal_4.wav",
+      "plmove/walk_metal_5.wav"
+    ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "plmove",
+    "variant": "t_metal_floor",
+    "volume": 50,
+    "files": [
+      "plmove/walk_metal_1.wav",
+      "plmove/walk_metal_2.wav",
+      "plmove/walk_metal_3.wav",
+      "plmove/walk_metal_4.wav",
+      "plmove/walk_metal_5.wav"
+    ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "plmove",
+    "variant": "t_scrap_floor",
+    "volume": 50,
+    "files": [
+      "plmove/walk_metal_1.wav",
+      "plmove/walk_metal_2.wav",
+      "plmove/walk_metal_3.wav",
+      "plmove/walk_metal_4.wav",
+      "plmove/walk_metal_5.wav"
+    ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "plmove",
+    "variant": "t_junk_floor",
+    "volume": 50,
+    "files": [
+      "plmove/walk_metal_1.wav",
+      "plmove/walk_metal_2.wav",
+      "plmove/walk_metal_3.wav",
+      "plmove/walk_metal_4.wav",
+      "plmove/walk_metal_5.wav"
+    ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "plmove",
+    "variant": "t_metal_floor_no_roof",
+    "volume": 50,
+    "files": [
+      "plmove/walk_metal_1.wav",
+      "plmove/walk_metal_2.wav",
+      "plmove/walk_metal_3.wav",
+      "plmove/walk_metal_4.wav",
+      "plmove/walk_metal_5.wav"
+    ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "plmove",
+    "variant": "t_bridge",
+    "volume": 50,
+    "files": [
+      "plmove/walk_metal_1.wav",
+      "plmove/walk_metal_2.wav",
+      "plmove/walk_metal_3.wav",
+      "plmove/walk_metal_4.wav",
+      "plmove/walk_metal_5.wav"
+    ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "plmove",
+    "variant": "t_metal_dock",
+    "volume": 50,
+    "files": [
+      "plmove/walk_metal_1.wav",
+      "plmove/walk_metal_2.wav",
+      "plmove/walk_metal_3.wav",
+      "plmove/walk_metal_4.wav",
+      "plmove/walk_metal_5.wav"
+    ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "plmove",
+    "variant": "t_metal_dock_deep",
+    "volume": 50,
+    "files": [
+      "plmove/walk_metal_1.wav",
+      "plmove/walk_metal_2.wav",
+      "plmove/walk_metal_3.wav",
+      "plmove/walk_metal_4.wav",
+      "plmove/walk_metal_5.wav"
+    ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "plmove",
+    "variant": "t_metal_pontoon_dp",
+    "volume": 50,
+    "files": [
+      "plmove/walk_metal_1.wav",
+      "plmove/walk_metal_2.wav",
+      "plmove/walk_metal_3.wav",
+      "plmove/walk_metal_4.wav",
+      "plmove/walk_metal_5.wav"
+    ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "plmove",
+    "variant": "t_bulkhead_floor",
+    "volume": 50,
+    "files": [
+      "plmove/walk_metal_1.wav",
+      "plmove/walk_metal_2.wav",
+      "plmove/walk_metal_3.wav",
+      "plmove/walk_metal_4.wav",
+      "plmove/walk_metal_5.wav"
+    ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "plmove",
+    "variant": "t_bulkhead_roof",
+    "volume": 50,
+    "files": [
+      "plmove/walk_metal_1.wav",
+      "plmove/walk_metal_2.wav",
+      "plmove/walk_metal_3.wav",
+      "plmove/walk_metal_4.wav",
+      "plmove/walk_metal_5.wav"
     ]
   }
 ]

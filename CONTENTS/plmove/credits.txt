@@ -13,6 +13,12 @@ walk_dirt_4 by nuFF3 https://freesound.org/s/477392/
 walk_dirt_5 by nuFF3 https://freesound.org/s/477391/
 walk_dirt_6 by nuFF3 https://freesound.org/s/477390/
 
+walk_metal_1.wav by GiocoSound https://freesound.org/s/421137/
+walk_metal_2.wav by GiocoSound https://freesound.org/s/421136/
+walk_metal_3.wav by GiocoSound https://freesound.org/s/421134/
+walk_metal_4.wav by GiocoSound https://freesound.org/s/421133/
+walk_metal_5.wav by GiocoSound https://freesound.org/s/421132/
+
 walk_t_water_sh_1.wav by nathanaelj83 https://freesound.org/s/145242/
 
 walk_t_water_sh_2.wav by duckduckpony https://freesound.org/s/204017/
