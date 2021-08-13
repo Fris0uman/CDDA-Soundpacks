@@ -53,3 +53,5 @@ walk_t_gravel_2.wav by ali-6868 https://freesound.org/s/384872/
 walk_t_gravel_1.wav by ali-6868 https://freesound.org/s/384871/
 
 walk_t_concrete 1 to 10 by InspectorJ https://freesound.org/s/336598/
+
+walk_t_grass_long 1 to 10 by tatianafeudal https://freesound.org/s/542258/
