@@ -20,3 +20,10 @@ walk_t_water_sh_3.wav by duckduckpony https://freesound.org/s/204035/
 walk_t_water_sh_4.wav by duckduckpony https://freesound.org/s/204034/
 walk_t_water_sh_5.wav by duckduckpony https://freesound.org/s/204033/
 walk_t_water_sh_6.wav by duckduckpony https://freesound.org/s/204032/
+
+walk_t_floor_6 by kretopi https://freesound.org/s/406749/
+walk_t_floor_5 by kretopi https://freesound.org/s/406748/
+walk_t_floor_4 by kretopi https://freesound.org/s/406747/
+walk_t_floor_3 by kretopi https://freesound.org/s/406746/
+walk_t_floor_2 by kretopi https://freesound.org/s/406745/
+walk_t_floor_1 by kretopi https://freesound.org/s/406744/
