@@ -14,5 +14,6 @@ SFX are sourced from [freesound.org](https://freesound.org/)
 
 You can find proper attribution for every file in the `credits.txt` in each sound folder.
 
+## Contributing
 Contributions are welcome, see the [documentation](https://github.com/CleverRaven/Cataclysm-DDA/blob/master/doc/SOUNDPACKS.md)
 for more information on how soundpacks work.
