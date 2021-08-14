@@ -1,0 +1,16 @@
+[
+  {
+    "type": "sound_effect",
+    "id": "<id-of-sound_effect>",
+    "variant": "<variant-id>",
+    "volume": 100,
+    "files": [
+      "<path_to_sound from_soundpack_root_1>",
+      "<path_to_sound from_soundpack_root_2>",
+      "<path_to_sound from_soundpack_root_3>",
+      "<path_to_sound from_soundpack_root_4>",
+      "<path_to_sound from_soundpack_root_5>",
+      "<path_to_sound from_soundpack_root_6>"
+    ]
+  }
+]
