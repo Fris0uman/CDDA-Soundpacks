@@ -1,0 +1,30 @@
+[
+  {
+    "type": "sound_effect",
+    "id": "vehicle_open",
+    "variant": "door",
+    "volume": 100,
+    "files": [ "vehicle_open/door/open_car_door.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "vehicle_open",
+    "variant": "door_opaque",
+    "volume": 100,
+    "files": [ "vehicle_open/door/open_car_door.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "vehicle_open",
+    "variant": "hddoor",
+    "volume": 100,
+    "files": [ "vehicle_open/door/open_car_door.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "vehicle_open",
+    "variant": "hddoor_opaque",
+    "volume": 100,
+    "files": [ "vehicle_open/door/open_car_door.ogg" ]
+  }
+]
