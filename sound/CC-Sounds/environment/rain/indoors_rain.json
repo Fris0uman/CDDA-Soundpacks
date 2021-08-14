@@ -1,0 +1,9 @@
+[
+  {
+    "type": "sound_effect",
+    "id" : "environment",
+    "variant" : "indoors_rain",
+    "volume" : 100,
+    "files" : [ "environment/rain/indoors_rain.ogg" ]
+  }
+]
