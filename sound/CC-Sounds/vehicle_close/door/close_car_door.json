@@ -26,33 +26,5 @@
     "variant": "hddoor_opaque",
     "volume": 100,
     "files": [ "vehicle_close/door/close_car_door.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "vehicle_close",
-    "variant": "door_full",
-    "volume": 100,
-    "files": [ "vehicle_close/door/close_car_door.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "vehicle_close",
-    "variant": "door_opaque_full",
-    "volume": 100,
-    "files": [ "vehicle_close/door/close_car_door.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "vehicle_close",
-    "variant": "hddoor_full",
-    "volume": 100,
-    "files": [ "vehicle_close/door/close_car_door.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "vehicle_close",
-    "variant": "hddoor_opaque_full",
-    "volume": 100,
-    "files": [ "vehicle_close/door/close_car_door.ogg" ]
   }
 ]
