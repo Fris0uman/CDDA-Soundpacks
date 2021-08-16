@@ -1,11 +1,11 @@
 [
   {
     "type": "sound_effect",
-    "id": "menu_move",
+    "id": "menu_error",
     "variant": "default",
-    "volume": 50,
+    "volume": 100,
     "files": [
-      "menu_move/menu_move.ogg"
+      "menu_error/menu_error.ogg"
     ]
   }
 ]
