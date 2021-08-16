@@ -3,70 +3,70 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "t_window_frame",
-        "volume" : 60,
+        "volume" : 50,
         "files" : [ "smash_success/window/window_frame_smash_success.ogg" ]
     },
     {
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "t_curtains",
-        "volume" : 60,
+        "volume" : 50,
         "files" : [ "smash_success/window/window_smash_success.ogg" ]
     },
     {
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "t_window_domestic",
-        "volume" : 60,
+        "volume" : 50,
         "files" : [ "smash_success/window/window_smash_success.ogg" ]
     },
     {
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "t_window",
-        "volume" : 60,
+        "volume" : 50,
         "files" : [ "smash_success/window/window_smash_success.ogg" ]
     },
     {
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "t_window_boarded",
-        "volume" : 60,
+        "volume" : 50,
         "files" : [ "smash_success/window/window_boarded_smash_success.ogg" ]
     },
     {
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "t_window_bars_alarm",
-        "volume" : 60,
+        "volume" : 50,
         "files" : [ "smash_success/window/window_smash_success.ogg" ]
     },
     {
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "t_window_alarm",
-        "volume" : 60,
+        "volume" : 50,
         "files" : [ "smash_success/window/window_smash_success.ogg" ]
     },
     {
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "t_window_domestic_taped",
-        "volume" : 60,
+        "volume" : 50,
         "files" : [ "smash_success/window/window_smash_success.ogg" ]
     },
     {
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "t_window_bars",
-        "volume" : 60,
+        "volume" : 50,
         "files" : [ "smash_success/window/window_smash_success.ogg" ]
     },
     {
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "t_window_reinforced",
-        "volume" : 60,
+        "volume" : 50,
         "files" : [ "smash_success/window/window_boarded_smash_success.ogg" ]
     },
     {
@@ -80,63 +80,63 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "t_window_stained_blue",
-        "volume" : 60,
+        "volume" : 50,
         "files" : [ "smash_success/window/window_smash_success.ogg" ]
     },
     {
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "t_window_stained_green",
-        "volume" : 60,
+        "volume" : 50,
         "files" : [ "smash_success/window/window_smash_success.ogg" ]
     },
     {
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "t_window_stained_red",
-        "volume" : 60,
+        "volume" : 50,
         "files" : [ "smash_success/window/window_smash_success.ogg" ]
     },
     {
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "t_window_no_curtains",
-        "volume" : 60,
+        "volume" : 50,
         "files" : [ "smash_success/window/window_smash_success.ogg" ]
     },
     {
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "t_window_open",
-        "volume" : 60,
+        "volume" : 50,
         "files" : [ "smash_success/window/window_smash_success.ogg" ]
     },
     {
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "t_window_no_curtains_open",
-        "volume" : 60,
+        "volume" : 50,
         "files" : [ "smash_success/window/window_smash_success.ogg" ]
     },
     {
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "t_window_taped",
-        "volume" : 60,
+        "volume" : 50,
         "files" : [ "smash_success/window/window_smash_success.ogg" ]
     },
     {
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "t_window_no_curtains_taped",
-        "volume" : 60,
+        "volume" : 50,
         "files" : [ "smash_success/window/window_smash_success.ogg" ]
     },
     {
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "t_window_alarm_taped",
-        "volume" : 60,
+        "volume" : 50,
         "files" : [ "smash_success/window/window_smash_success.ogg" ]
     },
     {
@@ -150,7 +150,7 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "t_window_enhanced",
-        "volume" : 60,
+        "volume" : 50,
         "files" : [ "smash_success/window/window_boarded_smash_success.ogg" ]
     },
     {
@@ -164,14 +164,14 @@
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "t_window_bars_curtains",
-        "volume" : 60,
+        "volume" : 50,
         "files" : [ "smash_success/window/window_smash_success.ogg" ]
     },
     {
         "type": "sound_effect",
         "id" : "smash_success",
         "variant" : "t_window_bars_domestic",
-        "volume" : 60,
+        "volume" : 50,
         "files" : [ "smash_success/window/window_smash_success.ogg" ]
     }
 ]
