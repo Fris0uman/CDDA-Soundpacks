@@ -5,12 +5,12 @@
     "variant": "walk_grass",
     "volume": 100,
     "files": [
-      "plmove/walk_grass_1.wav",
-      "plmove/walk_grass_2.wav",
-      "plmove/walk_grass_3.wav",
-      "plmove/walk_grass_4.wav",
-      "plmove/walk_grass_5.wav",
-      "plmove/walk_grass_6.wav"
+      "plmove/walk_grass_1.ogg",
+      "plmove/walk_grass_2.ogg",
+      "plmove/walk_grass_3.ogg",
+      "plmove/walk_grass_4.ogg",
+      "plmove/walk_grass_5.ogg",
+      "plmove/walk_grass_6.ogg"
     ]
   },
   {
@@ -33,11 +33,11 @@
     "variant": "walk_metal",
     "volume": 50,
     "files": [
-      "plmove/walk_metal_1.wav",
-      "plmove/walk_metal_2.wav",
-      "plmove/walk_metal_3.wav",
-      "plmove/walk_metal_4.wav",
-      "plmove/walk_metal_5.wav"
+      "plmove/walk_metal_1.ogg",
+      "plmove/walk_metal_2.ogg",
+      "plmove/walk_metal_3.ogg",
+      "plmove/walk_metal_4.ogg",
+      "plmove/walk_metal_5.ogg"
     ]
   },
   {
@@ -46,16 +46,16 @@
     "variant": "walk_tarmac",
     "volume": 100,
     "files": [
-      "plmove/walk_t_concrete_1.wav",
-      "plmove/walk_t_concrete_3.wav",
-      "plmove/walk_t_concrete_2.wav",
-      "plmove/walk_t_concrete_4.wav",
-      "plmove/walk_t_concrete_5.wav",
-      "plmove/walk_t_concrete_6.wav",
-      "plmove/walk_t_concrete_7.wav",
-      "plmove/walk_t_concrete_8.wav",
-      "plmove/walk_t_concrete_9.wav",
-      "plmove/walk_t_concrete_10.wav"
+      "plmove/walk_t_concrete_1.ogg",
+      "plmove/walk_t_concrete_3.ogg",
+      "plmove/walk_t_concrete_2.ogg",
+      "plmove/walk_t_concrete_4.ogg",
+      "plmove/walk_t_concrete_5.ogg",
+      "plmove/walk_t_concrete_6.ogg",
+      "plmove/walk_t_concrete_7.ogg",
+      "plmove/walk_t_concrete_8.ogg",
+      "plmove/walk_t_concrete_9.ogg",
+      "plmove/walk_t_concrete_10.ogg"
     ]
   },
   {
@@ -64,16 +64,16 @@
     "variant": "walk_barefoot",
     "volume": 100,
     "files": [
-      "plmove/walk_barefoot_1.wav",
-      "plmove/walk_barefoot_3.wav",
-      "plmove/walk_barefoot_2.wav",
-      "plmove/walk_barefoot_4.wav",
-      "plmove/walk_barefoot_5.wav",
-      "plmove/walk_barefoot_6.wav",
-      "plmove/walk_barefoot_7.wav",
-      "plmove/walk_barefoot_8.wav",
-      "plmove/walk_barefoot_9.wav",
-      "plmove/walk_barefoot_10.wav"
+      "plmove/walk_barefoot_1.ogg",
+      "plmove/walk_barefoot_3.ogg",
+      "plmove/walk_barefoot_2.ogg",
+      "plmove/walk_barefoot_4.ogg",
+      "plmove/walk_barefoot_5.ogg",
+      "plmove/walk_barefoot_6.ogg",
+      "plmove/walk_barefoot_7.ogg",
+      "plmove/walk_barefoot_8.ogg",
+      "plmove/walk_barefoot_9.ogg",
+      "plmove/walk_barefoot_10.ogg"
     ]
   },
   {
@@ -82,16 +82,16 @@
     "variant": "walk_water",
     "volume": 100,
     "files": [
-      "plmove/walk_water_1.wav",
-      "plmove/walk_water_3.wav",
-      "plmove/walk_water_2.wav",
-      "plmove/walk_water_4.wav",
-      "plmove/walk_water_5.wav",
-      "plmove/walk_water_6.wav",
-      "plmove/walk_water_7.wav",
-      "plmove/walk_water_8.wav",
-      "plmove/walk_water_9.wav",
-      "plmove/walk_water_10.wav"
+      "plmove/walk_water_1.ogg",
+      "plmove/walk_water_3.ogg",
+      "plmove/walk_water_2.ogg",
+      "plmove/walk_water_4.ogg",
+      "plmove/walk_water_5.ogg",
+      "plmove/walk_water_6.ogg",
+      "plmove/walk_water_7.ogg",
+      "plmove/walk_water_8.ogg",
+      "plmove/walk_water_9.ogg",
+      "plmove/walk_water_10.ogg"
     ]
   },
   {
@@ -100,10 +100,10 @@
     "variant": "clear_obstacle",
     "volume": 40,
     "files": [
-      "plmove/clear_obstacle_1.wav",
-      "plmove/clear_obstacle_3.wav",
-      "plmove/clear_obstacle_2.wav",
-      "plmove/clear_obstacle_4.wav"
+      "plmove/clear_obstacle_1.ogg",
+      "plmove/clear_obstacle_3.ogg",
+      "plmove/clear_obstacle_2.ogg",
+      "plmove/clear_obstacle_4.ogg"
     ]
   },
   {
@@ -112,12 +112,12 @@
     "variant": "t_water_sh",
     "volume": 50,
     "files": [
-      "plmove/walk_t_water_sh_1.wav",
-      "plmove/walk_t_water_sh_2.wav",
-      "plmove/walk_t_water_sh_3.wav",
-      "plmove/walk_t_water_sh_4.wav",
-      "plmove/walk_t_water_sh_5.wav",
-      "plmove/walk_t_water_sh_6.wav"
+      "plmove/walk_t_water_sh_1.ogg",
+      "plmove/walk_t_water_sh_2.ogg",
+      "plmove/walk_t_water_sh_3.ogg",
+      "plmove/walk_t_water_sh_4.ogg",
+      "plmove/walk_t_water_sh_5.ogg",
+      "plmove/walk_t_water_sh_6.ogg"
     ]
   },
   {
@@ -127,12 +127,12 @@
     "variant": "t_water_sh_underground",
     "volume": 50,
     "files": [
-      "plmove/walk_t_water_sh_1.wav",
-      "plmove/walk_t_water_sh_2.wav",
-      "plmove/walk_t_water_sh_3.wav",
-      "plmove/walk_t_water_sh_4.wav",
-      "plmove/walk_t_water_sh_5.wav",
-      "plmove/walk_t_water_sh_6.wav"
+      "plmove/walk_t_water_sh_1.ogg",
+      "plmove/walk_t_water_sh_2.ogg",
+      "plmove/walk_t_water_sh_3.ogg",
+      "plmove/walk_t_water_sh_4.ogg",
+      "plmove/walk_t_water_sh_5.ogg",
+      "plmove/walk_t_water_sh_6.ogg"
     ]
   },
   {
@@ -141,12 +141,12 @@
     "variant": "t_water_murky",
     "volume": 50,
     "files": [
-      "plmove/walk_t_water_sh_1.wav",
-      "plmove/walk_t_water_sh_2.wav",
-      "plmove/walk_t_water_sh_3.wav",
-      "plmove/walk_t_water_sh_4.wav",
-      "plmove/walk_t_water_sh_5.wav",
-      "plmove/walk_t_water_sh_6.wav"
+      "plmove/walk_t_water_sh_1.ogg",
+      "plmove/walk_t_water_sh_2.ogg",
+      "plmove/walk_t_water_sh_3.ogg",
+      "plmove/walk_t_water_sh_4.ogg",
+      "plmove/walk_t_water_sh_5.ogg",
+      "plmove/walk_t_water_sh_6.ogg"
     ]
   },
   {
@@ -155,12 +155,12 @@
     "variant": "t_water_sh_murky_underground",
     "volume": 50,
     "files": [
-      "plmove/walk_t_water_sh_1.wav",
-      "plmove/walk_t_water_sh_2.wav",
-      "plmove/walk_t_water_sh_3.wav",
-      "plmove/walk_t_water_sh_4.wav",
-      "plmove/walk_t_water_sh_5.wav",
-      "plmove/walk_t_water_sh_6.wav"
+      "plmove/walk_t_water_sh_1.ogg",
+      "plmove/walk_t_water_sh_2.ogg",
+      "plmove/walk_t_water_sh_3.ogg",
+      "plmove/walk_t_water_sh_4.ogg",
+      "plmove/walk_t_water_sh_5.ogg",
+      "plmove/walk_t_water_sh_6.ogg"
     ]
   },
   {
@@ -169,12 +169,12 @@
     "variant": "t_water_moving_sh",
     "volume": 50,
     "files": [
-      "plmove/walk_t_water_sh_1.wav",
-      "plmove/walk_t_water_sh_2.wav",
-      "plmove/walk_t_water_sh_3.wav",
-      "plmove/walk_t_water_sh_4.wav",
-      "plmove/walk_t_water_sh_5.wav",
-      "plmove/walk_t_water_sh_6.wav"
+      "plmove/walk_t_water_sh_1.ogg",
+      "plmove/walk_t_water_sh_2.ogg",
+      "plmove/walk_t_water_sh_3.ogg",
+      "plmove/walk_t_water_sh_4.ogg",
+      "plmove/walk_t_water_sh_5.ogg",
+      "plmove/walk_t_water_sh_6.ogg"
     ]
   },
   {
@@ -183,12 +183,12 @@
     "variant": "t_water_moving_sh_underground",
     "volume": 50,
     "files": [
-      "plmove/walk_t_water_sh_1.wav",
-      "plmove/walk_t_water_sh_2.wav",
-      "plmove/walk_t_water_sh_3.wav",
-      "plmove/walk_t_water_sh_4.wav",
-      "plmove/walk_t_water_sh_5.wav",
-      "plmove/walk_t_water_sh_6.wav"
+      "plmove/walk_t_water_sh_1.ogg",
+      "plmove/walk_t_water_sh_2.ogg",
+      "plmove/walk_t_water_sh_3.ogg",
+      "plmove/walk_t_water_sh_4.ogg",
+      "plmove/walk_t_water_sh_5.ogg",
+      "plmove/walk_t_water_sh_6.ogg"
     ]
   },
   {
@@ -197,12 +197,12 @@
     "variant": "t_swater_sh",
     "volume": 50,
     "files": [
-      "plmove/walk_t_water_sh_1.wav",
-      "plmove/walk_t_water_sh_2.wav",
-      "plmove/walk_t_water_sh_3.wav",
-      "plmove/walk_t_water_sh_4.wav",
-      "plmove/walk_t_water_sh_5.wav",
-      "plmove/walk_t_water_sh_6.wav"
+      "plmove/walk_t_water_sh_1.ogg",
+      "plmove/walk_t_water_sh_2.ogg",
+      "plmove/walk_t_water_sh_3.ogg",
+      "plmove/walk_t_water_sh_4.ogg",
+      "plmove/walk_t_water_sh_5.ogg",
+      "plmove/walk_t_water_sh_6.ogg"
     ]
   },
   {
@@ -211,12 +211,12 @@
     "variant": "t_swater_sh_underground",
     "volume": 50,
     "files": [
-      "plmove/walk_t_water_sh_1.wav",
-      "plmove/walk_t_water_sh_2.wav",
-      "plmove/walk_t_water_sh_3.wav",
-      "plmove/walk_t_water_sh_4.wav",
-      "plmove/walk_t_water_sh_5.wav",
-      "plmove/walk_t_water_sh_6.wav"
+      "plmove/walk_t_water_sh_1.ogg",
+      "plmove/walk_t_water_sh_2.ogg",
+      "plmove/walk_t_water_sh_3.ogg",
+      "plmove/walk_t_water_sh_4.ogg",
+      "plmove/walk_t_water_sh_5.ogg",
+      "plmove/walk_t_water_sh_6.ogg"
     ]
   },
   {
@@ -225,12 +225,12 @@
     "variant": "t_water_pool_shallow",
     "volume": 50,
     "files": [
-      "plmove/walk_t_water_sh_1.wav",
-      "plmove/walk_t_water_sh_2.wav",
-      "plmove/walk_t_water_sh_3.wav",
-      "plmove/walk_t_water_sh_4.wav",
-      "plmove/walk_t_water_sh_5.wav",
-      "plmove/walk_t_water_sh_6.wav"
+      "plmove/walk_t_water_sh_1.ogg",
+      "plmove/walk_t_water_sh_2.ogg",
+      "plmove/walk_t_water_sh_3.ogg",
+      "plmove/walk_t_water_sh_4.ogg",
+      "plmove/walk_t_water_sh_5.ogg",
+      "plmove/walk_t_water_sh_6.ogg"
     ]
   },
   {
@@ -239,12 +239,12 @@
     "variant": "t_water_pool_shallow_outdoors",
     "volume": 50,
     "files": [
-      "plmove/walk_t_water_sh_1.wav",
-      "plmove/walk_t_water_sh_2.wav",
-      "plmove/walk_t_water_sh_3.wav",
-      "plmove/walk_t_water_sh_4.wav",
-      "plmove/walk_t_water_sh_5.wav",
-      "plmove/walk_t_water_sh_6.wav"
+      "plmove/walk_t_water_sh_1.ogg",
+      "plmove/walk_t_water_sh_2.ogg",
+      "plmove/walk_t_water_sh_3.ogg",
+      "plmove/walk_t_water_sh_4.ogg",
+      "plmove/walk_t_water_sh_5.ogg",
+      "plmove/walk_t_water_sh_6.ogg"
     ]
   },
   {
@@ -253,12 +253,12 @@
     "variant": "t_floor",
     "volume": 100,
     "files": [
-      "plmove/walk_t_floor_1.wav",
-      "plmove/walk_t_floor_2.wav",
-      "plmove/walk_t_floor_3.wav",
-      "plmove/walk_t_floor_4.wav",
-      "plmove/walk_t_floor_5.wav",
-      "plmove/walk_t_floor_6.wav"
+      "plmove/walk_t_floor_1.ogg",
+      "plmove/walk_t_floor_2.ogg",
+      "plmove/walk_t_floor_3.ogg",
+      "plmove/walk_t_floor_4.ogg",
+      "plmove/walk_t_floor_5.ogg",
+      "plmove/walk_t_floor_6.ogg"
     ]
   },
   {
@@ -267,12 +267,12 @@
     "variant": "t_floor_olight",
     "volume": 100,
     "files": [
-      "plmove/walk_t_floor_1.wav",
-      "plmove/walk_t_floor_2.wav",
-      "plmove/walk_t_floor_3.wav",
-      "plmove/walk_t_floor_4.wav",
-      "plmove/walk_t_floor_5.wav",
-      "plmove/walk_t_floor_6.wav"
+      "plmove/walk_t_floor_1.ogg",
+      "plmove/walk_t_floor_2.ogg",
+      "plmove/walk_t_floor_3.ogg",
+      "plmove/walk_t_floor_4.ogg",
+      "plmove/walk_t_floor_5.ogg",
+      "plmove/walk_t_floor_6.ogg"
     ]
   },
   {
@@ -281,12 +281,12 @@
     "variant": "t_floor_primitive",
     "volume": 100,
     "files": [
-      "plmove/walk_t_floor_1.wav",
-      "plmove/walk_t_floor_2.wav",
-      "plmove/walk_t_floor_3.wav",
-      "plmove/walk_t_floor_4.wav",
-      "plmove/walk_t_floor_5.wav",
-      "plmove/walk_t_floor_6.wav"
+      "plmove/walk_t_floor_1.ogg",
+      "plmove/walk_t_floor_2.ogg",
+      "plmove/walk_t_floor_3.ogg",
+      "plmove/walk_t_floor_4.ogg",
+      "plmove/walk_t_floor_5.ogg",
+      "plmove/walk_t_floor_6.ogg"
     ]
   },
   {
@@ -295,12 +295,12 @@
     "variant": "t_floor_waxed",
     "volume": 100,
     "files": [
-      "plmove/walk_t_floor_1.wav",
-      "plmove/walk_t_floor_2.wav",
-      "plmove/walk_t_floor_3.wav",
-      "plmove/walk_t_floor_4.wav",
-      "plmove/walk_t_floor_5.wav",
-      "plmove/walk_t_floor_6.wav"
+      "plmove/walk_t_floor_1.ogg",
+      "plmove/walk_t_floor_2.ogg",
+      "plmove/walk_t_floor_3.ogg",
+      "plmove/walk_t_floor_4.ogg",
+      "plmove/walk_t_floor_5.ogg",
+      "plmove/walk_t_floor_6.ogg"
     ]
   },
   {
@@ -309,12 +309,12 @@
     "variant": "t_floor_waxed_y",
     "volume": 100,
     "files": [
-      "plmove/walk_t_floor_1.wav",
-      "plmove/walk_t_floor_2.wav",
-      "plmove/walk_t_floor_3.wav",
-      "plmove/walk_t_floor_4.wav",
-      "plmove/walk_t_floor_5.wav",
-      "plmove/walk_t_floor_6.wav"
+      "plmove/walk_t_floor_1.ogg",
+      "plmove/walk_t_floor_2.ogg",
+      "plmove/walk_t_floor_3.ogg",
+      "plmove/walk_t_floor_4.ogg",
+      "plmove/walk_t_floor_5.ogg",
+      "plmove/walk_t_floor_6.ogg"
     ]
   },
   {
@@ -323,10 +323,10 @@
     "variant": "t_rock_floor",
     "volume": 100,
     "files": [
-      "plmove/walk_t_rock_floor_1.wav",
-      "plmove/walk_t_rock_floor_2.wav",
-      "plmove/walk_t_rock_floor_3.wav",
-      "plmove/walk_t_rock_floor_4.wav"
+      "plmove/walk_t_rock_floor_1.ogg",
+      "plmove/walk_t_rock_floor_2.ogg",
+      "plmove/walk_t_rock_floor_3.ogg",
+      "plmove/walk_t_rock_floor_4.ogg"
     ]
   },
   {
@@ -335,11 +335,11 @@
     "variant": "t_metal_floor_olight",
     "volume": 50,
     "files": [
-      "plmove/walk_metal_1.wav",
-      "plmove/walk_metal_2.wav",
-      "plmove/walk_metal_3.wav",
-      "plmove/walk_metal_4.wav",
-      "plmove/walk_metal_5.wav"
+      "plmove/walk_metal_1.ogg",
+      "plmove/walk_metal_2.ogg",
+      "plmove/walk_metal_3.ogg",
+      "plmove/walk_metal_4.ogg",
+      "plmove/walk_metal_5.ogg"
     ]
   },
   {
@@ -348,11 +348,11 @@
     "variant": "t_metal_floor",
     "volume": 50,
     "files": [
-      "plmove/walk_metal_1.wav",
-      "plmove/walk_metal_2.wav",
-      "plmove/walk_metal_3.wav",
-      "plmove/walk_metal_4.wav",
-      "plmove/walk_metal_5.wav"
+      "plmove/walk_metal_1.ogg",
+      "plmove/walk_metal_2.ogg",
+      "plmove/walk_metal_3.ogg",
+      "plmove/walk_metal_4.ogg",
+      "plmove/walk_metal_5.ogg"
     ]
   },
   {
@@ -361,11 +361,11 @@
     "variant": "t_scrap_floor",
     "volume": 50,
     "files": [
-      "plmove/walk_metal_1.wav",
-      "plmove/walk_metal_2.wav",
-      "plmove/walk_metal_3.wav",
-      "plmove/walk_metal_4.wav",
-      "plmove/walk_metal_5.wav"
+      "plmove/walk_metal_1.ogg",
+      "plmove/walk_metal_2.ogg",
+      "plmove/walk_metal_3.ogg",
+      "plmove/walk_metal_4.ogg",
+      "plmove/walk_metal_5.ogg"
     ]
   },
   {
@@ -374,11 +374,11 @@
     "variant": "t_junk_floor",
     "volume": 50,
     "files": [
-      "plmove/walk_metal_1.wav",
-      "plmove/walk_metal_2.wav",
-      "plmove/walk_metal_3.wav",
-      "plmove/walk_metal_4.wav",
-      "plmove/walk_metal_5.wav"
+      "plmove/walk_metal_1.ogg",
+      "plmove/walk_metal_2.ogg",
+      "plmove/walk_metal_3.ogg",
+      "plmove/walk_metal_4.ogg",
+      "plmove/walk_metal_5.ogg"
     ]
   },
   {
@@ -387,11 +387,11 @@
     "variant": "t_metal_floor_no_roof",
     "volume": 50,
     "files": [
-      "plmove/walk_metal_1.wav",
-      "plmove/walk_metal_2.wav",
-      "plmove/walk_metal_3.wav",
-      "plmove/walk_metal_4.wav",
-      "plmove/walk_metal_5.wav"
+      "plmove/walk_metal_1.ogg",
+      "plmove/walk_metal_2.ogg",
+      "plmove/walk_metal_3.ogg",
+      "plmove/walk_metal_4.ogg",
+      "plmove/walk_metal_5.ogg"
     ]
   },
   {
@@ -400,11 +400,11 @@
     "variant": "t_bridge",
     "volume": 50,
     "files": [
-      "plmove/walk_metal_1.wav",
-      "plmove/walk_metal_2.wav",
-      "plmove/walk_metal_3.wav",
-      "plmove/walk_metal_4.wav",
-      "plmove/walk_metal_5.wav"
+      "plmove/walk_metal_1.ogg",
+      "plmove/walk_metal_2.ogg",
+      "plmove/walk_metal_3.ogg",
+      "plmove/walk_metal_4.ogg",
+      "plmove/walk_metal_5.ogg"
     ]
   },
   {
@@ -413,11 +413,11 @@
     "variant": "t_metal_dock",
     "volume": 50,
     "files": [
-      "plmove/walk_metal_1.wav",
-      "plmove/walk_metal_2.wav",
-      "plmove/walk_metal_3.wav",
-      "plmove/walk_metal_4.wav",
-      "plmove/walk_metal_5.wav"
+      "plmove/walk_metal_1.ogg",
+      "plmove/walk_metal_2.ogg",
+      "plmove/walk_metal_3.ogg",
+      "plmove/walk_metal_4.ogg",
+      "plmove/walk_metal_5.ogg"
     ]
   },
   {
@@ -426,11 +426,11 @@
     "variant": "t_metal_dock_deep",
     "volume": 50,
     "files": [
-      "plmove/walk_metal_1.wav",
-      "plmove/walk_metal_2.wav",
-      "plmove/walk_metal_3.wav",
-      "plmove/walk_metal_4.wav",
-      "plmove/walk_metal_5.wav"
+      "plmove/walk_metal_1.ogg",
+      "plmove/walk_metal_2.ogg",
+      "plmove/walk_metal_3.ogg",
+      "plmove/walk_metal_4.ogg",
+      "plmove/walk_metal_5.ogg"
     ]
   },
   {
@@ -439,11 +439,11 @@
     "variant": "t_metal_pontoon_dp",
     "volume": 50,
     "files": [
-      "plmove/walk_metal_1.wav",
-      "plmove/walk_metal_2.wav",
-      "plmove/walk_metal_3.wav",
-      "plmove/walk_metal_4.wav",
-      "plmove/walk_metal_5.wav"
+      "plmove/walk_metal_1.ogg",
+      "plmove/walk_metal_2.ogg",
+      "plmove/walk_metal_3.ogg",
+      "plmove/walk_metal_4.ogg",
+      "plmove/walk_metal_5.ogg"
     ]
   },
   {
@@ -452,11 +452,11 @@
     "variant": "t_bulkhead_floor",
     "volume": 50,
     "files": [
-      "plmove/walk_metal_1.wav",
-      "plmove/walk_metal_2.wav",
-      "plmove/walk_metal_3.wav",
-      "plmove/walk_metal_4.wav",
-      "plmove/walk_metal_5.wav"
+      "plmove/walk_metal_1.ogg",
+      "plmove/walk_metal_2.ogg",
+      "plmove/walk_metal_3.ogg",
+      "plmove/walk_metal_4.ogg",
+      "plmove/walk_metal_5.ogg"
     ]
   },
   {
@@ -465,11 +465,11 @@
     "variant": "t_bulkhead_roof",
     "volume": 50,
     "files": [
-      "plmove/walk_metal_1.wav",
-      "plmove/walk_metal_2.wav",
-      "plmove/walk_metal_3.wav",
-      "plmove/walk_metal_4.wav",
-      "plmove/walk_metal_5.wav"
+      "plmove/walk_metal_1.ogg",
+      "plmove/walk_metal_2.ogg",
+      "plmove/walk_metal_3.ogg",
+      "plmove/walk_metal_4.ogg",
+      "plmove/walk_metal_5.ogg"
     ]
   },
   {
@@ -478,12 +478,12 @@
     "variant": "t_carpet_base",
     "volume": 100,
     "files": [
-      "plmove/walk_t_carpet_1.wav",
-      "plmove/walk_t_carpet_2.wav",
-      "plmove/walk_t_carpet_3.wav",
-      "plmove/walk_t_carpet_4.wav",
-      "plmove/walk_t_carpet_5.wav",
-      "plmove/walk_t_carpet_6.wav"
+      "plmove/walk_t_carpet_1.ogg",
+      "plmove/walk_t_carpet_2.ogg",
+      "plmove/walk_t_carpet_3.ogg",
+      "plmove/walk_t_carpet_4.ogg",
+      "plmove/walk_t_carpet_5.ogg",
+      "plmove/walk_t_carpet_6.ogg"
     ]
   },
   {
@@ -492,12 +492,12 @@
     "variant": "t_carpet_red",
     "volume": 100,
     "files": [
-      "plmove/walk_t_carpet_1.wav",
-      "plmove/walk_t_carpet_2.wav",
-      "plmove/walk_t_carpet_3.wav",
-      "plmove/walk_t_carpet_4.wav",
-      "plmove/walk_t_carpet_5.wav",
-      "plmove/walk_t_carpet_6.wav"
+      "plmove/walk_t_carpet_1.ogg",
+      "plmove/walk_t_carpet_2.ogg",
+      "plmove/walk_t_carpet_3.ogg",
+      "plmove/walk_t_carpet_4.ogg",
+      "plmove/walk_t_carpet_5.ogg",
+      "plmove/walk_t_carpet_6.ogg"
     ]
   },
   {
@@ -506,12 +506,12 @@
     "variant": "t_carpet_yellow",
     "volume": 100,
     "files": [
-      "plmove/walk_t_carpet_1.wav",
-      "plmove/walk_t_carpet_2.wav",
-      "plmove/walk_t_carpet_3.wav",
-      "plmove/walk_t_carpet_4.wav",
-      "plmove/walk_t_carpet_5.wav",
-      "plmove/walk_t_carpet_6.wav"
+      "plmove/walk_t_carpet_1.ogg",
+      "plmove/walk_t_carpet_2.ogg",
+      "plmove/walk_t_carpet_3.ogg",
+      "plmove/walk_t_carpet_4.ogg",
+      "plmove/walk_t_carpet_5.ogg",
+      "plmove/walk_t_carpet_6.ogg"
     ]
   },
   {
@@ -520,12 +520,12 @@
     "variant": "t_carpet_green",
     "volume": 100,
     "files": [
-      "plmove/walk_t_carpet_1.wav",
-      "plmove/walk_t_carpet_2.wav",
-      "plmove/walk_t_carpet_3.wav",
-      "plmove/walk_t_carpet_4.wav",
-      "plmove/walk_t_carpet_5.wav",
-      "plmove/walk_t_carpet_6.wav"
+      "plmove/walk_t_carpet_1.ogg",
+      "plmove/walk_t_carpet_2.ogg",
+      "plmove/walk_t_carpet_3.ogg",
+      "plmove/walk_t_carpet_4.ogg",
+      "plmove/walk_t_carpet_5.ogg",
+      "plmove/walk_t_carpet_6.ogg"
     ]
   },
   {
@@ -534,12 +534,12 @@
     "variant": "t_carpet_base_concrete",
     "volume": 100,
     "files": [
-      "plmove/walk_t_carpet_1.wav",
-      "plmove/walk_t_carpet_2.wav",
-      "plmove/walk_t_carpet_3.wav",
-      "plmove/walk_t_carpet_4.wav",
-      "plmove/walk_t_carpet_5.wav",
-      "plmove/walk_t_carpet_6.wav"
+      "plmove/walk_t_carpet_1.ogg",
+      "plmove/walk_t_carpet_2.ogg",
+      "plmove/walk_t_carpet_3.ogg",
+      "plmove/walk_t_carpet_4.ogg",
+      "plmove/walk_t_carpet_5.ogg",
+      "plmove/walk_t_carpet_6.ogg"
     ]
   },
   {
@@ -548,12 +548,12 @@
     "variant": "t_carpet_concrete_red",
     "volume": 100,
     "files": [
-      "plmove/walk_t_carpet_1.wav",
-      "plmove/walk_t_carpet_2.wav",
-      "plmove/walk_t_carpet_3.wav",
-      "plmove/walk_t_carpet_4.wav",
-      "plmove/walk_t_carpet_5.wav",
-      "plmove/walk_t_carpet_6.wav"
+      "plmove/walk_t_carpet_1.ogg",
+      "plmove/walk_t_carpet_2.ogg",
+      "plmove/walk_t_carpet_3.ogg",
+      "plmove/walk_t_carpet_4.ogg",
+      "plmove/walk_t_carpet_5.ogg",
+      "plmove/walk_t_carpet_6.ogg"
     ]
   },
   {
@@ -562,12 +562,12 @@
     "variant": "t_carpet_concrete_yellow",
     "volume": 100,
     "files": [
-      "plmove/walk_t_carpet_1.wav",
-      "plmove/walk_t_carpet_2.wav",
-      "plmove/walk_t_carpet_3.wav",
-      "plmove/walk_t_carpet_4.wav",
-      "plmove/walk_t_carpet_5.wav",
-      "plmove/walk_t_carpet_6.wav"
+      "plmove/walk_t_carpet_1.ogg",
+      "plmove/walk_t_carpet_2.ogg",
+      "plmove/walk_t_carpet_3.ogg",
+      "plmove/walk_t_carpet_4.ogg",
+      "plmove/walk_t_carpet_5.ogg",
+      "plmove/walk_t_carpet_6.ogg"
     ]
   },
   {
@@ -576,12 +576,12 @@
     "variant": "t_carpet_concrete_green",
     "volume": 100,
     "files": [
-      "plmove/walk_t_carpet_1.wav",
-      "plmove/walk_t_carpet_2.wav",
-      "plmove/walk_t_carpet_3.wav",
-      "plmove/walk_t_carpet_4.wav",
-      "plmove/walk_t_carpet_5.wav",
-      "plmove/walk_t_carpet_6.wav"
+      "plmove/walk_t_carpet_1.ogg",
+      "plmove/walk_t_carpet_2.ogg",
+      "plmove/walk_t_carpet_3.ogg",
+      "plmove/walk_t_carpet_4.ogg",
+      "plmove/walk_t_carpet_5.ogg",
+      "plmove/walk_t_carpet_6.ogg"
     ]
   },
   {
@@ -590,12 +590,12 @@
     "variant": "t_carpet_concrete_purple",
     "volume": 100,
     "files": [
-      "plmove/walk_t_carpet_1.wav",
-      "plmove/walk_t_carpet_2.wav",
-      "plmove/walk_t_carpet_3.wav",
-      "plmove/walk_t_carpet_4.wav",
-      "plmove/walk_t_carpet_5.wav",
-      "plmove/walk_t_carpet_6.wav"
+      "plmove/walk_t_carpet_1.ogg",
+      "plmove/walk_t_carpet_2.ogg",
+      "plmove/walk_t_carpet_3.ogg",
+      "plmove/walk_t_carpet_4.ogg",
+      "plmove/walk_t_carpet_5.ogg",
+      "plmove/walk_t_carpet_6.ogg"
     ]
   },
   {
@@ -604,12 +604,12 @@
     "variant": "t_carpet_base_metal",
     "volume": 100,
     "files": [
-      "plmove/walk_t_carpet_1.wav",
-      "plmove/walk_t_carpet_2.wav",
-      "plmove/walk_t_carpet_3.wav",
-      "plmove/walk_t_carpet_4.wav",
-      "plmove/walk_t_carpet_5.wav",
-      "plmove/walk_t_carpet_6.wav"
+      "plmove/walk_t_carpet_1.ogg",
+      "plmove/walk_t_carpet_2.ogg",
+      "plmove/walk_t_carpet_3.ogg",
+      "plmove/walk_t_carpet_4.ogg",
+      "plmove/walk_t_carpet_5.ogg",
+      "plmove/walk_t_carpet_6.ogg"
     ]
   },
   {
@@ -618,12 +618,12 @@
     "variant": "t_carpet_metal_red",
     "volume": 100,
     "files": [
-      "plmove/walk_t_carpet_1.wav",
-      "plmove/walk_t_carpet_2.wav",
-      "plmove/walk_t_carpet_3.wav",
-      "plmove/walk_t_carpet_4.wav",
-      "plmove/walk_t_carpet_5.wav",
-      "plmove/walk_t_carpet_6.wav"
+      "plmove/walk_t_carpet_1.ogg",
+      "plmove/walk_t_carpet_2.ogg",
+      "plmove/walk_t_carpet_3.ogg",
+      "plmove/walk_t_carpet_4.ogg",
+      "plmove/walk_t_carpet_5.ogg",
+      "plmove/walk_t_carpet_6.ogg"
     ]
   },
   {
@@ -632,12 +632,12 @@
     "variant": "t_carpet_metal_yellow",
     "volume": 100,
     "files": [
-      "plmove/walk_t_carpet_1.wav",
-      "plmove/walk_t_carpet_2.wav",
-      "plmove/walk_t_carpet_3.wav",
-      "plmove/walk_t_carpet_4.wav",
-      "plmove/walk_t_carpet_5.wav",
-      "plmove/walk_t_carpet_6.wav"
+      "plmove/walk_t_carpet_1.ogg",
+      "plmove/walk_t_carpet_2.ogg",
+      "plmove/walk_t_carpet_3.ogg",
+      "plmove/walk_t_carpet_4.ogg",
+      "plmove/walk_t_carpet_5.ogg",
+      "plmove/walk_t_carpet_6.ogg"
     ]
   },
   {
@@ -646,12 +646,12 @@
     "variant": "t_carpet_metal_green",
     "volume": 100,
     "files": [
-      "plmove/walk_t_carpet_1.wav",
-      "plmove/walk_t_carpet_2.wav",
-      "plmove/walk_t_carpet_3.wav",
-      "plmove/walk_t_carpet_4.wav",
-      "plmove/walk_t_carpet_5.wav",
-      "plmove/walk_t_carpet_6.wav"
+      "plmove/walk_t_carpet_1.ogg",
+      "plmove/walk_t_carpet_2.ogg",
+      "plmove/walk_t_carpet_3.ogg",
+      "plmove/walk_t_carpet_4.ogg",
+      "plmove/walk_t_carpet_5.ogg",
+      "plmove/walk_t_carpet_6.ogg"
     ]
   },
   {
@@ -660,12 +660,12 @@
     "variant": "t_carpet_metal_purple",
     "volume": 100,
     "files": [
-      "plmove/walk_t_carpet_1.wav",
-      "plmove/walk_t_carpet_2.wav",
-      "plmove/walk_t_carpet_3.wav",
-      "plmove/walk_t_carpet_4.wav",
-      "plmove/walk_t_carpet_5.wav",
-      "plmove/walk_t_carpet_6.wav"
+      "plmove/walk_t_carpet_1.ogg",
+      "plmove/walk_t_carpet_2.ogg",
+      "plmove/walk_t_carpet_3.ogg",
+      "plmove/walk_t_carpet_4.ogg",
+      "plmove/walk_t_carpet_5.ogg",
+      "plmove/walk_t_carpet_6.ogg"
     ]
   },
   {
@@ -674,16 +674,16 @@
     "variant": "t_railroad_rubble",
     "volume": 50,
     "files": [
-      "plmove/walk_t_gravel_1.wav",
-      "plmove/walk_t_gravel_2.wav",
-      "plmove/walk_t_gravel_3.wav",
-      "plmove/walk_t_gravel_4.wav",
-      "plmove/walk_t_gravel_5.wav",
-      "plmove/walk_t_gravel_6.wav",
-      "plmove/walk_t_gravel_7.wav",
-      "plmove/walk_t_gravel_8.wav",
-      "plmove/walk_t_gravel_9.wav",
-      "plmove/walk_t_gravel_10.wav"
+      "plmove/walk_t_gravel_1.ogg",
+      "plmove/walk_t_gravel_2.ogg",
+      "plmove/walk_t_gravel_3.ogg",
+      "plmove/walk_t_gravel_4.ogg",
+      "plmove/walk_t_gravel_5.ogg",
+      "plmove/walk_t_gravel_6.ogg",
+      "plmove/walk_t_gravel_7.ogg",
+      "plmove/walk_t_gravel_8.ogg",
+      "plmove/walk_t_gravel_9.ogg",
+      "plmove/walk_t_gravel_10.ogg"
     ]
   },
   {
@@ -692,16 +692,16 @@
     "variant": "t_grass_long",
     "volume": 110,
     "files": [
-      "plmove/walk_t_grass_long_1.wav",
-      "plmove/walk_t_grass_long_2.wav",
-      "plmove/walk_t_grass_long_3.wav",
-      "plmove/walk_t_grass_long_4.wav",
-      "plmove/walk_t_grass_long_5.wav",
-      "plmove/walk_t_grass_long_6.wav",
-      "plmove/walk_t_grass_long_7.wav",
-      "plmove/walk_t_grass_long_8.wav",
-      "plmove/walk_t_grass_long_9.wav",
-      "plmove/walk_t_grass_long_10.wav"
+      "plmove/walk_t_grass_long_1.ogg",
+      "plmove/walk_t_grass_long_2.ogg",
+      "plmove/walk_t_grass_long_3.ogg",
+      "plmove/walk_t_grass_long_4.ogg",
+      "plmove/walk_t_grass_long_5.ogg",
+      "plmove/walk_t_grass_long_6.ogg",
+      "plmove/walk_t_grass_long_7.ogg",
+      "plmove/walk_t_grass_long_8.ogg",
+      "plmove/walk_t_grass_long_9.ogg",
+      "plmove/walk_t_grass_long_10.ogg"
     ]
   },
   {
@@ -710,16 +710,16 @@
     "variant": "t_grass_tall",
     "volume": 110,
     "files": [
-      "plmove/walk_t_grass_long_1.wav",
-      "plmove/walk_t_grass_long_2.wav",
-      "plmove/walk_t_grass_long_3.wav",
-      "plmove/walk_t_grass_long_4.wav",
-      "plmove/walk_t_grass_long_5.wav",
-      "plmove/walk_t_grass_long_6.wav",
-      "plmove/walk_t_grass_long_7.wav",
-      "plmove/walk_t_grass_long_8.wav",
-      "plmove/walk_t_grass_long_9.wav",
-      "plmove/walk_t_grass_long_10.wav"
+      "plmove/walk_t_grass_long_1.ogg",
+      "plmove/walk_t_grass_long_2.ogg",
+      "plmove/walk_t_grass_long_3.ogg",
+      "plmove/walk_t_grass_long_4.ogg",
+      "plmove/walk_t_grass_long_5.ogg",
+      "plmove/walk_t_grass_long_6.ogg",
+      "plmove/walk_t_grass_long_7.ogg",
+      "plmove/walk_t_grass_long_8.ogg",
+      "plmove/walk_t_grass_long_9.ogg",
+      "plmove/walk_t_grass_long_10.ogg"
     ]
   },
   {
@@ -728,16 +728,16 @@
     "variant": "t_grass_dead",
     "volume": 110,
     "files": [
-      "plmove/walk_t_grass_long_1.wav",
-      "plmove/walk_t_grass_long_2.wav",
-      "plmove/walk_t_grass_long_3.wav",
-      "plmove/walk_t_grass_long_4.wav",
-      "plmove/walk_t_grass_long_5.wav",
-      "plmove/walk_t_grass_long_6.wav",
-      "plmove/walk_t_grass_long_7.wav",
-      "plmove/walk_t_grass_long_8.wav",
-      "plmove/walk_t_grass_long_9.wav",
-      "plmove/walk_t_grass_long_10.wav"
+      "plmove/walk_t_grass_long_1.ogg",
+      "plmove/walk_t_grass_long_2.ogg",
+      "plmove/walk_t_grass_long_3.ogg",
+      "plmove/walk_t_grass_long_4.ogg",
+      "plmove/walk_t_grass_long_5.ogg",
+      "plmove/walk_t_grass_long_6.ogg",
+      "plmove/walk_t_grass_long_7.ogg",
+      "plmove/walk_t_grass_long_8.ogg",
+      "plmove/walk_t_grass_long_9.ogg",
+      "plmove/walk_t_grass_long_10.ogg"
     ]
   },
   {
@@ -746,16 +746,16 @@
     "variant": "t_fern",
     "volume": 110,
     "files": [
-      "plmove/walk_t_grass_long_1.wav",
-      "plmove/walk_t_grass_long_2.wav",
-      "plmove/walk_t_grass_long_3.wav",
-      "plmove/walk_t_grass_long_4.wav",
-      "plmove/walk_t_grass_long_5.wav",
-      "plmove/walk_t_grass_long_6.wav",
-      "plmove/walk_t_grass_long_7.wav",
-      "plmove/walk_t_grass_long_8.wav",
-      "plmove/walk_t_grass_long_9.wav",
-      "plmove/walk_t_grass_long_10.wav"
+      "plmove/walk_t_grass_long_1.ogg",
+      "plmove/walk_t_grass_long_2.ogg",
+      "plmove/walk_t_grass_long_3.ogg",
+      "plmove/walk_t_grass_long_4.ogg",
+      "plmove/walk_t_grass_long_5.ogg",
+      "plmove/walk_t_grass_long_6.ogg",
+      "plmove/walk_t_grass_long_7.ogg",
+      "plmove/walk_t_grass_long_8.ogg",
+      "plmove/walk_t_grass_long_9.ogg",
+      "plmove/walk_t_grass_long_10.ogg"
     ]
   },
   {
@@ -764,16 +764,16 @@
     "variant": "t_fern_harvested",
     "volume": 110,
     "files": [
-      "plmove/walk_t_grass_long_1.wav",
-      "plmove/walk_t_grass_long_2.wav",
-      "plmove/walk_t_grass_long_3.wav",
-      "plmove/walk_t_grass_long_4.wav",
-      "plmove/walk_t_grass_long_5.wav",
-      "plmove/walk_t_grass_long_6.wav",
-      "plmove/walk_t_grass_long_7.wav",
-      "plmove/walk_t_grass_long_8.wav",
-      "plmove/walk_t_grass_long_9.wav",
-      "plmove/walk_t_grass_long_10.wav"
+      "plmove/walk_t_grass_long_1.ogg",
+      "plmove/walk_t_grass_long_2.ogg",
+      "plmove/walk_t_grass_long_3.ogg",
+      "plmove/walk_t_grass_long_4.ogg",
+      "plmove/walk_t_grass_long_5.ogg",
+      "plmove/walk_t_grass_long_6.ogg",
+      "plmove/walk_t_grass_long_7.ogg",
+      "plmove/walk_t_grass_long_8.ogg",
+      "plmove/walk_t_grass_long_9.ogg",
+      "plmove/walk_t_grass_long_10.ogg"
     ]
   }
 ]
