@@ -3,14 +3,14 @@
     "type": "sound_effect",
     "id" : "fire_gun",
     "variant" : "mossberg_500",
-    "volume" : 80,
+    "volume" : 60,
     "files" : [ "gun/shotguns/shotgun_1.ogg" ]               
 },
 {
     "type": "sound_effect",
     "id" : "fire_gun",
     "variant" : "ksg",
-    "volume" : 80,
+    "volume" : 60,
     "files" :["gun/shotguns/shotgun_1.ogg"]
 }
 ]
