@@ -1,0 +1,3 @@
+[submodule "sound/CC-Sounds/music"]
+	path = sound/CC-Sounds/music
+	url = https://github.com/Fris0uman/CDDA-Music-Packs.git
