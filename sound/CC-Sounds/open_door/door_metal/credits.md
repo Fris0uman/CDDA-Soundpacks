@@ -1,3 +1,3 @@
 | File Name        | Author   | License   | Link                            |
 |------------------|----------|-----------|---------------------------------|
-| open_door       | deleted_user_7146007 |**CC0**    |https://freesound.org/people/deleted_user_7146007/sounds/383830/     |
+| open_door       | Peter Havran (Raven2236) |CC BY-NC-SA 2.0    |     |

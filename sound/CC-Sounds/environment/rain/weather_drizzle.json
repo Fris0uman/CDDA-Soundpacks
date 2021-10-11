@@ -1,0 +1,9 @@
+[
+  {
+    "type": "sound_effect",
+    "id" : "environment",
+    "variant" : "WEATHER_DRIZZLE",
+    "volume" : 100,
+    "files" : [ "environment/rain/drizzle.ogg" ]
+  }
+]

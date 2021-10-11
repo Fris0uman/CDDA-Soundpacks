@@ -1,0 +1,9 @@
+[
+  {
+    "type": "sound_effect",
+    "id" : "environment",
+    "variant" : "daytime",
+    "volume" : 100,
+    "files" : [ "environment/ambient/daytime.ogg" ]
+  }
+]

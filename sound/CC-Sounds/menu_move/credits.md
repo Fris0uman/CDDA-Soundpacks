@@ -1,3 +1,3 @@
 | File Name        | Author   | License   | Link                            |
 |------------------|----------|-----------|---------------------------------|
-| menu_move.wav | BigDino1995 | **CC0** | https://freesound.org/s/569902/ |
+| menu_move.wav | Peter Havran (Raven2236) | CC BY-NC-SA 2.0 | |
