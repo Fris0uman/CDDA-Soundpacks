@@ -1,0 +1,11 @@
+[
+  {
+    "type": "sound_effect",
+    "id" : "environment",
+    "variant" : "thunder_near",
+    "volume" : 100,
+    "files" : [ "environment/rain/thunder_near_1.ogg",
+		     "environment/rain/thunder_near_2.ogg",
+		     "environment/rain/thunder_near_3.ogg" ]
+  }
+]

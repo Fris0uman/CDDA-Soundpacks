@@ -1,0 +1,9 @@
+[
+  {
+    "type": "sound_effect",
+    "id" : "environment",
+    "variant" : "WEATHER_THUNDER",
+    "volume" : 100,
+    "files" : [ "environment/rain/thunderstorm.ogg" ]
+  }
+]

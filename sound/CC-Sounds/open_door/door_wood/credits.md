@@ -1,3 +1,3 @@
 | File Name        | Author   | License   | Link                            |
 |------------------|----------|-----------|---------------------------------|
-| open_door.ogg | chromakei | **CC0** | https://freesound.org/people/chromakei/sounds/400390/ |
+| open_door.ogg | Peter Havran (Raven2236) | CC BY-NC-SA 2.0 |  |
