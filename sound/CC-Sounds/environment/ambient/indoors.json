@@ -1,9 +1,0 @@
-[
-  {
-    "type": "sound_effect",
-    "id" : "environment",
-    "variant" : "indoors",
-    "volume" : 100,
-    "files" : [ "environment/ambient/indoors.ogg" ]
-  }
-]
