@@ -1,0 +1,14 @@
+[
+    {
+        "type": "sound_effect",
+        "id" : "mon_death",
+        "variant" : "zombie_death",
+        "volume" : 100,
+        "files" : [
+            "monsters/zombie_death_1.ogg",
+            "monsters/zombie_death_2.ogg",
+            "monsters/zombie_death_3.ogg",
+            "monsters/zombie_death_4.ogg"
+        ]
+    }
+]
