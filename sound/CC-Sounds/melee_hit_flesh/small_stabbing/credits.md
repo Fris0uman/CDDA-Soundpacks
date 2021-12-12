@@ -1,3 +1,3 @@
 | File Name        | Author   | License   | Link                            |
 |------------------|----------|-----------|---------------------------------|
-| small_cutting_flesh 1 to 6 | nicktermer | **CC0** | https://freesound.org/people/nicktermer/sounds/259542/ |
+| small_stabbing_flesh 1 to 6 | Podcapocalipsis | **CC0** | https://freesound.org/people/Podcapocalipsis/sounds/521030/ |
