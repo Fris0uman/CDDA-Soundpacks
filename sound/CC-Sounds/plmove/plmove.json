@@ -10,7 +10,8 @@
       "plmove/walk_grass_3.ogg",
       "plmove/walk_grass_4.ogg",
       "plmove/walk_grass_5.ogg",
-      "plmove/walk_grass_6.ogg"
+      "plmove/walk_grass_6.ogg",
+	  "plmove/walk_grass_7.ogg"
     ]
   },
   {
@@ -37,7 +38,11 @@
       "plmove/walk_metal_2.ogg",
       "plmove/walk_metal_3.ogg",
       "plmove/walk_metal_4.ogg",
-      "plmove/walk_metal_5.ogg"
+      "plmove/walk_metal_5.ogg",
+	  "plmove/walk_metal_6.ogg",
+      "plmove/walk_metal_7.ogg",
+      "plmove/walk_metal_8.ogg",
+      "plmove/walk_metal_9.ogg"
     ]
   },
   {
@@ -103,7 +108,11 @@
       "plmove/clear_obstacle_1.ogg",
       "plmove/clear_obstacle_3.ogg",
       "plmove/clear_obstacle_2.ogg",
-      "plmove/clear_obstacle_4.ogg"
+      "plmove/clear_obstacle_4.ogg",
+	  "plmove/clear_obstacle_5.ogg",
+	  "plmove/clear_obstacle_6.ogg",
+	  "plmove/clear_obstacle_7.ogg",
+	  "plmove/clear_obstacle_8.ogg"
     ]
   },
   {
@@ -258,7 +267,15 @@
       "plmove/walk_t_floor_3.ogg",
       "plmove/walk_t_floor_4.ogg",
       "plmove/walk_t_floor_5.ogg",
-      "plmove/walk_t_floor_6.ogg"
+      "plmove/walk_t_floor_6.ogg",
+	  "plmove/walk_t_floor_7.ogg",
+      "plmove/walk_t_floor_8.ogg",
+      "plmove/walk_t_floor_9.ogg",
+      "plmove/walk_t_floor_10.ogg",
+      "plmove/walk_t_floor_11.ogg",
+      "plmove/walk_t_floor_12.ogg",
+	  "plmove/walk_t_floor_13.ogg",
+      "plmove/walk_t_floor_14.ogg"
     ]
   },
   {
@@ -272,7 +289,15 @@
       "plmove/walk_t_floor_3.ogg",
       "plmove/walk_t_floor_4.ogg",
       "plmove/walk_t_floor_5.ogg",
-      "plmove/walk_t_floor_6.ogg"
+      "plmove/walk_t_floor_6.ogg",
+	  "plmove/walk_t_floor_7.ogg",
+      "plmove/walk_t_floor_8.ogg",
+      "plmove/walk_t_floor_9.ogg",
+      "plmove/walk_t_floor_10.ogg",
+      "plmove/walk_t_floor_11.ogg",
+      "plmove/walk_t_floor_12.ogg",
+	  "plmove/walk_t_floor_13.ogg",
+      "plmove/walk_t_floor_14.ogg"
     ]
   },
   {
@@ -286,7 +311,15 @@
       "plmove/walk_t_floor_3.ogg",
       "plmove/walk_t_floor_4.ogg",
       "plmove/walk_t_floor_5.ogg",
-      "plmove/walk_t_floor_6.ogg"
+      "plmove/walk_t_floor_6.ogg",
+	  "plmove/walk_t_floor_7.ogg",
+      "plmove/walk_t_floor_8.ogg",
+      "plmove/walk_t_floor_9.ogg",
+      "plmove/walk_t_floor_10.ogg",
+      "plmove/walk_t_floor_11.ogg",
+      "plmove/walk_t_floor_12.ogg",
+	  "plmove/walk_t_floor_13.ogg",
+      "plmove/walk_t_floor_14.ogg"
     ]
   },
   {
@@ -300,7 +333,15 @@
       "plmove/walk_t_floor_3.ogg",
       "plmove/walk_t_floor_4.ogg",
       "plmove/walk_t_floor_5.ogg",
-      "plmove/walk_t_floor_6.ogg"
+      "plmove/walk_t_floor_6.ogg",
+	  "plmove/walk_t_floor_7.ogg",
+      "plmove/walk_t_floor_8.ogg",
+      "plmove/walk_t_floor_9.ogg",
+      "plmove/walk_t_floor_10.ogg",
+      "plmove/walk_t_floor_11.ogg",
+      "plmove/walk_t_floor_12.ogg",
+	  "plmove/walk_t_floor_13.ogg",
+      "plmove/walk_t_floor_14.ogg"
     ]
   },
   {
@@ -314,7 +355,15 @@
       "plmove/walk_t_floor_3.ogg",
       "plmove/walk_t_floor_4.ogg",
       "plmove/walk_t_floor_5.ogg",
-      "plmove/walk_t_floor_6.ogg"
+      "plmove/walk_t_floor_6.ogg",
+	  "plmove/walk_t_floor_7.ogg",
+      "plmove/walk_t_floor_8.ogg",
+      "plmove/walk_t_floor_9.ogg",
+      "plmove/walk_t_floor_10.ogg",
+      "plmove/walk_t_floor_11.ogg",
+      "plmove/walk_t_floor_12.ogg",
+	  "plmove/walk_t_floor_13.ogg",
+      "plmove/walk_t_floor_14.ogg"
     ]
   },
   {
@@ -339,7 +388,11 @@
       "plmove/walk_metal_2.ogg",
       "plmove/walk_metal_3.ogg",
       "plmove/walk_metal_4.ogg",
-      "plmove/walk_metal_5.ogg"
+      "plmove/walk_metal_5.ogg",
+	  "plmove/walk_metal_6.ogg",
+      "plmove/walk_metal_7.ogg",
+      "plmove/walk_metal_8.ogg",
+      "plmove/walk_metal_9.ogg"
     ]
   },
   {
@@ -352,7 +405,11 @@
       "plmove/walk_metal_2.ogg",
       "plmove/walk_metal_3.ogg",
       "plmove/walk_metal_4.ogg",
-      "plmove/walk_metal_5.ogg"
+      "plmove/walk_metal_5.ogg",
+	  "plmove/walk_metal_6.ogg",
+      "plmove/walk_metal_7.ogg",
+      "plmove/walk_metal_8.ogg",
+      "plmove/walk_metal_9.ogg"
     ]
   },
   {
@@ -365,7 +422,11 @@
       "plmove/walk_metal_2.ogg",
       "plmove/walk_metal_3.ogg",
       "plmove/walk_metal_4.ogg",
-      "plmove/walk_metal_5.ogg"
+      "plmove/walk_metal_5.ogg",
+	  "plmove/walk_metal_6.ogg",
+      "plmove/walk_metal_7.ogg",
+      "plmove/walk_metal_8.ogg",
+      "plmove/walk_metal_9.ogg"
     ]
   },
   {
@@ -378,7 +439,11 @@
       "plmove/walk_metal_2.ogg",
       "plmove/walk_metal_3.ogg",
       "plmove/walk_metal_4.ogg",
-      "plmove/walk_metal_5.ogg"
+      "plmove/walk_metal_5.ogg",
+	  "plmove/walk_metal_6.ogg",
+      "plmove/walk_metal_7.ogg",
+      "plmove/walk_metal_8.ogg",
+      "plmove/walk_metal_9.ogg"
     ]
   },
   {
@@ -391,7 +456,11 @@
       "plmove/walk_metal_2.ogg",
       "plmove/walk_metal_3.ogg",
       "plmove/walk_metal_4.ogg",
-      "plmove/walk_metal_5.ogg"
+      "plmove/walk_metal_5.ogg",
+	  "plmove/walk_metal_6.ogg",
+      "plmove/walk_metal_7.ogg",
+      "plmove/walk_metal_8.ogg",
+      "plmove/walk_metal_9.ogg"
     ]
   },
   {
@@ -404,7 +473,11 @@
       "plmove/walk_metal_2.ogg",
       "plmove/walk_metal_3.ogg",
       "plmove/walk_metal_4.ogg",
-      "plmove/walk_metal_5.ogg"
+      "plmove/walk_metal_5.ogg",
+	  "plmove/walk_metal_6.ogg",
+      "plmove/walk_metal_7.ogg",
+      "plmove/walk_metal_8.ogg",
+      "plmove/walk_metal_9.ogg"
     ]
   },
   {
@@ -417,7 +490,11 @@
       "plmove/walk_metal_2.ogg",
       "plmove/walk_metal_3.ogg",
       "plmove/walk_metal_4.ogg",
-      "plmove/walk_metal_5.ogg"
+      "plmove/walk_metal_5.ogg",
+	  "plmove/walk_metal_6.ogg",
+      "plmove/walk_metal_7.ogg",
+      "plmove/walk_metal_8.ogg",
+      "plmove/walk_metal_9.ogg"
     ]
   },
   {
@@ -430,7 +507,11 @@
       "plmove/walk_metal_2.ogg",
       "plmove/walk_metal_3.ogg",
       "plmove/walk_metal_4.ogg",
-      "plmove/walk_metal_5.ogg"
+      "plmove/walk_metal_5.ogg",
+	  "plmove/walk_metal_6.ogg",
+      "plmove/walk_metal_7.ogg",
+      "plmove/walk_metal_8.ogg",
+      "plmove/walk_metal_9.ogg"
     ]
   },
   {
@@ -443,7 +524,11 @@
       "plmove/walk_metal_2.ogg",
       "plmove/walk_metal_3.ogg",
       "plmove/walk_metal_4.ogg",
-      "plmove/walk_metal_5.ogg"
+      "plmove/walk_metal_5.ogg",
+	  "plmove/walk_metal_6.ogg",
+      "plmove/walk_metal_7.ogg",
+      "plmove/walk_metal_8.ogg",
+      "plmove/walk_metal_9.ogg"
     ]
   },
   {
@@ -456,7 +541,11 @@
       "plmove/walk_metal_2.ogg",
       "plmove/walk_metal_3.ogg",
       "plmove/walk_metal_4.ogg",
-      "plmove/walk_metal_5.ogg"
+      "plmove/walk_metal_5.ogg",
+	  "plmove/walk_metal_6.ogg",
+      "plmove/walk_metal_7.ogg",
+      "plmove/walk_metal_8.ogg",
+      "plmove/walk_metal_9.ogg"
     ]
   },
   {
@@ -469,7 +558,11 @@
       "plmove/walk_metal_2.ogg",
       "plmove/walk_metal_3.ogg",
       "plmove/walk_metal_4.ogg",
-      "plmove/walk_metal_5.ogg"
+      "plmove/walk_metal_5.ogg",
+	  "plmove/walk_metal_6.ogg",
+      "plmove/walk_metal_7.ogg",
+      "plmove/walk_metal_8.ogg",
+      "plmove/walk_metal_9.ogg"
     ]
   },
   {
@@ -483,7 +576,9 @@
       "plmove/walk_t_carpet_3.ogg",
       "plmove/walk_t_carpet_4.ogg",
       "plmove/walk_t_carpet_5.ogg",
-      "plmove/walk_t_carpet_6.ogg"
+      "plmove/walk_t_carpet_6.ogg",
+	  "plmove/walk_t_carpet_7.ogg",
+      "plmove/walk_t_carpet_8.ogg"
     ]
   },
   {
@@ -497,7 +592,9 @@
       "plmove/walk_t_carpet_3.ogg",
       "plmove/walk_t_carpet_4.ogg",
       "plmove/walk_t_carpet_5.ogg",
-      "plmove/walk_t_carpet_6.ogg"
+      "plmove/walk_t_carpet_6.ogg",
+	  "plmove/walk_t_carpet_7.ogg",
+      "plmove/walk_t_carpet_8.ogg"
     ]
   },
   {
@@ -511,7 +608,9 @@
       "plmove/walk_t_carpet_3.ogg",
       "plmove/walk_t_carpet_4.ogg",
       "plmove/walk_t_carpet_5.ogg",
-      "plmove/walk_t_carpet_6.ogg"
+      "plmove/walk_t_carpet_6.ogg",
+	  "plmove/walk_t_carpet_7.ogg",
+      "plmove/walk_t_carpet_8.ogg"
     ]
   },
   {
@@ -525,7 +624,9 @@
       "plmove/walk_t_carpet_3.ogg",
       "plmove/walk_t_carpet_4.ogg",
       "plmove/walk_t_carpet_5.ogg",
-      "plmove/walk_t_carpet_6.ogg"
+      "plmove/walk_t_carpet_6.ogg",
+	  "plmove/walk_t_carpet_7.ogg",
+      "plmove/walk_t_carpet_8.ogg"
     ]
   },
   {
@@ -539,7 +640,9 @@
       "plmove/walk_t_carpet_3.ogg",
       "plmove/walk_t_carpet_4.ogg",
       "plmove/walk_t_carpet_5.ogg",
-      "plmove/walk_t_carpet_6.ogg"
+      "plmove/walk_t_carpet_6.ogg",
+	  "plmove/walk_t_carpet_7.ogg",
+      "plmove/walk_t_carpet_8.ogg"
     ]
   },
   {
@@ -553,7 +656,9 @@
       "plmove/walk_t_carpet_3.ogg",
       "plmove/walk_t_carpet_4.ogg",
       "plmove/walk_t_carpet_5.ogg",
-      "plmove/walk_t_carpet_6.ogg"
+      "plmove/walk_t_carpet_6.ogg",
+	  "plmove/walk_t_carpet_7.ogg",
+      "plmove/walk_t_carpet_8.ogg"
     ]
   },
   {
@@ -567,7 +672,9 @@
       "plmove/walk_t_carpet_3.ogg",
       "plmove/walk_t_carpet_4.ogg",
       "plmove/walk_t_carpet_5.ogg",
-      "plmove/walk_t_carpet_6.ogg"
+      "plmove/walk_t_carpet_6.ogg",
+	  "plmove/walk_t_carpet_7.ogg",
+      "plmove/walk_t_carpet_8.ogg"
     ]
   },
   {
@@ -581,7 +688,9 @@
       "plmove/walk_t_carpet_3.ogg",
       "plmove/walk_t_carpet_4.ogg",
       "plmove/walk_t_carpet_5.ogg",
-      "plmove/walk_t_carpet_6.ogg"
+      "plmove/walk_t_carpet_6.ogg",
+	  "plmove/walk_t_carpet_7.ogg",
+      "plmove/walk_t_carpet_8.ogg"
     ]
   },
   {
@@ -595,7 +704,9 @@
       "plmove/walk_t_carpet_3.ogg",
       "plmove/walk_t_carpet_4.ogg",
       "plmove/walk_t_carpet_5.ogg",
-      "plmove/walk_t_carpet_6.ogg"
+      "plmove/walk_t_carpet_6.ogg",
+	  "plmove/walk_t_carpet_7.ogg",
+      "plmove/walk_t_carpet_8.ogg"
     ]
   },
   {
@@ -609,7 +720,9 @@
       "plmove/walk_t_carpet_3.ogg",
       "plmove/walk_t_carpet_4.ogg",
       "plmove/walk_t_carpet_5.ogg",
-      "plmove/walk_t_carpet_6.ogg"
+      "plmove/walk_t_carpet_6.ogg",
+	  "plmove/walk_t_carpet_7.ogg",
+      "plmove/walk_t_carpet_8.ogg"
     ]
   },
   {
@@ -623,7 +736,9 @@
       "plmove/walk_t_carpet_3.ogg",
       "plmove/walk_t_carpet_4.ogg",
       "plmove/walk_t_carpet_5.ogg",
-      "plmove/walk_t_carpet_6.ogg"
+      "plmove/walk_t_carpet_6.ogg",
+	  "plmove/walk_t_carpet_7.ogg",
+      "plmove/walk_t_carpet_8.ogg"
     ]
   },
   {
@@ -637,7 +752,9 @@
       "plmove/walk_t_carpet_3.ogg",
       "plmove/walk_t_carpet_4.ogg",
       "plmove/walk_t_carpet_5.ogg",
-      "plmove/walk_t_carpet_6.ogg"
+      "plmove/walk_t_carpet_6.ogg",
+	  "plmove/walk_t_carpet_7.ogg",
+      "plmove/walk_t_carpet_8.ogg"
     ]
   },
   {
@@ -651,7 +768,9 @@
       "plmove/walk_t_carpet_3.ogg",
       "plmove/walk_t_carpet_4.ogg",
       "plmove/walk_t_carpet_5.ogg",
-      "plmove/walk_t_carpet_6.ogg"
+      "plmove/walk_t_carpet_6.ogg",
+	  "plmove/walk_t_carpet_7.ogg",
+      "plmove/walk_t_carpet_8.ogg"
     ]
   },
   {
@@ -665,7 +784,9 @@
       "plmove/walk_t_carpet_3.ogg",
       "plmove/walk_t_carpet_4.ogg",
       "plmove/walk_t_carpet_5.ogg",
-      "plmove/walk_t_carpet_6.ogg"
+      "plmove/walk_t_carpet_6.ogg",
+	  "plmove/walk_t_carpet_7.ogg",
+      "plmove/walk_t_carpet_8.ogg"
     ]
   },
   {
