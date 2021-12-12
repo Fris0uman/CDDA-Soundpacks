@@ -1,9 +1,0 @@
-[
-  {
-    "type": "sound_effect",
-    "id" : "environment",
-    "variant" : "siren",
-    "volume" : 100,
-    "files" : [ "environment/ambient/siren.ogg" ]
-  }
-]
