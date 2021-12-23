@@ -18,6 +18,6 @@
         "id" : "open_door",
         "variant" : "t_curtains",
         "volume" : 80,
-        "files" : [ "open_door/window/open_curtains.ogg" ]
+        "files" : [ "open_door/window/open_curtain.ogg" ]
     }
 ]
