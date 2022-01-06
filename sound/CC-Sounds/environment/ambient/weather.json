@@ -1,0 +1,19 @@
+[
+{
+		"type": "sound_effect",
+		"id" : "environment",
+		"variant" : "weather_cloudy",
+		"volume" : 100,
+		"files" : [ "environment/ambient/weather_cloudy.ogg" 
+					]
+	},
+	{
+		"type": "sound_effect",
+		"id" : "environment",
+		"variant" : "weather_clear",
+		"volume" : 100,
+		"files" : [ "environment/ambient/weather_clear.ogg" 
+					]
+	}
+	
+]
