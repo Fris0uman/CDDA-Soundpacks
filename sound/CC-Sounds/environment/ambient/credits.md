@@ -7,3 +7,5 @@
 | nighttime.ogg | Peter Havran (Raven 2236) | CC BY-NC-SA 2.0 | |
 | siren.ogg | Peter Havran (Raven 2236) | CC BY-NC-SA 2.0 | |
 | underground.ogg | Peter Havran (Raven 2236) | CC BY-NC-SA 2.0 | |
+| weather_clear | Peter Havran (Raven 2236) | CC BY-NC-SA 2.0 | |
+| weather_cloudy | Peter Havran (Raven 2236) | CC BY-NC-SA 2.0 | |
