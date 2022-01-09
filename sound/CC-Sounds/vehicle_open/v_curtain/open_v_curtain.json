@@ -3,5 +3,5 @@
         "id" : "vehicle_open",
         "variant" : "v_curtain",
         "volume" : 70,
-        "files" : [ "open_door/window/open_curtains.ogg" ]
+        "files" : [ "open_door/window/open_curtain.ogg" ]
 }
