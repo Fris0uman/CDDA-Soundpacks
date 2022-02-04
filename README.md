@@ -2,6 +2,9 @@
 A continuation of the `CO.AG soundpack` initiated by **SkyBreach**.
 This version aims to provide a quality soundpack using CC0 or CC-BY ressources with proper attribution.
 
+## Download
+Get the latest release from there: [[release]](https://github.com/Fris0uman/CDDA-Soundpacks/releases)
+
 ## Music
 All music tracks were composed and produced by **CO.AG**.
 
