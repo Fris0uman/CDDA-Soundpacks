@@ -1,0 +1,12 @@
+[
+  {
+    "type": "sound_effect",
+    "id" : "environment",
+    "variant" : "thunder_far",
+    "volume" : 100,
+    "files" : [ "environment/weather/thunder_far_1.ogg",
+		     "environment/weather/thunder_far_2.ogg",
+		     "environment/weather/thunder_far_3.ogg",
+		     "environment/weather/thunder_far_4.ogg" ]
+  }
+]

@@ -1,0 +1,9 @@
+[
+  {
+    "type": "sound_effect",
+    "id" : "environment",
+    "variant" : "WEATHER_FLURRIES",
+    "volume" : 100,
+    "files" : [ "environment/weather/flurries.ogg" ]
+  }
+]

@@ -4,6 +4,6 @@
     "id" : "environment",
     "variant" : "WEATHER_RAINY",
     "volume" : 100,
-    "files" : [ "environment/rain/heavyrain.ogg" ]
+    "files" : [ "environment/weather/heavyrain.ogg" ]
   }
 ]
