@@ -1,0 +1,9 @@
+[
+  {
+    "type": "sound_effect",
+    "id" : "environment",
+    "variant" : "WEATHER_SNOWSTORM",
+    "volume" : 100,
+    "files" : [ "environment/rain/WEATHER_SNOWSTORM.ogg" ]
+  }
+]
