@@ -4,6 +4,6 @@
     "id" : "environment",
     "variant" : "WEATHER_THUNDER",
     "volume" : 100,
-    "files" : [ "environment/rain/thunderstorm.ogg" ]
+    "files" : [ "environment/weather/thunderstorm.ogg" ]
   }
 ]

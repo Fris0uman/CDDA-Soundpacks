@@ -1,9 +1,0 @@
-[
-  {
-    "type": "sound_effect",
-    "id" : "environment",
-    "variant" : "WEATHER_SNOW",
-    "volume" : 100,
-    "files" : [ "environment/rain/snowing.ogg" ]
-  }
-]

@@ -1,0 +1,34 @@
+[
+  {
+    "type": "sound_effect",
+    "id": "environment",
+    "variant": "WEATHER_CLEAR",
+    "volume": 100,
+    "season": "spring",
+    "files": [ "environment/weather/weather_clear/weather_clear_spring.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "environment",
+    "variant": "WEATHER_CLEAR",
+    "volume": 100,
+    "season": "summer",
+    "files": [ "environment/weather/weather_clear/weather_clear_summer.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "environment",
+    "variant": "WEATHER_CLEAR",
+    "volume": 100,
+    "season": "winter",
+    "files": [ "environment/weather/weather_clear/weather_clear_winter.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "environment",
+    "variant": "WEATHER_CLEAR",
+    "volume": 100,
+    "season": "autumn",
+    "files": [ "environment/weather/weather_clear/weather_clear_autumn.ogg" ]
+  }
+]

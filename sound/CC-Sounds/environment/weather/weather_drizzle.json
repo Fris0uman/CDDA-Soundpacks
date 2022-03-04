@@ -4,6 +4,6 @@
     "id" : "environment",
     "variant" : "WEATHER_DRIZZLE",
     "volume" : 100,
-    "files" : [ "environment/rain/drizzle.ogg" ]
+    "files" : [ "environment/weather/drizzle.ogg" ]
   }
 ]
