@@ -1,0 +1,51 @@
+name: JSON Validation
+
+on: pull_request
+
+jobs:
+  skip-duplicates:
+    continue-on-error: true
+    runs-on: ubuntu-latest
+    # Map a step output to a job output
+    outputs:
+      should_skip: ${{ steps.skip_check.outputs.should_skip }}
+    steps:
+    - id: skip_check
+      uses: fkirc/skip-duplicate-actions@master
+      with:
+        cancel_others: 'true'
+        paths: '["**.json", ".github/workflows/json.yml"]'
+    - run: echo ${{ github.event.number }} > pull_request_id
+    - uses: actions/upload-artifact@v2
+      with:
+        name: pull_request_id
+        path: pull_request_id
+  style-json:
+    name: JSON style check
+
+    runs-on: ubuntu-latest
+    needs: skip-duplicates
+    if: ${{ needs.skip-duplicates.outputs.should_skip != 'true' }}
+
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        fetch-depth: 1
+    - name: Shallow clone of CDDA
+      uses: actions/checkout@v2
+      with:
+        repository: CleverRaven/Cataclysm-DDA
+        fetch-depth: 1
+        path: tools/cdda-format
+        ref: master
+    - name: JSON style check
+      run: |
+        cd tools/cdda-format
+        make tools/format/json_formatter.cgi RELEASE=1 ASTYLE=0
+        cp tools/format/json_formatter.cgi ../
+        cd ../..
+        rm -rf tools/cdda-format
+        find . -name "*.json" -print0 | xargs -0 -L 1 -P $(nproc) tools/json_formatter.cgi
+    - name: Display Corrections
+      if: failure()
+      run: git diff
