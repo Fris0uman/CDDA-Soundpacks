@@ -4,6 +4,8 @@
     "id": "mon_gibbed",
     "variant": "zombie_gibbed",
     "volume": 100,
-    "files": [ "mon_gibbed/zombie_gibbed_1.ogg", "mon_gibbed/zombie_gibbed_2.ogg" ]
+    "//file1": "TODO: mon_gibbed/zombie_gibbed/zombie_gibbed_1.ogg",
+    "//file2": "TODO: mon_gibbed/zombie_gibbed/zombie_gibbed_2.ogg",
+    "files": [  ]
   }
 ]
