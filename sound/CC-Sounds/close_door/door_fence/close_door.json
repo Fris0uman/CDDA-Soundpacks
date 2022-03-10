@@ -2,7 +2,7 @@
   {
     "type": "sound_effect",
     "id": "close_door",
-    "variant" : " t_chaingate_c ",
+    "variant": " t_chaingate_c ",
     "volume": 100,
     "files": [ "close_door/door_fence/close_door_fence.ogg" ]
   }

@@ -4,8 +4,6 @@
     "id": "menu_move",
     "variant": "default",
     "volume": 50,
-    "files": [
-      "menu_move/menu_move.ogg"
-    ]
+    "files": [ "menu_move/menu_move.ogg" ]
   }
 ]
