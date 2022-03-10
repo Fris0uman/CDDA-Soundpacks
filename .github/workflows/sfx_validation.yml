@@ -1,0 +1,14 @@
+name: SFX field validation
+
+on: pull_request
+
+jobs:
+  field-check:
+    name: SFX field validation
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        fetch-depth: 1
+    - name: Run validation script
+      run: python3 tools/validate_fields.py sound/CC-Sounds/
