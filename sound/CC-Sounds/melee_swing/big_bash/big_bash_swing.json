@@ -4,8 +4,6 @@
     "id": "melee_swing",
     "variant": "big_bash",
     "volume": 100,
-    "files": [
-      "melee_swing/big_bash/big_bash_swing_1.ogg"
-    ]
+    "files": [ "melee_swing/big_bash/big_bash_swing_1.ogg" ]
   }
 ]

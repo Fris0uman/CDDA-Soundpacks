@@ -1,9 +1,9 @@
 [
   {
     "type": "sound_effect",
-    "id" : "environment",
-    "variant" : "nighttime",
-    "volume" : 100,
-    "files" : [ "environment/ambient/nighttime.ogg" ]
+    "id": "environment",
+    "variant": "nighttime",
+    "volume": 100,
+    "files": [ "environment/ambient/nighttime.ogg" ]
   }
 ]

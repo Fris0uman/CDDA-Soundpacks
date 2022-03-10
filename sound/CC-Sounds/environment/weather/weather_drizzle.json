@@ -1,9 +1,9 @@
 [
   {
     "type": "sound_effect",
-    "id" : "environment",
-    "variant" : "WEATHER_DRIZZLE",
-    "volume" : 100,
-    "files" : [ "environment/weather/drizzle.ogg" ]
+    "id": "environment",
+    "variant": "WEATHER_DRIZZLE",
+    "volume": 100,
+    "files": [ "environment/weather/drizzle.ogg" ]
   }
 ]

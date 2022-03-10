@@ -4,8 +4,6 @@
     "id": "menu_error",
     "variant": "default",
     "volume": 100,
-    "files": [
-      "menu_error/menu_error.ogg"
-    ]
+    "files": [ "menu_error/menu_error.ogg" ]
   }
 ]
