@@ -11,4 +11,4 @@ jobs:
       with:
         fetch-depth: 1
     - name: Run validation script
-      run: python3 tools/validate_unreferenced_sndfile.py sound/CC-Sounds/
+      run: python3 tools/validate_unreferenced_sndfile.py sound/CC-Sounds/ GHA

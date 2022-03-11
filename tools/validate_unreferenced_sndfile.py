@@ -7,6 +7,7 @@ import sys
 
 args = argparse.ArgumentParser()
 args.add_argument("dir", action="store", help="specify json directory")
+args.add_argument("fmt", action="store", help="escapes output if set to GHA")
 args_dict = vars(args.parse_args())
 
 
@@ -31,6 +32,30 @@ snd_exts = {
     ".aif",
     ".mpega"
 }
+
+
+def gha_escape(msg: str) -> str:
+    msg = msg.replace("%", "%25")
+    msg = msg.replace("\r", "%0D")
+    msg = msg.replace("\n", "%0A")
+    return msg
+
+
+def printout(msg: str, err_lvl: int):
+    if args_dict["fmt"] == "GHA":
+        errmsg = " + "
+        if err_lvl == 1:
+            errmsg = "::Warning::"
+        elif err_lvl == 2:
+            errmsg = "::Error::"
+        print("{}{}".format(errmsg, gha_escape(msg)))
+    else:
+        errmsg = " + "
+        if err_lvl == 1:
+            errmsg = " - Warning: "
+        elif err_lvl == 2:
+            errmsg = " - Error: "
+        print("{}{}".format(errmsg, msg))
 
 
 def find_obj_ref(sndfile, jo) -> bool:
@@ -67,10 +92,9 @@ def match_file(path) -> bool:
             json_file = os.path.join(root, filename)
             if json_file.endswith(".json"):
                 if find_ref(path, json_file):
-                    print(" + Found reference in {}".format(json_file))
+                    printout("Found reference in {}".format(json_file), 0)
                     return True
-    print(" - Error: No JSON reference for sound file {}".format(path),
-          file=sys.stderr)
+    printout("No JSON reference for sound file {}".format(path), 2)
     return False
 
 
@@ -82,10 +106,10 @@ def check_credits(path) -> bool:
                 cred_file = os.path.join(root, filename)
                 with open(cred_file, "r", encoding="utf-8") as credata:
                     if fname in credata.read():
-                        print(" + Found credit entry for \"{}\" in {}"
-                              .format(fname, cred_file))
+                        printout("Found credit entry for \"{}\" in {}"
+                                 .format(fname, cred_file), 0)
                         return True
-    print(" - Error: No credits entry for \"{}\"".format(fname))
+    printout("No credits entry for \"{}\"".format(fname), 2)
     return False
 
 
@@ -106,7 +130,7 @@ for root, dirs, filenames in os.walk(args_dict["dir"]):
                 retval = 1
 
 if at_least_one == False:
-    print("Error: No sound files processed", file=sys.stderr)
+    printout("No sound files processed", 2)
     retval = 1
 
 sys.exit(retval)
