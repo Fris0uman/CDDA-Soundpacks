@@ -1,0 +1,14 @@
+name: Sound file reference check
+
+on: pull_request
+
+jobs:
+  field-check:
+    name: Sound file reference check
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        fetch-depth: 1
+    - name: Run validation script
+      run: python3 tools/validate_unreferenced_sndfile.py sound/CC-Sounds/
