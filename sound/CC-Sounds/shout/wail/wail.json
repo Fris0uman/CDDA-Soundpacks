@@ -3,7 +3,7 @@
     "type": "sound_effect",
     "id": "shout",
     "variant": "wail",
-    "volume": 70,
+    "volume": 40,
     "files": [ "shout/wail/wail.ogg" ]
   }
 ]

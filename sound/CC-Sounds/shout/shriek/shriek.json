@@ -3,7 +3,7 @@
     "type": "sound_effect",
     "id": "shout",
     "variant": "shriek",
-    "volume": 70,
+    "volume": 40,
     "files": [ "shout/shriek/shriek_1.ogg", "shout/shriek/shriek_2.ogg" ]
   }
 ]
