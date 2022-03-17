@@ -1,6 +1,6 @@
 | File Name        | Author   | License   | Link                            |
 |------------------|----------|-----------|---------------------------------|
-| weather_clear_spring | Peter Havran (Raven 2236) | **CC BY-NC-SA 2.0** | |
-| weather_clear_summer | klankbeeld | **CC BY 3.0** | https://freesound.org/people/klankbeeld/sounds/436105/ |
-| weather_clear_autumn | Mountain852 | **CC BY-NC 3.0** | https://freesound.org/people/Mountain852/sounds/365821/ |
-| weather_clear_winter | matucha | **CC BY-NC 3.0** | https://freesound.org/people/matucha/sounds/192139/ |
+| weather_clear_spring.ogg | Peter Havran (Raven 2236) | **CC BY-NC-SA 2.0** | |
+| weather_clear_summer.ogg | klankbeeld | **CC BY 3.0** | https://freesound.org/people/klankbeeld/sounds/436105/ |
+| weather_clear_autumn.ogg | Mountain852 | **CC BY-NC 3.0** | https://freesound.org/people/Mountain852/sounds/365821/ |
+| weather_clear_winter.ogg | matucha | **CC BY-NC 3.0** | https://freesound.org/people/matucha/sounds/192139/ |
