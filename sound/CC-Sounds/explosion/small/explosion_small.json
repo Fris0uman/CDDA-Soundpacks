@@ -4,8 +4,6 @@
     "id": "explosion",
     "variant": "small",
     "volume": 100,
-    "files": [
-      "explosion/small/explosion_small.ogg"
-    ]
+    "files": [ "explosion/small/explosion_small.ogg" ]
   }
 ]
