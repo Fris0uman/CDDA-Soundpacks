@@ -4,7 +4,7 @@
 | drizzle.ogg | klankbeeld | **CC BY 3.0** | https://freesound.org/people/klankbeeld/sounds/325442/ |
 | flurries.ogg | florianreichelt | **CC0 1.0** | https://freesound.org/people/florianreichelt/sounds/453167/ |
 | heavyrain.ogg | Ali@k | **CC0 1.0** | https://freesound.org/people/Ali@k/sounds/128907/ |
-| snowing.ogg | Peter Havran (Raven 2236) | **CC BY-NC-SA 2.0** | |
+| snowing.ogg | klankbeeld | **CC BY 3.0** | https://freesound.org/people/klankbeeld/sounds/580316/ |
 | thunder_near.ogg | mrsorbias | **CC BY 3.0** | https://freesound.org/people/mrsorbias/sounds/574687/ |
 | thunderstorm.ogg | Peter Havran (Raven 2236) | **CC BY-NC-SA 2.0** | |
 | WEATHER_SNOWSTORM.ogg | guyburns | **CC 0** | https://freesound.org/people/guyburns/sounds/473815/ |
