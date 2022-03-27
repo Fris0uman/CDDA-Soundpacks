@@ -1,3 +1,3 @@
 | File Name        | Author   | License   | Link                            |
 |------------------|----------|-----------|---------------------------------|
-| horn_medium.ogg | 14FValtrovaT | **CC-BY-NC** | https://freesound.org/people/14FValtrovaT/sounds/419698/ |
+| horn_medium.ogg | Legnalegna55 | **CC0 1.0** | https://freesound.org/people/Legnalegna55/sounds/545015/ |
