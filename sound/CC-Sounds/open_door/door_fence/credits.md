@@ -1,3 +1,3 @@
 | File Name        | Author   | License   | Link                            |
 |------------------|----------|-----------|---------------------------------|
-| open_door_fence.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** |  |
+| open_door_fence.ogg | quality83 | **CC0 1.0** | https://freesound.org/people/quality83/sounds/546160/ |
