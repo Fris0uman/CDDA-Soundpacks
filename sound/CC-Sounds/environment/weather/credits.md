@@ -1,7 +1,7 @@
 | File Name        | Author   | License   | Link                            |
 |------------------|----------|-----------|---------------------------------|
 | indoors_rain.ogg | InspectorJ (mix by Peter Havran Raven 2236) | **CC-BY** | https://freesound.org/people/InspectorJ/sounds/346641/ |
-| drizzle.ogg | Peter Havran (Raven 2236) | **CC BY-NC-SA 2.0** | |
+| drizzle.ogg | klankbeeld | **CC BY 3.0** | https://freesound.org/people/klankbeeld/sounds/325442/ |
 | flurries.ogg | Peter Havran (Raven 2236) | **CC BY-NC-SA 2.0** | |
 | heavyrain.ogg | Peter Havran (Raven 2236) | **CC BY-NC-SA 2.0** | |
 | snowing.ogg | Peter Havran (Raven 2236) | **CC BY-NC-SA 2.0** | |
