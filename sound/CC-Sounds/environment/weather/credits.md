@@ -6,5 +6,6 @@
 | heavyrain.ogg | Ali@k | **CC0 1.0** | https://freesound.org/people/Ali@k/sounds/128907/ |
 | snowing.ogg | klankbeeld | **CC BY 3.0** | https://freesound.org/people/klankbeeld/sounds/580316/ |
 | thunder_near.ogg | mrsorbias | **CC BY 3.0** | https://freesound.org/people/mrsorbias/sounds/574687/ |
+| thunder_far.ogg | chromakei | **CC0 1.0** | https://freesound.org/people/chromakei/sounds/398287/ |
 | thunderstorm.ogg | bruno.auzet | **CC0 1.0** | https://freesound.org/people/bruno.auzet/sounds/531041/ |
 | WEATHER_SNOWSTORM.ogg | guyburns | **CC 0** | https://freesound.org/people/guyburns/sounds/473815/ |
