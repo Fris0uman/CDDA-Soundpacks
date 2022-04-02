@@ -6,15 +6,6 @@
 | walk_dirt_4.ogg | nuFF3 | **CC-BY** | https://freesound.org/s/477392/ |
 | walk_dirt_5.ogg | nuFF3 | **CC-BY** | https://freesound.org/s/477391/ |
 | walk_dirt_6.ogg | nuFF3 | **CC-BY** | https://freesound.org/s/477390/ |
-| walk_metal_1.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
-| walk_metal_2.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
-| walk_metal_3.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
-| walk_metal_4.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
-| walk_metal_5.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
-| walk_metal_6.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
-| walk_metal_7.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
-| walk_metal_8.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
-| walk_metal_9.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
 | walk_barefoot_1.ogg | SpliceSound | **CC0** | https://freesound.org/s/338106/ |
 | walk_barefoot_2.ogg | SpliceSound | **CC0** | https://freesound.org/s/338106/ |
 | walk_barefoot_3.ogg | SpliceSound | **CC0** | https://freesound.org/s/338106/ |
