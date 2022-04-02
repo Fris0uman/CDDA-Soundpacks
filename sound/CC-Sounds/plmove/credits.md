@@ -1,12 +1,5 @@
 | File Name        | Author   | License   | Link                            |
 |------------------|----------|-----------|---------------------------------|
-| walk_grass_1.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
-| walk_grass_2.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
-| walk_grass_3.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
-| walk_grass_4.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
-| walk_grass_5.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
-| walk_grass_6.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
-| walk_grass_7.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
 | walk_dirt_1.ogg | nuFF3 | **CC-BY** | https://freesound.org/s/477396/ |
 | walk_dirt_2.ogg | nuFF3 | **CC-BY** | https://freesound.org/s/477395/ |
 | walk_dirt_3.ogg | nuFF3 | **CC-BY** | https://freesound.org/s/477394/ |
