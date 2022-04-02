@@ -36,14 +36,6 @@
 | walk_t_rock_floor_2.ogg | samulis | **CC0** | https://freesound.org/s/197780/ |
 | walk_t_rock_floor_3.ogg | samulis | **CC0** | https://freesound.org/s/197779/ |
 | walk_t_rock_floor_4.ogg | samulis | **CC0** | https://freesound.org/s/197778/ |
-| walk_t_carpet_1.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
-| walk_t_carpet_2.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
-| walk_t_carpet_3.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
-| walk_t_carpet_4.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
-| walk_t_carpet_5.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
-| walk_t_carpet_6.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
-| walk_t_carpet_7.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
-| walk_t_carpet_8.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
 | walk_t_gravel_10.ogg | ali-6868 | **CC0** | https://freesound.org/s/384880/ |
 | walk_t_gravel_9.ogg | ali-6868 | **CC0** | https://freesound.org/s/384879/ |
 | walk_t_gravel_8.ogg | ali-6868 | **CC0** | https://freesound.org/s/384878/ |
