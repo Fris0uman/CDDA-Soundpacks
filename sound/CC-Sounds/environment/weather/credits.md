@@ -1,16 +1,11 @@
 | File Name        | Author   | License   | Link                            |
 |------------------|----------|-----------|---------------------------------|
 | indoors_rain.ogg | InspectorJ (mix by Peter Havran Raven 2236) | **CC-BY** | https://freesound.org/people/InspectorJ/sounds/346641/ |
-| drizzle.ogg | Peter Havran (Raven 2236) | **CC BY-NC-SA 2.0** | |
-| flurries.ogg | Peter Havran (Raven 2236) | **CC BY-NC-SA 2.0** | |
-| heavyrain.ogg | Peter Havran (Raven 2236) | **CC BY-NC-SA 2.0** | |
-| snowing.ogg | Peter Havran (Raven 2236) | **CC BY-NC-SA 2.0** | |
-| thunder_far_1.ogg | Peter Havran (Raven 2236) | **CC BY-NC-SA 2.0** | |
-| thunder_far_2.ogg | Peter Havran (Raven 2236) | **CC BY-NC-SA 2.0** | |
-| thunder_far_3.ogg | Peter Havran (Raven 2236) | **CC BY-NC-SA 2.0** | |
-| thunder_far_4.ogg | Peter Havran (Raven 2236) | **CC BY-NC-SA 2.0** | |
-| thunder_near_1.ogg | Peter Havran (Raven 2236) | **CC BY-NC-SA 2.0** | |
-| thunder_near_2.ogg | Peter Havran (Raven 2236) | **CC BY-NC-SA 2.0** | |
-| thunder_near_3.ogg | Peter Havran (Raven 2236) | **CC BY-NC-SA 2.0** | |
-| thunderstorm.ogg | Peter Havran (Raven 2236) | **CC BY-NC-SA 2.0** | |
+| drizzle.ogg | klankbeeld | **CC BY 3.0** | https://freesound.org/people/klankbeeld/sounds/325442/ |
+| flurries.ogg | florianreichelt | **CC0 1.0** | https://freesound.org/people/florianreichelt/sounds/453167/ |
+| heavyrain.ogg | Ali@k | **CC0 1.0** | https://freesound.org/people/Ali@k/sounds/128907/ |
+| snowing.ogg | klankbeeld | **CC BY 3.0** | https://freesound.org/people/klankbeeld/sounds/580316/ |
+| thunder_near.ogg | mrsorbias | **CC BY 3.0** | https://freesound.org/people/mrsorbias/sounds/574687/ |
+| thunder_far.ogg | chromakei | **CC0 1.0** | https://freesound.org/people/chromakei/sounds/398287/ |
+| thunderstorm.ogg | bruno.auzet | **CC0 1.0** | https://freesound.org/people/bruno.auzet/sounds/531041/ |
 | WEATHER_SNOWSTORM.ogg | guyburns | **CC 0** | https://freesound.org/people/guyburns/sounds/473815/ |

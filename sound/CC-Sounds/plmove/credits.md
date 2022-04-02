@@ -1,27 +1,11 @@
 | File Name        | Author   | License   | Link                            |
 |------------------|----------|-----------|---------------------------------|
-| walk_grass_1.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
-| walk_grass_2.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
-| walk_grass_3.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
-| walk_grass_4.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
-| walk_grass_5.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
-| walk_grass_6.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
-| walk_grass_7.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
 | walk_dirt_1.ogg | nuFF3 | **CC-BY** | https://freesound.org/s/477396/ |
 | walk_dirt_2.ogg | nuFF3 | **CC-BY** | https://freesound.org/s/477395/ |
 | walk_dirt_3.ogg | nuFF3 | **CC-BY** | https://freesound.org/s/477394/ |
 | walk_dirt_4.ogg | nuFF3 | **CC-BY** | https://freesound.org/s/477392/ |
 | walk_dirt_5.ogg | nuFF3 | **CC-BY** | https://freesound.org/s/477391/ |
 | walk_dirt_6.ogg | nuFF3 | **CC-BY** | https://freesound.org/s/477390/ |
-| walk_metal_1.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
-| walk_metal_2.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
-| walk_metal_3.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
-| walk_metal_4.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
-| walk_metal_5.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
-| walk_metal_6.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
-| walk_metal_7.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
-| walk_metal_8.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
-| walk_metal_9.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
 | walk_barefoot_1.ogg | SpliceSound | **CC0** | https://freesound.org/s/338106/ |
 | walk_barefoot_2.ogg | SpliceSound | **CC0** | https://freesound.org/s/338106/ |
 | walk_barefoot_3.ogg | SpliceSound | **CC0** | https://freesound.org/s/338106/ |
@@ -42,46 +26,16 @@
 | walk_water_8.ogg | dawidwmika | **CC0** | https://freesound.org/s/372518/ |
 | walk_water_9.ogg | dawidwmika | **CC0** | https://freesound.org/s/372518/ |
 | walk_water_10.ogg | dawidwmika | **CC0** | https://freesound.org/s/372518/ |
-| clear_obstacle_1.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
-| clear_obstacle_5.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
-| clear_obstacle_6.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
-| clear_obstacle_7.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
-| clear_obstacle_8.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
-| clear_obstacle_2.ogg | MWsfx | **CC0** | https://freesound.org/s/574247/ |
-| clear_obstacle_3.ogg | MWsfx | **CC0** | https://freesound.org/s/574247/ |
-| clear_obstacle_4.ogg | MWsfx | **CC0** | https://freesound.org/s/574247/ |
 | walk_t_water_sh_1.ogg | nathanaelj83 | **CC0** | https://freesound.org/s/145242/ |
 | walk_t_water_sh_2.ogg | duckduckpony | **CC-BY** | https://freesound.org/s/204017/ |
 | walk_t_water_sh_3.ogg | duckduckpony | **CC-BY** | https://freesound.org/s/204035/ |
 | walk_t_water_sh_4.ogg | duckduckpony | **CC-BY** | https://freesound.org/s/204034/ |
 | walk_t_water_sh_5.ogg | duckduckpony | **CC-BY** | https://freesound.org/s/204033/ |
 | walk_t_water_sh_6.ogg | duckduckpony | **CC-BY** | https://freesound.org/s/204032/ |
-| walk_t_floor_1.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
-| walk_t_floor_2.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
-| walk_t_floor_3.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
-| walk_t_floor_4.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
-| walk_t_floor_5.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
-| walk_t_floor_6.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
-| walk_t_floor_7.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
-| walk_t_floor_8.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
-| walk_t_floor_9.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
-| walk_t_floor_10.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
-| walk_t_floor_11.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
-| walk_t_floor_12.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
-| walk_t_floor_13.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
-| walk_t_floor_14.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
 | walk_t_rock_floor_1.ogg | samulis | **CC0** | https://freesound.org/s/197781/ |
 | walk_t_rock_floor_2.ogg | samulis | **CC0** | https://freesound.org/s/197780/ |
 | walk_t_rock_floor_3.ogg | samulis | **CC0** | https://freesound.org/s/197779/ |
 | walk_t_rock_floor_4.ogg | samulis | **CC0** | https://freesound.org/s/197778/ |
-| walk_t_carpet_1.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
-| walk_t_carpet_2.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
-| walk_t_carpet_3.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
-| walk_t_carpet_4.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
-| walk_t_carpet_5.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
-| walk_t_carpet_6.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
-| walk_t_carpet_7.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
-| walk_t_carpet_8.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
 | walk_t_gravel_10.ogg | ali-6868 | **CC0** | https://freesound.org/s/384880/ |
 | walk_t_gravel_9.ogg | ali-6868 | **CC0** | https://freesound.org/s/384879/ |
 | walk_t_gravel_8.ogg | ali-6868 | **CC0** | https://freesound.org/s/384878/ |
@@ -102,16 +56,3 @@
 | walk_t_concrete_8.ogg | InspectorJ| **CC-BY** | https://freesound.org/s/336598/ |
 | walk_t_concrete_9.ogg | InspectorJ| **CC-BY** | https://freesound.org/s/336598/ |
 | walk_t_concrete_10.ogg | InspectorJ| **CC-BY** | https://freesound.org/s/336598/ |
-| walk_t_grass_long_1.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
-| walk_t_grass_long_2.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
-| walk_t_grass_long_3.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
-| walk_t_grass_long_4.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
-| walk_t_grass_long_5.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
-| walk_t_grass_long_6.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
-| walk_t_grass_long_7.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
-| walk_t_grass_long_8.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
-| walk_t_grass_long_9.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
-| walk_t_grass_long_10.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
-| walk_t_grass_long_11.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
-| walk_t_grass_long_12.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
-| walk_t_grass_long_13.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||

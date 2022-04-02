@@ -1,3 +1,3 @@
 | File Name        | Author   | License   | Link                            |
 |------------------|----------|-----------|---------------------------------|
-| open_door       | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0**    |     |
+| open_door_metal.ogg | Fabrizio84 | **CC0 1.0** | https://freesound.org/people/Fabrizio84/sounds/457550/ |

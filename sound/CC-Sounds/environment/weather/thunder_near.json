@@ -4,10 +4,6 @@
     "id": "environment",
     "variant": "thunder_near",
     "volume": 100,
-    "files": [
-      "environment/weather/thunder_near_1.ogg",
-      "environment/weather/thunder_near_2.ogg",
-      "environment/weather/thunder_near_3.ogg"
-    ]
+    "files": [ "environment/weather/thunder_near.ogg" ]
   }
 ]
