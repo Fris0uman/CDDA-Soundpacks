@@ -56,16 +56,3 @@
 | walk_t_concrete_8.ogg | InspectorJ| **CC-BY** | https://freesound.org/s/336598/ |
 | walk_t_concrete_9.ogg | InspectorJ| **CC-BY** | https://freesound.org/s/336598/ |
 | walk_t_concrete_10.ogg | InspectorJ| **CC-BY** | https://freesound.org/s/336598/ |
-| walk_t_grass_long_1.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
-| walk_t_grass_long_2.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
-| walk_t_grass_long_3.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
-| walk_t_grass_long_4.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
-| walk_t_grass_long_5.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
-| walk_t_grass_long_6.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
-| walk_t_grass_long_7.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
-| walk_t_grass_long_8.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
-| walk_t_grass_long_9.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
-| walk_t_grass_long_10.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
-| walk_t_grass_long_11.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
-| walk_t_grass_long_12.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
-| walk_t_grass_long_13.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
