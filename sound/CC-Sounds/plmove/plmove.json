@@ -69,22 +69,6 @@
   {
     "type": "sound_effect",
     "id": "plmove",
-    "variant": "clear_obstacle",
-    "volume": 40,
-    "files": [
-      "plmove/clear_obstacle_1.ogg",
-      "plmove/clear_obstacle_3.ogg",
-      "plmove/clear_obstacle_2.ogg",
-      "plmove/clear_obstacle_4.ogg",
-      "plmove/clear_obstacle_5.ogg",
-      "plmove/clear_obstacle_6.ogg",
-      "plmove/clear_obstacle_7.ogg",
-      "plmove/clear_obstacle_8.ogg"
-    ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "plmove",
     "variant": "t_water_sh",
     "volume": 50,
     "files": [

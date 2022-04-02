@@ -26,14 +26,6 @@
 | walk_water_8.ogg | dawidwmika | **CC0** | https://freesound.org/s/372518/ |
 | walk_water_9.ogg | dawidwmika | **CC0** | https://freesound.org/s/372518/ |
 | walk_water_10.ogg | dawidwmika | **CC0** | https://freesound.org/s/372518/ |
-| clear_obstacle_1.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
-| clear_obstacle_5.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
-| clear_obstacle_6.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
-| clear_obstacle_7.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
-| clear_obstacle_8.ogg | Peter Havran (Raven2236) | **CC BY-NC-SA 2.0** ||
-| clear_obstacle_2.ogg | MWsfx | **CC0** | https://freesound.org/s/574247/ |
-| clear_obstacle_3.ogg | MWsfx | **CC0** | https://freesound.org/s/574247/ |
-| clear_obstacle_4.ogg | MWsfx | **CC0** | https://freesound.org/s/574247/ |
 | walk_t_water_sh_1.ogg | nathanaelj83 | **CC0** | https://freesound.org/s/145242/ |
 | walk_t_water_sh_2.ogg | duckduckpony | **CC-BY** | https://freesound.org/s/204017/ |
 | walk_t_water_sh_3.ogg | duckduckpony | **CC-BY** | https://freesound.org/s/204035/ |
