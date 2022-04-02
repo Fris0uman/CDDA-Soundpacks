@@ -6,7 +6,7 @@ This version aims to provide a quality soundpack using CC0 or CC-BY ressources w
 Get the latest release from there: [[release]](https://github.com/Fris0uman/CDDA-Soundpacks/releases)
 
 ## Music
-All music tracks were composed and produced by **CO.AG**.
+All music tracks were composed and produced by **CO.AG**, and used with their [permission](CO.AG_authorisation.txt).
 
 - [CO.AG Facebook](https://www.facebook.com/COAG-Music-146339785905623/)
 - [CO.AG YouTube Channel](https://www.youtube.com/channel/UCcavSftXHgxLBWwLDm_bNvA)
