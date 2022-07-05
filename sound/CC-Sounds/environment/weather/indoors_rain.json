@@ -4,6 +4,7 @@
     "id": "environment",
     "variant": "indoors_rain",
     "volume": 100,
+    "is_indoors": true,
     "files": [ "environment/weather/indoors_rain.ogg" ]
   }
 ]

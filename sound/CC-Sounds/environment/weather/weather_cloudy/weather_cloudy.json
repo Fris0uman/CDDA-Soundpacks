@@ -4,6 +4,7 @@
     "id": "environment",
     "variant": "WEATHER_CLOUDY",
     "volume": 100,
+    "is_indoors": false,
     "season": "spring",
     "files": [ "environment/weather/weather_cloudy/weather_cloudy_spring.ogg" ]
   },
@@ -12,6 +13,7 @@
     "id": "environment",
     "variant": "WEATHER_CLOUDY",
     "volume": 100,
+    "is_indoors": false,
     "season": "autumn",
     "files": [ "environment/weather/weather_cloudy/weather_cloudy_autumn.ogg" ]
   },
@@ -20,6 +22,7 @@
     "id": "environment",
     "variant": "WEATHER_CLOUDY",
     "volume": 100,
+    "is_indoors": false,
     "season": "winter",
     "files": [ "environment/weather/weather_cloudy/weather_cloudy_winter.ogg" ]
   },
@@ -28,6 +31,7 @@
     "id": "environment",
     "variant": "WEATHER_CLOUDY",
     "volume": 100,
+    "is_indoors": false,
     "season": "summer",
     "files": [ "environment/weather/weather_cloudy/weather_cloudy_summer.ogg" ]
   }
