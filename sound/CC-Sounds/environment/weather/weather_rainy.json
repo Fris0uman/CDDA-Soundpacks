@@ -4,6 +4,7 @@
     "id": "environment",
     "variant": "WEATHER_RAINY",
     "volume": 100,
+    "is_indoors": false,
     "files": [ "environment/weather/heavyrain.ogg" ]
   }
 ]
