@@ -10,27 +10,10 @@ args.add_argument("dir", action="store", help="specify json directory")
 args.add_argument("fmt", action="store", help="escapes output if set to GHA")
 args_dict = vars(args.parse_args())
 
-
-snd_exts = {
-    ".ogg",
-    ".wav",
-    ".mp3",
-    ".aac",
-    ".opus",
-    ".flac",
-    ".midi",
-    ".aax",
-    ".m4a",
-    ".bnk",
-    ".wma",
-    ".aiff",
-    ".raw",
-    ".fla",
-    ".mpa",
-    ".oga",
-    ".m3a",
-    ".aif",
-    ".mpega"
+txt_exts = {
+    ".json",
+    ".txt",
+    ".md"
 }
 
 
@@ -120,7 +103,7 @@ for root, dirs, filenames in os.walk(args_dict["dir"]):
     for filename in filenames:
         path = os.path.join(root, filename)
         ext = os.path.splitext(filename)
-        if ext[1].lower() in snd_exts:
+        if ext[1].lower() == ".ogg" :
             at_least_one = True
             shortpath = path.split(args_dict["dir"]).pop()
             print("\nSearching for references to {} ...".format(shortpath))
@@ -128,6 +111,11 @@ for root, dirs, filenames in os.walk(args_dict["dir"]):
                 retval = 1
             if not check_credits(shortpath):
                 retval = 1
+        elif ext[1].lower() not in txt_exts:
+            printout("Unrecognized file extension \"{}\" for file \"{}\".  "
+                     "Sound files expected in OGG format."
+                     .format(ext[1], filename), 2)
+            retval = 1
 
 if at_least_one == False:
     printout("No sound files processed", 2)
