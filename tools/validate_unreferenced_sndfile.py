@@ -10,6 +10,12 @@ args.add_argument("dir", action="store", help="specify json directory")
 args.add_argument("fmt", action="store", help="escapes output if set to GHA")
 args_dict = vars(args.parse_args())
 
+txt_exts = {
+    ".json",
+    ".txt",
+    ".md"
+}
+
 
 def gha_escape(msg: str) -> str:
     msg = msg.replace("%", "%25")
@@ -105,6 +111,11 @@ for root, dirs, filenames in os.walk(args_dict["dir"]):
                 retval = 1
             if not check_credits(shortpath):
                 retval = 1
+        elif ext[1].lower() not in txt_exts:
+            printout("Unrecognized file extension \"{}\" for file \"{}\".  "
+                     "Sound files expected in OGG format."
+                     .format(ext[1], filename), 2)
+            retval = 1
 
 if at_least_one == False:
     printout("No sound files processed", 2)
