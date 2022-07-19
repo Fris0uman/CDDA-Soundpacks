@@ -11,29 +11,6 @@ args.add_argument("fmt", action="store", help="escapes output if set to GHA")
 args_dict = vars(args.parse_args())
 
 
-snd_exts = {
-    ".ogg",
-    ".wav",
-    ".mp3",
-    ".aac",
-    ".opus",
-    ".flac",
-    ".midi",
-    ".aax",
-    ".m4a",
-    ".bnk",
-    ".wma",
-    ".aiff",
-    ".raw",
-    ".fla",
-    ".mpa",
-    ".oga",
-    ".m3a",
-    ".aif",
-    ".mpega"
-}
-
-
 def gha_escape(msg: str) -> str:
     msg = msg.replace("%", "%25")
     msg = msg.replace("\r", "%0D")
@@ -120,7 +97,7 @@ for root, dirs, filenames in os.walk(args_dict["dir"]):
     for filename in filenames:
         path = os.path.join(root, filename)
         ext = os.path.splitext(filename)
-        if ext[1].lower() in snd_exts:
+        if ext[1].lower() == ".ogg" :
             at_least_one = True
             shortpath = path.split(args_dict["dir"]).pop()
             print("\nSearching for references to {} ...".format(shortpath))
