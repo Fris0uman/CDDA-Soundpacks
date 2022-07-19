@@ -4,8 +4,6 @@
     "id": "failing_test",
     "variant": "fail",
     "volume": 100,
-    "files": [
-      "to_fail/387848__roll1n__to-aim-01.wav"
-    ]
+    "files": [ "to_fail/387848__roll1n__to-aim-01.ogg" ]
   }
 ]
