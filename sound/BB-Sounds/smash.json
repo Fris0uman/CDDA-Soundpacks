@@ -1,0 +1,7 @@
+{
+  "type": "sound_effect",
+  "id": "smash_success",
+  "volume": 100,
+  "files": [ "hit.ogg" ]
+}
+

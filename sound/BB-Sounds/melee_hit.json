@@ -1,0 +1,6 @@
+{
+  "type": "sound_effect",
+  "id": "melee_attack",
+  "volume": 100,
+  "files": [ "hit1.ogg" ]
+}
