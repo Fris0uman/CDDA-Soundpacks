@@ -8,7 +8,7 @@
   {
     "type": "sound_effect",
     "id": "menu_error",
-    "volume": 100,
+    "volume": 80,
     "files": [ "menu_error.ogg" ]
   }
 ]
