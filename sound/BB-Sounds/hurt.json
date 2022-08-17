@@ -2,5 +2,9 @@
   "type": "sound_effect",
   "id": "deal_damage",
   "volume": 100,
-  "files": [ "hit2.ogg" ]
+  "files": [ 
+    "hit1.ogg",
+    "hit2.ogg",
+    "hit3.ogg"
+  ]
 }
