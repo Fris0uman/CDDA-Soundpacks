@@ -1,0 +1,50 @@
+[
+  {
+    "type": "sound_effect",
+    "id": "plmove",
+    "variant": "walk_grass",
+    "volume": 100,
+    "files": [
+      "steps/walk_grass1.ogg",
+      "steps/walk_grass2.ogg",
+      "steps/walk_grass3.ogg"
+    ],
+    "//": "this doesnt work for tall grass; i see why cc-sounds mass-applied sounds to everything"
+  },
+  {
+    "type": "sound_effect",
+    "id": "plmove",
+    "variant": "walk_dirt",
+    "volume": 100,
+    "files": [
+      "steps/walk_grass1.ogg",
+      "steps/walk_grass2.ogg",
+      "steps/walk_grass3.ogg"
+    ],
+    "//": "maybe create unique sounds for this?"
+  },
+  {
+    "type": "sound_effect",
+    "id": "plmove",
+    "variant": "walk_metal",
+    "volume": 100,
+    "files": [
+      "steps/walk_metal1.ogg",
+      "steps/walk_metal2.ogg",
+      "steps/walk_metal3.ogg"
+    ],
+    "//": "im not sure about the sounds for this"
+  },
+  {
+    "type": "sound_effect",
+    "id": "plmove",
+    "variant": "t_floor",
+    "volume": 100,
+    "files": [
+      "steps/walk_solid1.ogg",
+      "steps/walk_solid2.ogg",
+      "steps/walk_solid3.ogg"
+    ],
+    "//": "i think this needs to be applied to other floors manually"
+  }
+]
