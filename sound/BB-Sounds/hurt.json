@@ -1,10 +1,24 @@
-{
-  "type": "sound_effect",
-  "id": "deal_damage",
-  "volume": 100,
-  "files": [ 
-    "hit1.ogg",
-    "hit2.ogg",
-    "hit3.ogg"
-  ]
-}
+[
+  {
+    "type": "sound_effect",
+    "id": "deal_damage",
+    "variant": "hurt_m",
+    "volume": 100,
+    "files": [ 
+      "hit1.ogg",
+      "hit2.ogg",
+      "hit3.ogg"
+    ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "deal_damage",
+    "variant": "hurt_f",
+    "volume": 100,
+    "files": [ 
+      "hit1.ogg",
+      "hit2.ogg",
+      "hit3.ogg"
+    ]
+  }
+]

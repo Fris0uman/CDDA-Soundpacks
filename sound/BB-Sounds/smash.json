@@ -1,7 +1,22 @@
-{
-  "type": "sound_effect",
-  "id": "smash_success",
-  "volume": 100,
-  "files": [ "hit.ogg" ]
-}
-
+[
+  {
+    "type": "sound_effect",
+    "id": "smash_success",
+    "volume": 100,
+    "files": [
+      "smash1.ogg",
+      "smash2.ogg",
+      "smash3.ogg"
+    ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "smash_fail",
+    "volume": 100,
+    "files": [ 
+      "smash_fail1.ogg",
+      "smash_fail2.ogg",
+      "smash_fail3.ogg"
+    ]
+  }
+]
