@@ -41,10 +41,22 @@
     "variant": "t_floor",
     "volume": 100,
     "files": [
-      "steps/walk_solid1.ogg",
-      "steps/walk_solid2.ogg",
-      "steps/walk_solid3.ogg"
+      "steps/walk_wood1.ogg",
+      "steps/walk_wood2.ogg",
+      "steps/walk_wood3.ogg"
     ],
     "//": "i think this needs to be applied to other floors manually"
+  },
+  {
+    "type": "sound_effect",
+    "id": "plmove",
+    "variant": "walk_tarmac",
+    "volume": 100,
+    "files": [
+      "steps/walk_stone1.ogg",
+      "steps/walk_stone2.ogg",
+      "steps/walk_stone3.ogg"
+    ],
+    "//": "need to check volume on this specifically"
   }
 ]
