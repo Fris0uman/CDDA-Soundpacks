@@ -3,5 +3,5 @@ have sound available for the majority of situations (unique need not apply)
 find music
 
 notes:
-  explosions don't seem to work in-game; library is available in scratch and is mostly complete
+  some stepping sounds have multi-second empty endings
   alarm_loop isn't perfect; i had enough after listening to it for about 3-5 minutes
