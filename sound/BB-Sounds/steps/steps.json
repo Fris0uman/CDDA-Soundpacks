@@ -2,6 +2,16 @@
   {
     "type": "sound_effect",
     "id": "plmove",
+    "variant": "walk_barefoot",
+    "volume": 100,
+    "files": [
+      "steps/walk_generic.ogg"
+    ],
+    "//": "kind of temporary"
+  },
+  {
+    "type": "sound_effect",
+    "id": "plmove",
     "variant": "walk_grass",
     "volume": 100,
     "files": [
