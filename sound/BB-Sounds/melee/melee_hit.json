@@ -1,0 +1,24 @@
+[
+  {
+    "type": "sound_effect",
+    "id": "melee_hit_flesh",
+    "variant": "default",
+    "volume": 100,
+    "files": [ 
+      "melee/enemy_hit1.ogg",
+      "melee/enemy_hit2.ogg",
+      "melee/enemy_hit3.ogg"
+    ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "melee_hit_metal",
+    "variant": "default",
+    "volume": 100,
+    "files": [ 
+      "melee/robot_hit1.ogg",
+      "melee/robot_hit2.ogg",
+      "melee/robot_hit3.ogg"
+    ]
+  }
+]
