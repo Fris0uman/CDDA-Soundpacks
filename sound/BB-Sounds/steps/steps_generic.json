@@ -6,8 +6,7 @@
     "volume": 100,
     "files": [
       "steps/walk_generic.ogg"
-    ],
-    "//": "kind of temporary"
+    ]
   },
   {
     "type": "sound_effect",
@@ -19,7 +18,7 @@
       "steps/walk_grass2.ogg",
       "steps/walk_grass3.ogg"
     ],
-    "//": "this doesnt work for tall grass; i see why cc-sounds mass-applied sounds to everything"
+    "//": "this doesnt work for tall grass"
   },
   {
     "type": "sound_effect",
@@ -42,20 +41,7 @@
       "steps/walk_metal1.ogg",
       "steps/walk_metal2.ogg",
       "steps/walk_metal3.ogg"
-    ],
-    "//": "im not sure about the sounds for this"
-  },
-  {
-    "type": "sound_effect",
-    "id": "plmove",
-    "variant": "t_floor",
-    "volume": 100,
-    "files": [
-      "steps/walk_wood1.ogg",
-      "steps/walk_wood2.ogg",
-      "steps/walk_wood3.ogg"
-    ],
-    "//": "i think this needs to be applied to other floors manually"
+    ]
   },
   {
     "type": "sound_effect",
