@@ -1,7 +1,10 @@
-master/balance sounds
-have sound available for the majority of situations (unique need not apply)
-find music
+before initial pr:
+  master/balance sounds
+  have sound available for the majority of situations (unique need not apply)
+
+later:
+  get music
 
 notes:
-  some stepping sounds have multi-second empty endings
+  some stepping sounds have multi-second empty endings. nothing big but should probably be trimmed
   alarm_loop isn't perfect; i had enough after listening to it for about 3-5 minutes

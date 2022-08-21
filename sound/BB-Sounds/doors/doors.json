@@ -2,6 +2,17 @@
   {
     "type": "sound_effect",
     "id": "close_door",
+    "volume": 100,
+    "files": [
+      "doors/door_close1.ogg",
+      "doors/door_close2.ogg",
+      "doors/door_close3.ogg"
+    ],
+    "//": "probably would be better to work on sprites that shouldn't make this noise rather than implementing the noise on the ones that do"
+  },
+  {
+    "type": "sound_effect",
+    "id": "close_door",
     "variant": "t_door_o",
     "volume": 100,
     "files": [
@@ -21,6 +32,7 @@
       "doors/door_close3.ogg"
     ]
   },
+  
   {
     "type": "sound_effect",
     "id": "close_door",
@@ -69,6 +81,53 @@
     
   {
     "type": "sound_effect",
+    "id": "close_door",
+    "variant": "f_curtain_open",
+    "volume": 100,
+    "files": [ 
+      "doors/curtain_close.ogg"
+    ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "close_door",
+    "variant": "f_beaded_door_o",
+    "volume": 100,
+    "files": [ 
+      "doors/curtain_close.ogg"
+    ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "close_door",
+    "variant": "t_door_curtain_o",
+    "volume": 100,
+    "files": [ 
+      "doors/curtain_close.ogg"
+    ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "close_door",
+    "variant": "t_door_grass_curtain_o",
+    "volume": 100,
+    "files": [ 
+      "doors/curtain_close.ogg"
+    ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "close_door",
+    "variant": "f_canvas_door_o",
+    "volume": 100,
+    "files": [ 
+      "doors/curtain_close.ogg"
+    ]
+  },
+
+
+  {
+    "type": "sound_effect",
     "id": "vehicle_close",
     "volume": 100,
     "files": [ 
@@ -88,7 +147,17 @@
   },
   
   
-  
+    {
+    "type": "sound_effect",
+    "id": "open_door",
+    "volume": 100,
+    "files": [
+      "doors/door_open1.ogg",
+      "doors/door_open2.ogg",
+      "doors/door_open3.ogg"
+    ],
+    "//": "probably would be better to work on sprites that shouldn't make this noise rather than implementing the noise on the ones that do"
+  },
   {
     "type": "sound_effect",
     "id": "open_door",
@@ -152,10 +221,55 @@
     "volume": 100,
     "files": [ 
       "doors/curtain_open.ogg"
-    ],
-    "//": "not confident in this sound"
+    ]
   },
   
+  {
+    "type": "sound_effect",
+    "id": "open_door",
+    "variant": "f_curtain",
+    "volume": 100,
+    "files": [ 
+      "doors/curtain_open.ogg"
+    ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "open_door",
+    "variant": "f_beaded_door",
+    "volume": 100,
+    "files": [ 
+      "doors/curtain_open.ogg"
+    ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "open_door",
+    "variant": "t_door_curtain_c",
+    "volume": 100,
+    "files": [ 
+      "doors/curtain_open.ogg"
+    ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "open_door",
+    "variant": "t_door_grass_curtain_c",
+    "volume": 100,
+    "files": [ 
+      "doors/curtain_open.ogg"
+    ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "open_door",
+    "variant": "f_canvas_door",
+    "volume": 100,
+    "files": [ 
+      "doors/curtain_open.ogg"
+    ]
+  },
+
   {
     "type": "sound_effect",
     "id": "vehicle_open",
