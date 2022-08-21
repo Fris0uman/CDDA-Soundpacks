@@ -5,9 +5,9 @@
     "variant": "hurt_m",
     "volume": 100,
     "files": [ 
-      "hit1.ogg",
-      "hit2.ogg",
-      "hit3.ogg"
+      "hurt/hurt1.ogg",
+      "hurt/hurt2.ogg",
+      "hurt/hurt3.ogg"
     ]
   },
   {
@@ -16,9 +16,9 @@
     "variant": "hurt_f",
     "volume": 100,
     "files": [ 
-      "hit1.ogg",
-      "hit2.ogg",
-      "hit3.ogg"
+      "hurt/hurt1.ogg",
+      "hurt/hurt2.ogg",
+      "hurt/hurt3.ogg"
     ]
   }
 ]

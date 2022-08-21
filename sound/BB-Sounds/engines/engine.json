@@ -3,26 +3,25 @@
     "type": "sound_effect",
     "id": "engine_working_external",
     "volume": 100,
-    "files": [ "engine_loop.ogg" ],
+    "files": [ "engines/engine_loop.ogg" ],
     "//": "'popping' sound when shifting gears/vehicle gaining speed"
   },
   {
     "type": "sound_effect",
     "id": "engine_working_internal",
     "volume": 80,
-    "files": [ "engine_loop.ogg" ],
-    "//": "'popping' sound when shifting gears/vehicle gaining speed"
+    "files": [ "engines/engine_loop.ogg" ],
   },
   {
     "type": "sound_effect",
     "id": "engine_start",
     "volume": 100,
-    "files": [ "engine_start.ogg" ]
+    "files": [ "engines/engine_start.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "engine_stop",
     "volume": 100,
-    "files": [ "engine_stop.ogg" ]
+    "files": [ "engines/engine_stop.ogg" ]
   }
 ]
