@@ -1,0 +1,13 @@
+[
+  {
+    "type": "sound_effect",
+    "id": "tool",
+    "variant": "crowbar",
+    "volume": 100,
+    "files": [
+      "prying/prying_open1.ogg",
+      "prying/prying_open2.ogg",
+      "prying/prying_open3.ogg"
+    ]
+  }
+]
