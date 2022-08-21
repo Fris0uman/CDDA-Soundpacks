@@ -54,5 +54,17 @@
       "steps/walk_stone3.ogg"
     ],
     "//": "need to check volume on this specifically"
+  },
+  {
+    "type": "sound_effect",
+    "id": "plmove",
+    "variant": "clear_obstacle",
+    "volume": 100,
+    "files": [
+      "steps/walk_obstacle1.ogg",
+      "steps/walk_obstacle2.ogg",
+      "steps/walk_obstacle3.ogg"
+    ],
+    "//": "temporary?"
   }
 ]
