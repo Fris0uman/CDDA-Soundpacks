@@ -1,0 +1,16 @@
+name: Audio parameters validation
+
+on: [push, pull_request]
+
+jobs:
+  codec-check:
+    name: Audio parameters validation
+    runs-on: ubuntu-latest
+    steps:
+    - name: Install ffmpeg
+      run: bash -c "sudo apt-get update && sudo apt-get install ffmpeg"
+    - uses: actions/checkout@v2
+      with:
+        fetch-depth: 1
+    - name: Run validation script
+      run: python3 tools/validate_audio.py sound/CC-Sounds/ >> $GITHUB_STEP_SUMMARY
