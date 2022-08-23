@@ -30,7 +30,14 @@ def probe_file(f):
     res['bit_rate'] = str(stream.get('bit_rate', 'unknown'))
   return res
 
-def validate_field_and_mark(p, field, expected):
+def validate_field_less_or_equal_than_and_mark(p, field, expected):
+  if int(p[field]) <= int(expected):
+    p[field] += "✔️"
+  else:
+    p[field] += f"❌(expect <= {expected})"
+    p['valid'] = False
+
+def validate_field_equals_and_mark(p, field, expected):
   if p[field] == expected:
     p[field] += "✔️"
   else:
@@ -39,10 +46,10 @@ def validate_field_and_mark(p, field, expected):
 
 def validate_probe(p):
   p['valid'] = True
-  validate_field_and_mark(p, 'codec', codec_target)
-  validate_field_and_mark(p, 'sample_rate', sample_rate_target)
-  validate_field_and_mark(p, 'bit_rate', bit_rate_target)
-  validate_field_and_mark(p, 'channels', channels_target)
+  validate_field_equals_and_mark(p, 'codec', codec_target)
+  validate_field_equals_and_mark(p, 'sample_rate', sample_rate_target)
+  validate_field_less_or_equal_than_and_mark(p, 'bit_rate', bit_rate_target)
+  validate_field_equals_and_mark(p, 'channels', channels_target)
 
 print("| file | codec | channels | sample rate | bit rate |")
 print("| :--- | :--- | ---: | ---: | ---: |")
