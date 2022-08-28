@@ -1,10 +1,19 @@
 before initial pr:
   master/balance sounds
+    steps done
+    explosions done
+    melee done
+    gunshots done
+    hurt done
+    misc/flashbang done
+    engines todo
+    doors todo
+    misc/prying todo
   have sound available for the majority of situations (unique need not apply)
 
 later:
   get music
 
 notes:
-  some stepping sounds have multi-second empty endings. nothing big but should probably be trimmed
+  some stepping sounds have multi-second empty endings. nothing big but should maybe be trimmed
   alarm_loop isn't perfect; i had enough after listening to it for about 3-5 minutes
