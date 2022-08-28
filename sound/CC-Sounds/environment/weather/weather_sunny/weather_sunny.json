@@ -5,6 +5,7 @@
     "variant": "WEATHER_SUNNY",
     "volume": 100,
     "is_indoors": false,
+    "is_night": false,
     "season": "spring",
     "files": [ "environment/weather/weather_sunny/weather_sunny_spring.ogg" ]
   },
@@ -14,6 +15,7 @@
     "variant": "WEATHER_SUNNY",
     "volume": 100,
     "is_indoors": false,
+    "is_night": false,
     "season": "autumn",
     "files": [ "environment/weather/weather_sunny/weather_sunny_autumn.ogg" ]
   },
@@ -23,6 +25,7 @@
     "variant": "WEATHER_SUNNY",
     "volume": 100,
     "is_indoors": false,
+    "is_night": false,
     "season": "winter",
     "files": [ "environment/weather/weather_sunny/weather_sunny_winter.ogg" ]
   },
@@ -32,6 +35,7 @@
     "variant": "WEATHER_SUNNY",
     "volume": 100,
     "is_indoors": false,
+    "is_night": false,
     "season": "summer",
     "files": [ "environment/weather/weather_sunny/weather_sunny_summer.ogg" ]
   }

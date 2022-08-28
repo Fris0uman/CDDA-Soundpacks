@@ -5,6 +5,7 @@
     "variant": "WEATHER_CLEAR",
     "volume": 100,
     "is_indoors": false,
+    "is_night": false,
     "season": "spring",
     "files": [ "environment/weather/weather_clear/weather_clear_spring.ogg" ]
   },
@@ -14,6 +15,7 @@
     "variant": "WEATHER_CLEAR",
     "volume": 100,
     "is_indoors": false,
+    "is_night": false,
     "season": "summer",
     "files": [ "environment/weather/weather_clear/weather_clear_summer.ogg" ]
   },
@@ -23,6 +25,7 @@
     "variant": "WEATHER_CLEAR",
     "volume": 100,
     "is_indoors": false,
+    "is_night": false,
     "season": "winter",
     "files": [ "environment/weather/weather_clear/weather_clear_winter.ogg" ]
   },
@@ -32,6 +35,7 @@
     "variant": "WEATHER_CLEAR",
     "volume": 100,
     "is_indoors": false,
+    "is_night": false,
     "season": "autumn",
     "files": [ "environment/weather/weather_clear/weather_clear_autumn.ogg" ]
   }
