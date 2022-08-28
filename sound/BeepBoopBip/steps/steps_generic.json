@@ -4,31 +4,21 @@
     "id": "plmove",
     "variant": "walk_barefoot",
     "volume": 100,
-    "files": [
-      "steps/walk_generic.ogg"
-    ]
+    "files": [ "steps/walk_generic.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "plmove",
     "variant": "walk_grass",
     "volume": 100,
-    "files": [
-      "steps/walk_grass1.ogg",
-      "steps/walk_grass2.ogg",
-      "steps/walk_grass3.ogg"
-    ]
+    "files": [ "steps/walk_grass1.ogg", "steps/walk_grass2.ogg", "steps/walk_grass3.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "plmove",
     "variant": "walk_dirt",
     "volume": 100,
-    "files": [
-      "steps/walk_grass1.ogg",
-      "steps/walk_grass2.ogg",
-      "steps/walk_grass3.ogg"
-    ],
+    "files": [ "steps/walk_grass1.ogg", "steps/walk_grass2.ogg", "steps/walk_grass3.ogg" ],
     "//": "maybe create unique sounds for this?"
   },
   {
@@ -36,22 +26,14 @@
     "id": "plmove",
     "variant": "walk_metal",
     "volume": 100,
-    "files": [
-      "steps/walk_metal1.ogg",
-      "steps/walk_metal2.ogg",
-      "steps/walk_metal3.ogg"
-    ]
+    "files": [ "steps/walk_metal1.ogg", "steps/walk_metal2.ogg", "steps/walk_metal3.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "plmove",
     "variant": "walk_tarmac",
     "volume": 100,
-    "files": [
-      "steps/walk_stone1.ogg",
-      "steps/walk_stone2.ogg",
-      "steps/walk_stone3.ogg"
-    ],
+    "files": [ "steps/walk_stone1.ogg", "steps/walk_stone2.ogg", "steps/walk_stone3.ogg" ],
     "//": "need to check volume on this specifically"
   },
   {
@@ -59,11 +41,7 @@
     "id": "plmove",
     "variant": "clear_obstacle",
     "volume": 100,
-    "files": [
-      "steps/walk_obstacle1.ogg",
-      "steps/walk_obstacle2.ogg",
-      "steps/walk_obstacle3.ogg"
-    ],
+    "files": [ "steps/walk_obstacle1.ogg", "steps/walk_obstacle2.ogg", "steps/walk_obstacle3.ogg" ],
     "//": "temporary?"
   }
 ]

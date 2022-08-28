@@ -4,10 +4,6 @@
     "id": "misc",
     "variant": "flashbang",
     "volume": 100,
-    "files": [
-      "misc/flashbang1.ogg",
-      "misc/flashbang2.ogg",
-      "misc/flashbang3.ogg"
-    ]
+    "files": [ "misc/flashbang1.ogg", "misc/flashbang2.ogg", "misc/flashbang3.ogg" ]
   }
 ]

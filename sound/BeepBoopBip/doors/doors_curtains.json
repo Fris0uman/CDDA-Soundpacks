@@ -4,101 +4,76 @@
     "id": "open_door",
     "variant": "f_curtain",
     "volume": 100,
-    "files": [ 
-      "doors/curtain_open.ogg"
-    ]
+    "files": [ "doors/curtain_open.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "open_door",
     "variant": "f_beaded_door",
     "volume": 100,
-    "files": [ 
-      "doors/curtain_open.ogg"
-    ]
+    "files": [ "doors/curtain_open.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "open_door",
     "variant": "t_door_curtain_c",
     "volume": 100,
-    "files": [ 
-      "doors/curtain_open.ogg"
-    ]
+    "files": [ "doors/curtain_open.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "open_door",
     "variant": "f_canvas_door",
     "volume": 100,
-    "files": [ 
-      "doors/curtain_open.ogg"
-    ]
+    "files": [ "doors/curtain_open.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "open_door",
     "variant": "f_large_canvas_door",
     "volume": 100,
-    "files": [ 
-      "doors/curtain_open.ogg"
-    ]
+    "files": [ "doors/curtain_open.ogg" ]
   },
-
-  
-  
   {
     "type": "sound_effect",
     "id": "close_door",
     "variant": "f_curtain_open",
     "volume": 100,
-    "files": [ 
-      "doors/curtain_close.ogg"
-    ]
+    "files": [ "doors/curtain_close.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "close_door",
     "variant": "f_beaded_door_o",
     "volume": 100,
-    "files": [ 
-      "doors/curtain_close.ogg"
-    ]
+    "files": [ "doors/curtain_close.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "close_door",
     "variant": "t_door_curtain_o",
     "volume": 100,
-    "files": [ 
-      "doors/curtain_close.ogg"
-    ]
+    "files": [ "doors/curtain_close.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "close_door",
     "variant": "t_door_grass_curtain_o",
     "volume": 100,
-    "files": [ 
-      "doors/curtain_close.ogg"
-    ]
+    "files": [ "doors/curtain_close.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "close_door",
     "variant": "f_canvas_door_o",
     "volume": 100,
-    "files": [ 
-      "doors/curtain_close.ogg"
-    ]
+    "files": [ "doors/curtain_close.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "close_door",
     "variant": "f_large_canvas_door_o",
     "volume": 100,
-    "files": [ 
-      "doors/curtain_close.ogg"
-    ]
+    "files": [ "doors/curtain_close.ogg" ]
   }
 ]

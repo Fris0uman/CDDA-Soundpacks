@@ -29,7 +29,6 @@
     "files": [ "engines/engine_stop.ogg" ],
     "//": "the engine separation is so muscle/wind powered vehicles don't make noise"
   },
-  
   {
     "type": "sound_effect",
     "id": "engine_working_external",

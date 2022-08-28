@@ -4,10 +4,6 @@
     "id": "tool",
     "variant": "crowbar",
     "volume": 100,
-    "files": [
-      "misc/prying_open1.ogg",
-      "misc/prying_open2.ogg",
-      "misc/prying_open3.ogg"
-    ]
+    "files": [ "misc/prying_open1.ogg", "misc/prying_open2.ogg", "misc/prying_open3.ogg" ]
   }
 ]
