@@ -22,7 +22,7 @@
   {
     "type": "sound_effect",
     "id": "melee_swing",
-    "volume": 100,
+    "volume": 80,
     "files": [ 
       "melee/melee_miss1.ogg",
       "melee/melee_miss2.ogg",

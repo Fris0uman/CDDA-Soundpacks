@@ -11,7 +11,7 @@
     "type": "sound_effect",
     "id": "engine_working_internal",
     "variant": "combustion",
-    "volume": 80,
+    "volume": 90,
     "files": [ "engines/engine_loop.ogg" ]
   },
   {
@@ -42,7 +42,7 @@
     "type": "sound_effect",
     "id": "engine_working_internal",
     "variant": "electric",
-    "volume": 80,
+    "volume": 90,
     "files": [ "engines/engine_loop.ogg" ]
   },
   {
