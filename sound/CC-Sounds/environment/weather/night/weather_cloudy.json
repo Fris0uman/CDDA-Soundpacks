@@ -5,9 +5,9 @@
     "variant": "WEATHER_CLOUDY",
     "volume": 100,
     "is_indoors": false,
-    "is_night": false,
+    "is_night": true,
     "season": "spring",
-    "files": [ "environment/weather/weather_cloudy/weather_cloudy_spring.ogg" ]
+    "files": [ "environment/weather/night/cloudy_night.ogg" ]
   },
   {
     "type": "sound_effect",
@@ -15,9 +15,9 @@
     "variant": "WEATHER_CLOUDY",
     "volume": 100,
     "is_indoors": false,
-    "is_night": false,
+    "is_night": true,
     "season": "autumn",
-    "files": [ "environment/weather/weather_cloudy/weather_cloudy_autumn.ogg" ]
+    "files": [ "environment/weather/night/cloudy_night.ogg" ]
   },
   {
     "type": "sound_effect",
@@ -25,9 +25,9 @@
     "variant": "WEATHER_CLOUDY",
     "volume": 100,
     "is_indoors": false,
-    "is_night": false,
+    "is_night": true,
     "season": "winter",
-    "files": [ "environment/weather/weather_cloudy/weather_cloudy_winter.ogg" ]
+    "files": [ "environment/weather/night/cloudy_night.ogg" ]
   },
   {
     "type": "sound_effect",
@@ -35,8 +35,8 @@
     "variant": "WEATHER_CLOUDY",
     "volume": 100,
     "is_indoors": false,
-    "is_night": false,
+    "is_night": true,
     "season": "summer",
-    "files": [ "environment/weather/weather_cloudy/weather_cloudy_summer.ogg" ]
+    "files": [ "environment/weather/night/cloudy_night.ogg" ]
   }
 ]

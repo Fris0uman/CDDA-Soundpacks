@@ -5,9 +5,9 @@
     "variant": "WEATHER_CLEAR",
     "volume": 100,
     "is_indoors": false,
-    "is_night": false,
+    "is_night": true,
     "season": "spring",
-    "files": [ "environment/weather/weather_clear/weather_clear_spring.ogg" ]
+    "files": [ "environment/weather/night/clear_night_2.ogg" ]
   },
   {
     "type": "sound_effect",
@@ -15,9 +15,9 @@
     "variant": "WEATHER_CLEAR",
     "volume": 100,
     "is_indoors": false,
-    "is_night": false,
+    "is_night": true,
     "season": "summer",
-    "files": [ "environment/weather/weather_clear/weather_clear_summer.ogg" ]
+    "files": [ "environment/weather/night/clear_night_3.ogg" ]
   },
   {
     "type": "sound_effect",
@@ -25,9 +25,9 @@
     "variant": "WEATHER_CLEAR",
     "volume": 100,
     "is_indoors": false,
-    "is_night": false,
+    "is_night": true,
     "season": "winter",
-    "files": [ "environment/weather/weather_clear/weather_clear_winter.ogg" ]
+    "files": [ "environment/weather/night/clear_night_1.ogg" ]
   },
   {
     "type": "sound_effect",
@@ -35,8 +35,8 @@
     "variant": "WEATHER_CLEAR",
     "volume": 100,
     "is_indoors": false,
-    "is_night": false,
+    "is_night": true,
     "season": "autumn",
-    "files": [ "environment/weather/weather_clear/weather_clear_autumn.ogg" ]
+    "files": [ "environment/weather/night/clear_night_1.ogg" ]
   }
 ]
