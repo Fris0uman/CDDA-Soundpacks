@@ -3,13 +3,13 @@ before initial pr:
     steps done
     explosions done
     melee done
-      maybe lower melee swings/misses
     gunshots done
     hurt done
     misc/flashbang done
     engines done
-    doors todo
-    misc/prying todo
+    doors done
+    misc/prying done
+    smashing done
   have sound available for the majority of situations (unique need not apply)
 
 later:
