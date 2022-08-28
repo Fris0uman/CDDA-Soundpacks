@@ -17,8 +17,7 @@
       "steps/walk_grass1.ogg",
       "steps/walk_grass2.ogg",
       "steps/walk_grass3.ogg"
-    ],
-    "//": "this doesnt work for tall grass"
+    ]
   },
   {
     "type": "sound_effect",
