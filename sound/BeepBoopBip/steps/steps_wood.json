@@ -1,0 +1,37 @@
+[
+  {
+    "type": "sound_effect",
+    "id": "plmove",
+    "variant": "t_floor",
+    "volume": 100,
+    "files": [ "steps/walk_wood1.ogg", "steps/walk_wood2.ogg", "steps/walk_wood3.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "plmove",
+    "variant": "t_floor_olight",
+    "volume": 100,
+    "files": [ "steps/walk_wood1.ogg", "steps/walk_wood2.ogg", "steps/walk_wood3.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "plmove",
+    "variant": "t_floor_primitive",
+    "volume": 100,
+    "files": [ "steps/walk_wood1.ogg", "steps/walk_wood2.ogg", "steps/walk_wood3.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "plmove",
+    "variant": "t_floor_waxed",
+    "volume": 100,
+    "files": [ "steps/walk_wood1.ogg", "steps/walk_wood2.ogg", "steps/walk_wood3.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "plmove",
+    "variant": "t_floor_waxed_y",
+    "volume": 100,
+    "files": [ "steps/walk_wood1.ogg", "steps/walk_wood2.ogg", "steps/walk_wood3.ogg" ]
+  }
+]

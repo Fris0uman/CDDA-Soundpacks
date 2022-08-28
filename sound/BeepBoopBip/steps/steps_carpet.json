@@ -1,0 +1,108 @@
+[
+  {
+    "type": "sound_effect",
+    "id": "plmove",
+    "variant": "t_carpet_base",
+    "volume": 100,
+    "files": [ "steps/walk_carpet1.ogg", "steps/walk_carpet2.ogg", "steps/walk_carpet3.ogg" ],
+    "//": "this sound is extremely quiet"
+  },
+  {
+    "type": "sound_effect",
+    "id": "plmove",
+    "variant": "t_carpet_red",
+    "volume": 100,
+    "files": [ "steps/walk_carpet1.ogg", "steps/walk_carpet2.ogg", "steps/walk_carpet3.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "plmove",
+    "variant": "t_carpet_yellow",
+    "volume": 100,
+    "files": [ "steps/walk_carpet1.ogg", "steps/walk_carpet2.ogg", "steps/walk_carpet3.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "plmove",
+    "variant": "t_carpet_green",
+    "volume": 100,
+    "files": [ "steps/walk_carpet1.ogg", "steps/walk_carpet2.ogg", "steps/walk_carpet3.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "plmove",
+    "variant": "t_carpet_purple",
+    "volume": 100,
+    "files": [ "steps/walk_carpet1.ogg", "steps/walk_carpet2.ogg", "steps/walk_carpet3.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "plmove",
+    "variant": "t_carpet_base_concrete",
+    "volume": 100,
+    "files": [ "steps/walk_carpet1.ogg", "steps/walk_carpet2.ogg", "steps/walk_carpet3.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "plmove",
+    "variant": "t_carpet_concrete_red",
+    "volume": 100,
+    "files": [ "steps/walk_carpet1.ogg", "steps/walk_carpet2.ogg", "steps/walk_carpet3.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "plmove",
+    "variant": "t_carpet_concrete_yellow",
+    "volume": 100,
+    "files": [ "steps/walk_carpet1.ogg", "steps/walk_carpet2.ogg", "steps/walk_carpet3.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "plmove",
+    "variant": "t_carpet_concrete_green",
+    "volume": 100,
+    "files": [ "steps/walk_carpet1.ogg", "steps/walk_carpet2.ogg", "steps/walk_carpet3.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "plmove",
+    "variant": "t_carpet_concrete_purple",
+    "volume": 100,
+    "files": [ "steps/walk_carpet1.ogg", "steps/walk_carpet2.ogg", "steps/walk_carpet3.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "plmove",
+    "variant": "t_carpet_base_metal",
+    "volume": 100,
+    "files": [ "steps/walk_carpet1.ogg", "steps/walk_carpet2.ogg", "steps/walk_carpet3.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "plmove",
+    "variant": "t_carpet_metal_red",
+    "volume": 100,
+    "files": [ "steps/walk_carpet1.ogg", "steps/walk_carpet2.ogg", "steps/walk_carpet3.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "plmove",
+    "variant": "t_carpet_metal_yellow",
+    "volume": 100,
+    "files": [ "steps/walk_carpet1.ogg", "steps/walk_carpet2.ogg", "steps/walk_carpet3.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "plmove",
+    "variant": "t_carpet_metal_green",
+    "volume": 100,
+    "files": [ "steps/walk_carpet1.ogg", "steps/walk_carpet2.ogg", "steps/walk_carpet3.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "plmove",
+    "variant": "t_carpet_metal_purple",
+    "volume": 100,
+    "files": [ "steps/walk_carpet1.ogg", "steps/walk_carpet2.ogg", "steps/walk_carpet3.ogg" ]
+  }
+]

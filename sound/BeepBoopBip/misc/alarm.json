@@ -1,0 +1,10 @@
+[
+  {
+    "type": "sound_effect",
+    "id": "environment",
+    "variant": "alarm",
+    "volume": 100,
+    "files": [ "misc/alarm.ogg" ],
+    "//": "this is a bit quieter than i'd prefer, but i'm not going through audacity again for it right now"
+  }
+]

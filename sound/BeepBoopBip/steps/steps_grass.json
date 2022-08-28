@@ -1,0 +1,226 @@
+[
+  {
+    "type": "sound_effect",
+    "id": "plmove",
+    "variant": "t_grass_long",
+    "volume": 100,
+    "files": [ "steps/walk_grass1.ogg", "steps/walk_grass2.ogg", "steps/walk_grass3.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "plmove",
+    "variant": "t_grass_tall",
+    "volume": 100,
+    "files": [ "steps/walk_grass1.ogg", "steps/walk_grass2.ogg", "steps/walk_grass3.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "plmove",
+    "variant": "t_grass_dead",
+    "volume": 100,
+    "files": [ "steps/walk_grass1.ogg", "steps/walk_grass2.ogg", "steps/walk_grass3.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "plmove",
+    "variant": "t_fern",
+    "volume": 100,
+    "files": [ "steps/walk_grass1.ogg", "steps/walk_grass2.ogg", "steps/walk_grass3.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "plmove",
+    "variant": "t_fern_harvested",
+    "volume": 100,
+    "files": [ "steps/walk_grass1.ogg", "steps/walk_grass2.ogg", "steps/walk_grass3.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "plmove",
+    "variant": "t_underbrush",
+    "volume": 100,
+    "files": [ "steps/walk_grass1.ogg", "steps/walk_grass2.ogg", "steps/walk_grass3.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "plmove",
+    "variant": "t_underbrush_harvested_spring",
+    "volume": 100,
+    "files": [ "steps/walk_grass1.ogg", "steps/walk_grass2.ogg", "steps/walk_grass3.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "plmove",
+    "variant": "t_underbrush_harvested_summer",
+    "volume": 100,
+    "files": [ "steps/walk_grass1.ogg", "steps/walk_grass2.ogg", "steps/walk_grass3.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "plmove",
+    "variant": "t_underbrush_harvested_autumn",
+    "volume": 100,
+    "files": [ "steps/walk_grass1.ogg", "steps/walk_grass2.ogg", "steps/walk_grass3.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "plmove",
+    "variant": "t_underbrush_harvested_winter",
+    "volume": 100,
+    "files": [ "steps/walk_grass1.ogg", "steps/walk_grass2.ogg", "steps/walk_grass3.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "plmove",
+    "variant": "t_shrub",
+    "volume": 100,
+    "files": [ "steps/walk_grass1.ogg", "steps/walk_grass2.ogg", "steps/walk_grass3.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "plmove",
+    "variant": "t_shrub_fungal",
+    "volume": 100,
+    "files": [ "steps/walk_grass1.ogg", "steps/walk_grass2.ogg", "steps/walk_grass3.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "plmove",
+    "variant": "t_shrub_rose",
+    "volume": 100,
+    "files": [ "steps/walk_grass1.ogg", "steps/walk_grass2.ogg", "steps/walk_grass3.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "plmove",
+    "variant": "t_shrub_rose_harvested",
+    "volume": 100,
+    "files": [ "steps/walk_grass1.ogg", "steps/walk_grass2.ogg", "steps/walk_grass3.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "plmove",
+    "variant": "t_shrub_grape",
+    "volume": 100,
+    "files": [ "steps/walk_grass1.ogg", "steps/walk_grass2.ogg", "steps/walk_grass3.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "plmove",
+    "variant": "t_shrub_grape_harvested",
+    "volume": 100,
+    "files": [ "steps/walk_grass1.ogg", "steps/walk_grass2.ogg", "steps/walk_grass3.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "plmove",
+    "variant": "t_shrub_lilac",
+    "volume": 100,
+    "files": [ "steps/walk_grass1.ogg", "steps/walk_grass2.ogg", "steps/walk_grass3.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "plmove",
+    "variant": "t_shrub_lilac_harvested",
+    "volume": 100,
+    "files": [ "steps/walk_grass1.ogg", "steps/walk_grass2.ogg", "steps/walk_grass3.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "plmove",
+    "variant": "t_shrub_peanut",
+    "volume": 100,
+    "files": [ "steps/walk_grass1.ogg", "steps/walk_grass2.ogg", "steps/walk_grass3.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "plmove",
+    "variant": "t_shrub_peanut_harvested",
+    "volume": 100,
+    "files": [ "steps/walk_grass1.ogg", "steps/walk_grass2.ogg", "steps/walk_grass3.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "plmove",
+    "variant": "t_shrub_raspberry",
+    "volume": 100,
+    "files": [ "steps/walk_grass1.ogg", "steps/walk_grass2.ogg", "steps/walk_grass3.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "plmove",
+    "variant": "t_shrub_raspberry_harvested",
+    "volume": 100,
+    "files": [ "steps/walk_grass1.ogg", "steps/walk_grass2.ogg", "steps/walk_grass3.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "plmove",
+    "variant": "t_shrub_blueberry",
+    "volume": 100,
+    "files": [ "steps/walk_grass1.ogg", "steps/walk_grass2.ogg", "steps/walk_grass3.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "plmove",
+    "variant": "t_shrub_blueberry_harvested",
+    "volume": 100,
+    "files": [ "steps/walk_grass1.ogg", "steps/walk_grass2.ogg", "steps/walk_grass3.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "plmove",
+    "variant": "t_shrub_strawberry",
+    "volume": 100,
+    "files": [ "steps/walk_grass1.ogg", "steps/walk_grass2.ogg", "steps/walk_grass3.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "plmove",
+    "variant": "t_shrub_strawberry_harvested",
+    "volume": 100,
+    "files": [ "steps/walk_grass1.ogg", "steps/walk_grass2.ogg", "steps/walk_grass3.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "plmove",
+    "variant": "t_shrub_blackberry",
+    "volume": 100,
+    "files": [ "steps/walk_grass1.ogg", "steps/walk_grass2.ogg", "steps/walk_grass3.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "plmove",
+    "variant": "t_shrub_blackberry_harvested",
+    "volume": 100,
+    "files": [ "steps/walk_grass1.ogg", "steps/walk_grass2.ogg", "steps/walk_grass3.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "plmove",
+    "variant": "t_shrub_huckleberry",
+    "volume": 100,
+    "files": [ "steps/walk_grass1.ogg", "steps/walk_grass2.ogg", "steps/walk_grass3.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "plmove",
+    "variant": "t_shrub_huckleberry_harvested",
+    "volume": 100,
+    "files": [ "steps/walk_grass1.ogg", "steps/walk_grass2.ogg", "steps/walk_grass3.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "plmove",
+    "variant": "t_shrub_hydrangea",
+    "volume": 100,
+    "files": [ "steps/walk_grass1.ogg", "steps/walk_grass2.ogg", "steps/walk_grass3.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "plmove",
+    "variant": "t_shrub_hydrangea_harvested",
+    "volume": 100,
+    "files": [ "steps/walk_grass1.ogg", "steps/walk_grass2.ogg", "steps/walk_grass3.ogg" ]
+  }
+]

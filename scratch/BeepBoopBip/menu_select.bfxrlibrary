@@ -1,0 +1,11 @@
+104
+
+true,false,24,2
+
+menu_select:2,0.47,,0.23,,0.31,,0.265,,,,,,,,,,,,,,,,,,0.415,-0.54,,,0.01,,0.01,masterVolume,sustainTime,compressionAmount:24
+menu_error:,0.27,,0.23,,0.275,0.145,0.209,,0.1089,,,,,,,,,,,,,0.7458,,,1,,,,,,,masterVolume,sustainTime,compressionAmount:25
+menu_error1:1,0.27,,0.23,,0.24,0.145,0.209,,0.1089,,,,,,,,,,,,,0.7458,,,1,,,,,0.505,0.6499,masterVolume,sustainTime,compressionAmount:26
+menu_select1:,0.27,,0.23,,0.31,0.155,0.415,0.375,,,,,,,,,,,,,,,-0.01,,0.54,-0.47,,0.11,0.01,,0.01,masterVolume,sustainTime,compressionAmount:27
+menu_error2:1,0.27,,0.23,,0.36,0.145,0.209,,0.155,-0.4499,,,,,,,,,,,,0.845,,,1,,,,,0.505,0.6499,masterVolume,sustainTime,compressionAmount:28
+
+Default:-1>1>26|1,0.27,,0.23,,0.24,0.145,0.209,,0.1089,,,,,,,,,,,,,0.7458,,,1,,,,,0.505,0.6499,masterVolume,sustainTime,compressionAmount|0|1.05|false>28|1,0.27,,0.23,,0.36,0.145,0.209,,0.155,-0.4499,,,,,,,,,,,,0.845,,,1,,,,,0.505,0.6499,masterVolume,sustainTime,compressionAmount|0.318623784592371|1.55|false>24|2,0.47,,0.23,,0.31,,0.265,,,,,,,,,,,,,,,,,,0.415,-0.54,,,0.01,,0.01,masterVolume,sustainTime,compressionAmount|0|0.3|false>-1||0|1|false>-1||0|1|false:2
