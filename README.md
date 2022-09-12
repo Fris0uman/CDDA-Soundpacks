@@ -5,6 +5,16 @@ This version aims to provide a quality soundpack using CC0 or CC-BY ressources w
 ## Download
 Get the latest release from there: [[release]](https://github.com/Fris0uman/CDDA-Soundpacks/releases)
 
+## Installation
+- Get sound pack from the **Download** link above
+  - `CC-Sounds.zip `: Music and effects
+  - `CO.AG-music-only.zip`: Music only
+  - `CC-Sounds-sfx-only.zip`: effect only
+- Unzip in `data\sound` inside the game folder
+- Chose `CC sounds` as soundpack in the settings of the game
+- Close and restart the game
+- Done
+
 ## Music
 All music tracks were composed and produced by **CO.AG**, and used with their [permission](CO.AG_authorisation.txt).
 
