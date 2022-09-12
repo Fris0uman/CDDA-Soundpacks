@@ -11,7 +11,7 @@ Get the latest release from there: [[release]](https://github.com/Fris0uman/CDDA
   - `CO.AG-music-only.zip`: Music only
   - `CC-Sounds-sfx-only.zip`: effect only
 - Unzip in `data\sound` inside the game folder
-- Chose `CC sounds` as soundpack in the settings of the game
+- Chose `CC sounds` as soundpack in the game: `Options > General > (line 43) Choose soundpack`
 - Close and restart the game
 - Done
 
