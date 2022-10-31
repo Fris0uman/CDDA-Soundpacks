@@ -1,0 +1,8 @@
+{
+  "type": "sound_effect",
+  "id": "reload",
+  "volume": 100,
+  "files": [
+    "gunshots/reload_handgun.ogg"
+  ]
+}
