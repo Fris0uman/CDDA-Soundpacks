@@ -4,8 +4,270 @@
     "id": "reload",
     "volume": 100,
     "files": [
+      "gunshots/reload_shotgun.ogg"
+    ],
+    "//": "it's safest to use the simple shotgun 'single click' reload by default"
+  },
+  
+  {
+    "type": "sound_effect",
+    "id": "reload",
+    "variant": "m1911-460",
+    "volume": 100,
+    "files": [
+      "gunshots/reload_handgun.ogg"
+    ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "reload",
+    "variant": "af2011a1_38super",
+    "volume": 100,
+    "files": [
+      "gunshots/reload_handgun.ogg"
+    ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "reload",
+    "variant": "90two",
+    "volume": 100,
+    "files": [
+      "gunshots/reload_handgun.ogg"
+    ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "reload",
+    "variant": "90two40",
+    "volume": 100,
+    "files": [
+      "gunshots/reload_handgun.ogg"
+    ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "reload",
+    "variant": "feral_m9",
+    "volume": 100,
+    "files": [
+      "gunshots/reload_handgun.ogg"
+    ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "reload",
+    "variant": "m9",
+    "volume": 100,
+    "files": [
+      "gunshots/reload_handgun.ogg"
+    ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "reload",
+    "variant": "px4",
+    "volume": 100,
+    "files": [
+      "gunshots/reload_handgun.ogg"
+    ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "reload",
+    "variant": "px40",
+    "volume": 100,
+    "files": [
+      "gunshots/reload_handgun.ogg"
+    ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "reload",
+    "variant": "px4_40",
+    "volume": 100,
+    "files": [
+      "gunshots/reload_handgun.ogg"
+    ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "reload",
+    "variant": "mauser_c96",
+    "volume": 100,
+    "files": [
+      "gunshots/reload_handgun.ogg"
+    ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "reload",
+    "variant": "hi_power_40",
+    "volume": 100,
+    "files": [
+      "gunshots/reload_handgun.ogg"
+    ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "reload",
+    "variant": "hi_power_9mm",
+    "volume": 100,
+    "files": [
+      "gunshots/reload_handgun.ogg"
+    ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "reload",
+    "variant": "m1911_10",
+    "volume": 100,
+    "files": [
+      "gunshots/reload_handgun.ogg"
+    ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "reload",
+    "variant": "glock_29",
+    "volume": 100,
+    "files": [
+      "gunshots/reload_handgun.ogg"
+    ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "reload",
+    "variant": "cz75",
+    "volume": 100,
+    "files": [
+      "gunshots/reload_handgun.ogg"
+    ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "reload",
+    "variant": "witness_10",
+    "volume": 100,
+    "files": [
+      "gunshots/reload_handgun.ogg"
+    ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "reload",
+    "variant": "fn1910",
+    "volume": 100,
+    "files": [
+      "gunshots/reload_handgun.ogg"
+    ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "reload",
+    "variant": "fn57",
+    "volume": 100,
+    "files": [
+      "gunshots/reload_handgun.ogg"
+    ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "reload",
+    "variant": "glock_17",
+    "volume": 100,
+    "files": [
+      "gunshots/reload_handgun.ogg"
+    ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "reload",
+    "variant": "glock_18c",
+    "volume": 100,
+    "files": [
+      "gunshots/reload_handgun.ogg"
+    ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "reload",
+    "variant": "glock_19",
+    "volume": 100,
+    "files": [
+      "gunshots/reload_handgun.ogg"
+    ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "reload",
+    "variant": "glock_22",
+    "volume": 100,
+    "files": [
+      "gunshots/reload_handgun.ogg"
+    ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "reload",
+    "variant": "glock_31",
+    "volume": 100,
+    "files": [
+      "gunshots/reload_handgun.ogg"
+    ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "reload",
+    "variant": "glock_20",
+    "volume": 100,
+    "files": [
+      "gunshots/reload_handgun.ogg"
+    ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "reload",
+    "variant": "glock_21",
+    "volume": 100,
+    "files": [
+      "gunshots/reload_handgun.ogg"
+    ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "reload",
+    "variant": "hptc9",
+    "volume": 100,
+    "files": [
+      "gunshots/reload_handgun.ogg"
+    ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "reload",
+    "variant": "hptcf380",
+    "volume": 100,
+    "files": [
+      "gunshots/reload_handgun.ogg"
+    ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "reload",
+    "variant": "hptjcp",
+    "volume": 100,
+    "files": [
+      "gunshots/reload_handgun.ogg"
+    ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "reload",
+    "variant": "hptjhp",
+    "volume": 100,
+    "files": [
       "gunshots/reload_handgun.ogg"
     ]
   }
-  
 ]

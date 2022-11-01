@@ -46,6 +46,7 @@ clip handgun (small firearms that use magazines)
   glock_21
   hptc9
   hptcf380
+  hptjcp
   hptjhp
 automatic rifle (small/medium firearms that use magazines)
   ak556
