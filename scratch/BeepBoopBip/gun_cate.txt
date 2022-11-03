@@ -13,12 +13,14 @@ bolt action (medium/large firearms with or without a magazine)
   trex_gun
   pamd71z
   henry_big_boy
+  garand
 revolver (anything with a spinning clip)
   sw_500
   sw_610
   colt_army
   colt_navy
   surv_six_shooter
+  lemat_revolver
 clip handgun (small firearms that use magazines)
   m1911-460
   af2011a1_38super
@@ -47,6 +49,13 @@ clip handgun (small firearms that use magazines)
   hptc9
   hptcf380
   hptjhp
+  j22
+  p50
+  kp32
+  kp3at
+  kpf9
+  ksub2000
+  p08
 automatic rifle (small/medium firearms that use magazines)
   ak556
   minidraco556
@@ -86,6 +95,13 @@ automatic rifle (small/medium firearms that use magazines)
   hk_usc45
   hk417_13
   robofac_gun
+  saiga_12
+  iwi_tavor_x95_300blk
+  kord
+  smg_40
+  smg_45
+  smg_9mm
+  m1carbine
 machine gun (large firearms that use magazines)
 
 shotgun (small/medium firearms that do not use magazines/are reloading one round at a time)
@@ -142,3 +158,4 @@ other (what do you mean a 12-guage gatling gun)
   carbine_flintlock_double
   huge_crossbow
   hm12
+  longbow
