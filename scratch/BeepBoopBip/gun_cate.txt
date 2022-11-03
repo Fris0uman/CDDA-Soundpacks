@@ -1,6 +1,6 @@
 this is a rough reference for appropriate reload sounds based on firearm design and reloading mechanism
   this is currently following hitchhikers guide sorting under "items > gun (guns)", and excludes items that cannot be acquired by a vanilla player without the use of the debug menu
-  left off at: "mad militias' rifle"
+  left off at: "paintball gun"
 
 bolt action (medium/large firearms with or without a magazine)
   m2browning_sawn
@@ -19,6 +19,11 @@ bolt action (medium/large firearms with or without a magazine)
   m2carbine
   m2010
   M24
+  1895sbl
+  marlin_9a
+  tac50
+  mosin91_30
+  mosin44
 revolver (anything with a spinning clip)
   sw_500
   sw_610
@@ -26,6 +31,8 @@ revolver (anything with a spinning clip)
   colt_navy
   surv_six_shooter
   lemat_revolver
+  bfr
+  mr73
 clip handgun (small firearms that use magazines)
   m1911-460
   af2011a1_38super
@@ -68,6 +75,7 @@ clip handgun (small firearms that use magazines)
   m1911a1_38super
   mac_10
   mac_11
+  makarov
 automatic rifle (small/medium firearms that use magazines)
   ak556
   minidraco556
@@ -123,6 +131,13 @@ automatic rifle (small/medium firearms that use magazines)
   m26_mass_standalone
   m27_assault_rifle
   m4_carbine
+  famas
+  draco
+  mk47
+  mp18
+  mp40
+  pamd68mountable
+  oa93
 machine gun (large firearms using magazines and/or belts)
   m240
   m249
@@ -154,6 +169,7 @@ shotgun (small/medium firearms that do not use magazines/are reloading one round
   lever_shotgun
   ksg-25
   surv_hand_cannon
+  moss_brownie
 other (what do you mean a 12-guage gatling gun)
   bigun
   cannon_3in_ordnance
@@ -192,3 +208,12 @@ other (what do you mean a 12-guage gatling gun)
   m4_carlgustav
   LAW
   m79
+  chemical_thrower
+  mark19
+  mgl
+  minispeargun
+  recurbow
+  v29_turret
+  nailgun
+  reflexrecurvebow
+  paintballgun
