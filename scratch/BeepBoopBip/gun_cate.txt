@@ -1,6 +1,6 @@
 this is a rough reference for appropriate reload sounds based on firearm design and reloading mechanism
   this is currently following hitchhikers guide sorting under "items > gun (guns)", and excludes items that cannot be acquired by a vanilla player without the use of the debug menu
-  left off at: "hurled rubble"
+  left off at: "mad militias' rifle"
 
 bolt action (medium/large firearms with or without a magazine)
   m2browning_sawn
@@ -14,6 +14,11 @@ bolt action (medium/large firearms with or without a magazine)
   pamd71z
   henry_big_boy
   garand
+  m1903
+  m1a
+  m2carbine
+  m2010
+  M24
 revolver (anything with a spinning clip)
   sw_500
   sw_610
@@ -57,6 +62,12 @@ clip handgun (small firearms that use magazines)
   kpf9
   ksub2000
   p08
+  m17
+  m18
+  m1911
+  m1911a1_38super
+  mac_10
+  mac_11
 automatic rifle (small/medium firearms that use magazines)
   ak556
   minidraco556
@@ -103,8 +114,22 @@ automatic rifle (small/medium firearms that use magazines)
   smg_45
   smg_9mm
   m1carbine
-machine gun (large firearms that use magazines)
-
+  m11
+  m110a1
+  m14ebr
+  m16_auto_rifle
+  m16a4
+  m231pfw
+  m26_mass_standalone
+  m27_assault_rifle
+  m4_carbine
+machine gun (large firearms using magazines and/or belts)
+  m240
+  m249
+  m249_semi
+  m2browning
+  m60
+  m60_semi
 shotgun (small/medium firearms that do not use magazines/are reloading one round at a time)
   ksg
   mossberg_500
@@ -160,3 +185,10 @@ other (what do you mean a 12-guage gatling gun)
   huge_crossbow
   hm12
   longbow
+  m134
+  m202_flash
+  m3_carlgustav
+  m320
+  m4_carlgustav
+  LAW
+  m79
