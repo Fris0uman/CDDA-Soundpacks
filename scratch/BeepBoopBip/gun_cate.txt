@@ -1,6 +1,5 @@
 this is a rough reference for appropriate reload sounds based on firearm design and reloading mechanism
-  this is currently following hitchhikers guide sorting under "items > gun (guns)", and excludes items that cannot be acquired by a vanilla player without the use of the debug menu
-  left off at: "rmes marksman system"
+  this is currently following hitchhikers guide sorting under "items > gun (guns)", and (in theory) excludes items that cannot be acquired by a vanilla player without the use of the debug menu
 
 bolt action (medium/large firearms with or without a magazine)
   m2browning_sawn
@@ -26,6 +25,12 @@ bolt action (medium/large firearms with or without a magazine)
   mosin44
   remington_700
   rm11b_sniper_rifle
+  savage_111f
+  bfg50
+  sks
+  obrez
+  weatherby_5
+  win70
 revolver (anything with a spinning clip)
   sw_500
   sw_610
@@ -35,6 +40,15 @@ revolver (anything with a spinning clip)
   lemat_revolver
   bfr
   mr73
+  ruger_lcr_22
+  ruger_lcr_38
+  ruger_redhawk
+  sw_619
+  sw_629
+  model_10_revolver
+  raging_bull
+  raging_judge
+  colt_saa
 clip handgun (small firearms that use magazines)
   m1911-460
   af2011a1_38super
@@ -82,6 +96,33 @@ clip handgun (small firearms that use magazines)
   mauser_m714
   rm103a_pistol
   needlepistol
+  rugerlcp
+  ruger_57
+  sw_22
+  sig_mosquito
+  p226_357sig
+  p226_9mm
+  p320_357sig
+  p220_10
+  sig_40
+  sp2022
+  sig_p230
+  skorpion_61
+  skorpion_82
+  taurus_spectrum
+  tec9
+  pressin
+  tokarev
+  usp_9mm
+  usp_45
+  uzi
+  walther_ccp
+  walther_p22
+  walther_p38
+  walther_ppk
+  walther_ppq_40
+  walther_ppq_9mm
+  xd_10
 rifle (small/medium firearms that use magazines)
   ak556
   minidraco556
@@ -153,6 +194,18 @@ rifle (small/medium firearms that use magazines)
   rm228
   rm51_assault_rifle
   rm88_battle_rifle
+  pamd68rubik
+  ruger_1022
+  ruger_mini
+  saiga_410
+  mp40semi
+  sig_assault_rifle
+  sig_mcx_rattler_sbr
+  sten
+  tommygun
+  hk_ump45
+  vz58_p
+  vz58ts
 machine gun (large firearms using magazines and/or belts)
   m240
   m249
@@ -197,6 +250,10 @@ shotgun (small/medium firearms that do not use magazines/are reloading one round
   remington_870_express
   winchester_1897
   rm120c
+  revolver_shotgun
+  shotgun_s
+  slamfire_shotgun
+  shotgun_410
 other (what do you mean a 12-guage gatling gun)
   bigun
   cannon_3in_ordnance
@@ -205,17 +262,11 @@ other (what do you mean a 12-guage gatling gun)
   atgm_launcher
   blunderbuss
   plasma_rifle
-  wristrocket
   bullet_crossbow
   gatling_mech_laser
   coilgun
-  compositebow
-  reflexbow
   compositecrossbow
   compcrossbow
-  compbow
-  compbow_high
-  compbow_low
   surv_rocket_launcher
   yrax_deterrent_laser
   flamethrower
@@ -227,7 +278,6 @@ other (what do you mean a 12-guage gatling gun)
   carbine_flintlock_double
   huge_crossbow
   hm12
-  longbow
   m134
   m202_flash
   m3_carlgustav
@@ -239,10 +289,8 @@ other (what do you mean a 12-guage gatling gun)
   mark19
   mgl
   minispeargun
-  recurbow
   v29_turret
   nailgun
-  reflexrecurvebow
   paintballgun
   hand_crossbow
   airspeargun
@@ -251,3 +299,13 @@ other (what do you mean a 12-guage gatling gun)
   rm451_flamethrower
   rm802
   recon_mech_laser
+  RPG
+  gatling_mech_laser_single
+  recon_mech_laser_single
+  speargun
+  triple_launcher_simple
+  launcher_simple
+  v29
+  watercannon
+  crossbow
+  emp_gun
