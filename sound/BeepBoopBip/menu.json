@@ -3,7 +3,7 @@
     "type": "sound_effect",
     "id": "menu_move",
     "volume": 100,
-    "files": [ "menu_select.ogg" ]
+    "files": [ "menu_move.ogg" ]
   },
   {
     "type": "sound_effect",
