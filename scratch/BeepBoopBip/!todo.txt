@@ -1,20 +1,7 @@
-before initial pr:
-  master/balance sounds
-    steps done
-    explosions done
-    melee done
-    gunshots done
-    hurt done
-    misc/flashbang done
-    engines done
-    doors done
-    misc/prying done
-    smashing done
-  have sound available for the majority of situations (unique need not apply)
+trim excess silent data off
+  a script to do this would be best
+get music
 
-later:
-  get music
 
 notes:
-  some stepping sounds have multi-second empty endings. nothing big but should maybe be trimmed
   alarm_loop isn't perfect; i had enough after listening to it for about 3-5 minutes

@@ -44,7 +44,7 @@ revolver (anything with a spinning clip)
   ruger_lcr_38
   ruger_redhawk
   sw_619
-  sw_629
+  sw629
   model_10_revolver
   raging_bull
   raging_judge
