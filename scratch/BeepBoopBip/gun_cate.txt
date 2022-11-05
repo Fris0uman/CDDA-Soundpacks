@@ -231,7 +231,6 @@ shotgun (small/medium firearms that do not use magazines/are reloading one round
   cop_38
   shotgun_d
   slamfire_shotgun_d
-  doublespeargun
   pipe_double_shotgun
   flaregun
   tavor_12
@@ -269,6 +268,7 @@ other (what do you mean a 12-guage gatling gun)
   compcrossbow
   surv_rocket_launcher
   yrax_deterrent_laser
+  doublespeargun*
   flamethrower
   carbine_flintlock
   rifle_flintlock
@@ -281,30 +281,30 @@ other (what do you mean a 12-guage gatling gun)
   m134
   m202_flash
   m3_carlgustav
-  m320
+  m320*
   m4_carlgustav
   LAW
-  m79
+  m79*
   chemical_thrower
-  mark19
-  mgl
-  minispeargun
+  mark19*
+  mgl*
+  minispeargun*
   v29_turret
   nailgun
   paintballgun
   hand_crossbow
-  airspeargun
+  airspeargun*
   plasma_gun
   rep_crossbow
   rm451_flamethrower
-  rm802
+  rm802*
   recon_mech_laser
   RPG
   gatling_mech_laser_single
   recon_mech_laser_single
-  speargun
-  triple_launcher_simple
-  launcher_simple
+  speargun*
+  triple_launcher_simple*
+  launcher_simple*
   v29
   watercannon
   crossbow
