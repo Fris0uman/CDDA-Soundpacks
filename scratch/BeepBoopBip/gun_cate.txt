@@ -1,7 +1,7 @@
 this is a rough reference for appropriate reload sounds based on firearm design and reloading mechanism
   this is currently following hitchhikers guide sorting under "items > gun (guns)", and (in theory) excludes items that cannot be acquired by a vanilla player without the use of the debug menu
 
-bolt action (medium/large firearms with or without a magazine)
+bolt action (medium/large firearms with or without a magazine)*
   m2browning_sawn
   bh_m89
   sharps
@@ -31,7 +31,7 @@ bolt action (medium/large firearms with or without a magazine)
   obrez
   weatherby_5
   win70
-revolver (anything with a spinning clip)
+revolver (anything with a spinning clip)*
   sw_500
   sw_610
   colt_army
@@ -49,7 +49,7 @@ revolver (anything with a spinning clip)
   raging_bull
   raging_judge
   colt_saa
-clip handgun (small firearms that use magazines)
+clip handgun (small firearms that use magazines)*
   m1911-460
   af2011a1_38super
   90two
@@ -123,7 +123,7 @@ clip handgun (small firearms that use magazines)
   walther_ppq_40
   walther_ppq_9mm
   xd_10
-rifle (small/medium firearms that use magazines)
+rifle (small/medium firearms that use magazines)*
   ak556
   minidraco556
   ak308
@@ -206,7 +206,7 @@ rifle (small/medium firearms that use magazines)
   hk_ump45
   vz58_p
   vz58ts
-machine gun (large firearms using magazines and/or belts)
+machine gun (large firearms using magazines and/or belts)*
   m240
   m249
   m249_semi
@@ -215,7 +215,7 @@ machine gun (large firearms using magazines and/or belts)
   m60_semi
   rm298
   rm614_lmg
-shotgun (small/medium firearms that do not use magazines/are reloading one round at a time)
+shotgun (small/medium firearms that do not use magazines/are reloading one round at a time)*
   ksg
   mossberg_500
   remington_870
