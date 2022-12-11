@@ -4,8 +4,6 @@
     "id": "humming",
     "variant": "electric",
     "volume": 100,
-    "files": [
-      "humming/electric.ogg"
-    ]
+    "files": [ "humming/electric.ogg" ]
   }
 ]
