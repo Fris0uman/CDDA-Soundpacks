@@ -9,3 +9,5 @@
 | thunder_far.ogg | chromakei | **CC0 1.0** | https://freesound.org/people/chromakei/sounds/398287/ |
 | thunderstorm.ogg | bruno.auzet | **CC0 1.0** | https://freesound.org/people/bruno.auzet/sounds/531041/ |
 | WEATHER_SNOWSTORM.ogg | guyburns | **CC 0** | https://freesound.org/people/guyburns/sounds/473815/ |
+| WEATHER_RAINSTORM.ogg | Iam_calderon | **CC 0** | https://freesound.org/people/Iam_calderon/sounds/424306/ |
+| WEATHER_RAINSTORM_inside.ogg | klankbeeld | **CC BY 4.0** | https://freesound.org/people/klankbeeld/sounds/614134/ |
