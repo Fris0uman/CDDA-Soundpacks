@@ -5,7 +5,7 @@
       "variant": "m1911-460",
       "volume": 100,
       "files": [
-        "gunshots/reload_handgun.ogg"
+        "firearms/reload_handgun.ogg"
     ]
   },
   {
@@ -14,7 +14,7 @@
       "variant": "af2011a1_38super",
       "volume": 100,
       "files": [
-        "gunshots/reload_handgun.ogg"
+        "firearms/reload_handgun.ogg"
     ]
   },
   {
@@ -23,7 +23,7 @@
       "variant": "90two",
       "volume": 100,
       "files": [
-        "gunshots/reload_handgun.ogg"
+        "firearms/reload_handgun.ogg"
     ]
   },
   {
@@ -32,7 +32,7 @@
       "variant": "90two40",
       "volume": 100,
       "files": [
-        "gunshots/reload_handgun.ogg"
+        "firearms/reload_handgun.ogg"
     ]
   },
   {
@@ -41,7 +41,7 @@
       "variant": "feral_m9",
       "volume": 100,
       "files": [
-        "gunshots/reload_handgun.ogg"
+        "firearms/reload_handgun.ogg"
     ]
   },
   {
@@ -50,7 +50,7 @@
       "variant": "m9",
       "volume": 100,
       "files": [
-        "gunshots/reload_handgun.ogg"
+        "firearms/reload_handgun.ogg"
     ]
   },
   {
@@ -59,7 +59,7 @@
       "variant": "px4",
       "volume": 100,
       "files": [
-        "gunshots/reload_handgun.ogg"
+        "firearms/reload_handgun.ogg"
     ]
   },
   {
@@ -68,7 +68,7 @@
       "variant": "px4_40",
       "volume": 100,
       "files": [
-        "gunshots/reload_handgun.ogg"
+        "firearms/reload_handgun.ogg"
     ]
   },
   {
@@ -77,7 +77,7 @@
       "variant": "mauser_c96",
       "volume": 100,
       "files": [
-        "gunshots/reload_handgun.ogg"
+        "firearms/reload_handgun.ogg"
     ]
   },
   {
@@ -86,7 +86,7 @@
       "variant": "hi_power_40",
       "volume": 100,
       "files": [
-        "gunshots/reload_handgun.ogg"
+        "firearms/reload_handgun.ogg"
     ]
   },
   {
@@ -95,7 +95,7 @@
       "variant": "hi_power_9mm",
       "volume": 100,
       "files": [
-        "gunshots/reload_handgun.ogg"
+        "firearms/reload_handgun.ogg"
     ]
   },
   {
@@ -104,7 +104,7 @@
       "variant": "m1911_10",
       "volume": 100,
       "files": [
-        "gunshots/reload_handgun.ogg"
+        "firearms/reload_handgun.ogg"
     ]
   },
   {
@@ -113,7 +113,7 @@
       "variant": "glock_29",
       "volume": 100,
       "files": [
-        "gunshots/reload_handgun.ogg"
+        "firearms/reload_handgun.ogg"
     ]
   },
   {
@@ -122,7 +122,7 @@
       "variant": "cz75",
       "volume": 100,
       "files": [
-        "gunshots/reload_handgun.ogg"
+        "firearms/reload_handgun.ogg"
     ]
   },
   {
@@ -131,7 +131,7 @@
       "variant": "witness_10",
       "volume": 100,
       "files": [
-        "gunshots/reload_handgun.ogg"
+        "firearms/reload_handgun.ogg"
     ]
   },
   {
@@ -140,7 +140,7 @@
       "variant": "fn1910",
       "volume": 100,
       "files": [
-        "gunshots/reload_handgun.ogg"
+        "firearms/reload_handgun.ogg"
     ]
   },
   {
@@ -149,7 +149,7 @@
       "variant": "fn57",
       "volume": 100,
       "files": [
-        "gunshots/reload_handgun.ogg"
+        "firearms/reload_handgun.ogg"
     ]
   },
   {
@@ -158,7 +158,7 @@
       "variant": "glock_17",
       "volume": 100,
       "files": [
-        "gunshots/reload_handgun.ogg"
+        "firearms/reload_handgun.ogg"
     ]
   },
   {
@@ -167,7 +167,7 @@
       "variant": "glock_18c",
       "volume": 100,
       "files": [
-        "gunshots/reload_handgun.ogg"
+        "firearms/reload_handgun.ogg"
     ]
   },
   {
@@ -176,7 +176,7 @@
       "variant": "glock_19",
       "volume": 100,
       "files": [
-        "gunshots/reload_handgun.ogg"
+        "firearms/reload_handgun.ogg"
     ]
   },
   {
@@ -185,7 +185,7 @@
       "variant": "glock_22",
       "volume": 100,
       "files": [
-        "gunshots/reload_handgun.ogg"
+        "firearms/reload_handgun.ogg"
     ]
   },
   {
@@ -194,7 +194,7 @@
       "variant": "glock_31",
       "volume": 100,
       "files": [
-        "gunshots/reload_handgun.ogg"
+        "firearms/reload_handgun.ogg"
     ]
   },
   {
@@ -203,7 +203,7 @@
       "variant": "glock_20",
       "volume": 100,
       "files": [
-        "gunshots/reload_handgun.ogg"
+        "firearms/reload_handgun.ogg"
     ]
   },
   {
@@ -212,7 +212,7 @@
       "variant": "glock_21",
       "volume": 100,
       "files": [
-        "gunshots/reload_handgun.ogg"
+        "firearms/reload_handgun.ogg"
     ]
   },
   {
@@ -221,7 +221,7 @@
       "variant": "hptc9",
       "volume": 100,
       "files": [
-        "gunshots/reload_handgun.ogg"
+        "firearms/reload_handgun.ogg"
     ]
   },
   {
@@ -230,7 +230,7 @@
       "variant": "hptcf380",
       "volume": 100,
       "files": [
-        "gunshots/reload_handgun.ogg"
+        "firearms/reload_handgun.ogg"
     ]
   },
   {
@@ -239,7 +239,7 @@
       "variant": "hptjcp",
       "volume": 100,
       "files": [
-        "gunshots/reload_handgun.ogg"
+        "firearms/reload_handgun.ogg"
     ]
   },
   {
@@ -248,7 +248,7 @@
       "variant": "hptjhp",
       "volume": 100,
       "files": [
-        "gunshots/reload_handgun.ogg"
+        "firearms/reload_handgun.ogg"
     ]
   },
   {
@@ -257,7 +257,7 @@
       "variant": "j22",
       "volume": 100,
       "files": [
-        "gunshots/reload_handgun.ogg"
+        "firearms/reload_handgun.ogg"
     ]
   },
   {
@@ -266,7 +266,7 @@
       "variant": "p50",
       "volume": 100,
       "files": [
-        "gunshots/reload_handgun.ogg"
+        "firearms/reload_handgun.ogg"
     ]
   },
   {
@@ -275,7 +275,7 @@
       "variant": "kp32",
       "volume": 100,
       "files": [
-        "gunshots/reload_handgun.ogg"
+        "firearms/reload_handgun.ogg"
     ]
   },
   {
@@ -284,7 +284,7 @@
       "variant": "kp3at",
       "volume": 100,
       "files": [
-        "gunshots/reload_handgun.ogg"
+        "firearms/reload_handgun.ogg"
     ]
   },
   {
@@ -293,7 +293,7 @@
       "variant": "kpf9",
       "volume": 100,
       "files": [
-        "gunshots/reload_handgun.ogg"
+        "firearms/reload_handgun.ogg"
     ]
   },
   {
@@ -302,7 +302,7 @@
       "variant": "ksub2000",
       "volume": 100,
       "files": [
-        "gunshots/reload_handgun.ogg"
+        "firearms/reload_handgun.ogg"
     ]
   },
   {
@@ -311,7 +311,7 @@
       "variant": "p08",
       "volume": 100,
       "files": [
-        "gunshots/reload_handgun.ogg"
+        "firearms/reload_handgun.ogg"
     ]
   },
   {
@@ -320,7 +320,7 @@
       "variant": "m17",
       "volume": 100,
       "files": [
-        "gunshots/reload_handgun.ogg"
+        "firearms/reload_handgun.ogg"
     ]
   },
   {
@@ -329,7 +329,7 @@
       "variant": "m18",
       "volume": 100,
       "files": [
-        "gunshots/reload_handgun.ogg"
+        "firearms/reload_handgun.ogg"
     ]
   },
   {
@@ -338,7 +338,7 @@
       "variant": "m1911",
       "volume": 100,
       "files": [
-        "gunshots/reload_handgun.ogg"
+        "firearms/reload_handgun.ogg"
     ]
   },
   {
@@ -347,7 +347,7 @@
       "variant": "m1911a1_38super",
       "volume": 100,
       "files": [
-        "gunshots/reload_handgun.ogg"
+        "firearms/reload_handgun.ogg"
     ]
   },
   {
@@ -356,7 +356,7 @@
       "variant": "mac_10",
       "volume": 100,
       "files": [
-        "gunshots/reload_handgun.ogg"
+        "firearms/reload_handgun.ogg"
     ]
   },
   {
@@ -365,7 +365,7 @@
       "variant": "mac_11",
       "volume": 100,
       "files": [
-        "gunshots/reload_handgun.ogg"
+        "firearms/reload_handgun.ogg"
     ]
   },
   {
@@ -374,7 +374,7 @@
       "variant": "makarov",
       "volume": 100,
       "files": [
-        "gunshots/reload_handgun.ogg"
+        "firearms/reload_handgun.ogg"
     ]
   },
   {
@@ -383,7 +383,7 @@
       "variant": "walther_ppq_45",
       "volume": 100,
       "files": [
-        "gunshots/reload_handgun.ogg"
+        "firearms/reload_handgun.ogg"
     ]
   },
   {
@@ -392,7 +392,7 @@
       "variant": "mauser_m714",
       "volume": 100,
       "files": [
-        "gunshots/reload_handgun.ogg"
+        "firearms/reload_handgun.ogg"
     ]
   },
   {
@@ -401,7 +401,7 @@
       "variant": "rm103a_pistol",
       "volume": 100,
       "files": [
-        "gunshots/reload_handgun.ogg"
+        "firearms/reload_handgun.ogg"
     ]
   },
   {
@@ -410,7 +410,7 @@
       "variant": "needlepistol",
       "volume": 100,
       "files": [
-        "gunshots/reload_handgun.ogg"
+        "firearms/reload_handgun.ogg"
     ]
   },
   {
@@ -419,7 +419,7 @@
       "variant": "rugerlcp",
       "volume": 100,
       "files": [
-        "gunshots/reload_handgun.ogg"
+        "firearms/reload_handgun.ogg"
     ]
   },
   {
@@ -428,7 +428,7 @@
       "variant": "ruger_57",
       "volume": 100,
       "files": [
-        "gunshots/reload_handgun.ogg"
+        "firearms/reload_handgun.ogg"
     ]
   },
   {
@@ -437,7 +437,7 @@
       "variant": "sw_22",
       "volume": 100,
       "files": [
-        "gunshots/reload_handgun.ogg"
+        "firearms/reload_handgun.ogg"
     ]
   },
   {
@@ -446,7 +446,7 @@
       "variant": "sig_mosquito",
       "volume": 100,
       "files": [
-        "gunshots/reload_handgun.ogg"
+        "firearms/reload_handgun.ogg"
     ]
   },
   {
@@ -455,7 +455,7 @@
       "variant": "p226_357sig",
       "volume": 100,
       "files": [
-        "gunshots/reload_handgun.ogg"
+        "firearms/reload_handgun.ogg"
     ]
   },
   {
@@ -464,7 +464,7 @@
       "variant": "p226_9mm",
       "volume": 100,
       "files": [
-        "gunshots/reload_handgun.ogg"
+        "firearms/reload_handgun.ogg"
     ]
   },
   {
@@ -473,7 +473,7 @@
       "variant": "p320_357sig",
       "volume": 100,
       "files": [
-        "gunshots/reload_handgun.ogg"
+        "firearms/reload_handgun.ogg"
     ]
   },
   {
@@ -482,7 +482,7 @@
       "variant": "p220_10",
       "volume": 100,
       "files": [
-        "gunshots/reload_handgun.ogg"
+        "firearms/reload_handgun.ogg"
     ]
   },
   {
@@ -491,7 +491,7 @@
       "variant": "sig_40",
       "volume": 100,
       "files": [
-        "gunshots/reload_handgun.ogg"
+        "firearms/reload_handgun.ogg"
     ]
   },
   {
@@ -500,7 +500,7 @@
       "variant": "sp2022",
       "volume": 100,
       "files": [
-        "gunshots/reload_handgun.ogg"
+        "firearms/reload_handgun.ogg"
     ]
   },
   {
@@ -509,7 +509,7 @@
       "variant": "sig_p230",
       "volume": 100,
       "files": [
-        "gunshots/reload_handgun.ogg"
+        "firearms/reload_handgun.ogg"
     ]
   },
   {
@@ -518,7 +518,7 @@
       "variant": "skorpion_61",
       "volume": 100,
       "files": [
-        "gunshots/reload_handgun.ogg"
+        "firearms/reload_handgun.ogg"
     ]
   },
   {
@@ -527,7 +527,7 @@
       "variant": "skorpion_82",
       "volume": 100,
       "files": [
-        "gunshots/reload_handgun.ogg"
+        "firearms/reload_handgun.ogg"
     ]
   },
   {
@@ -536,7 +536,7 @@
       "variant": "taurus_spectrum",
       "volume": 100,
       "files": [
-        "gunshots/reload_handgun.ogg"
+        "firearms/reload_handgun.ogg"
     ]
   },
   {
@@ -545,7 +545,7 @@
       "variant": "tec9",
       "volume": 100,
       "files": [
-        "gunshots/reload_handgun.ogg"
+        "firearms/reload_handgun.ogg"
     ]
   },
   {
@@ -554,7 +554,7 @@
       "variant": "pressin",
       "volume": 100,
       "files": [
-        "gunshots/reload_handgun.ogg"
+        "firearms/reload_handgun.ogg"
     ]
   },
   {
@@ -563,7 +563,7 @@
       "variant": "tokarev",
       "volume": 100,
       "files": [
-        "gunshots/reload_handgun.ogg"
+        "firearms/reload_handgun.ogg"
     ]
   },
   {
@@ -572,7 +572,7 @@
       "variant": "usp_9mm",
       "volume": 100,
       "files": [
-        "gunshots/reload_handgun.ogg"
+        "firearms/reload_handgun.ogg"
     ]
   },
   {
@@ -581,7 +581,7 @@
       "variant": "usp_45",
       "volume": 100,
       "files": [
-        "gunshots/reload_handgun.ogg"
+        "firearms/reload_handgun.ogg"
     ]
   },
   {
@@ -590,7 +590,7 @@
       "variant": "uzi",
       "volume": 100,
       "files": [
-        "gunshots/reload_handgun.ogg"
+        "firearms/reload_handgun.ogg"
     ]
   },
   {
@@ -599,7 +599,7 @@
       "variant": "walther_ccp",
       "volume": 100,
       "files": [
-        "gunshots/reload_handgun.ogg"
+        "firearms/reload_handgun.ogg"
     ]
   },
   {
@@ -608,7 +608,7 @@
       "variant": "walther_p22",
       "volume": 100,
       "files": [
-        "gunshots/reload_handgun.ogg"
+        "firearms/reload_handgun.ogg"
     ]
   },
   {
@@ -617,7 +617,7 @@
       "variant": "walther_p38",
       "volume": 100,
       "files": [
-        "gunshots/reload_handgun.ogg"
+        "firearms/reload_handgun.ogg"
     ]
   },
   {
@@ -626,7 +626,7 @@
       "variant": "walther_ppk",
       "volume": 100,
       "files": [
-        "gunshots/reload_handgun.ogg"
+        "firearms/reload_handgun.ogg"
     ]
   },
   {
@@ -635,7 +635,7 @@
       "variant": "walther_ppq_40",
       "volume": 100,
       "files": [
-        "gunshots/reload_handgun.ogg"
+        "firearms/reload_handgun.ogg"
     ]
   },
   {
@@ -644,7 +644,7 @@
       "variant": "walther_ppq_9mm",
       "volume": 100,
       "files": [
-        "gunshots/reload_handgun.ogg"
+        "firearms/reload_handgun.ogg"
     ]
   },
   {
@@ -653,7 +653,7 @@
       "variant": "xd_10",
       "volume": 100,
       "files": [
-        "gunshots/reload_handgun.ogg"
+        "firearms/reload_handgun.ogg"
     ]
   }
 ]

@@ -5,7 +5,7 @@
       "variant": "ak556",
       "volume": 100,
       "files": [
-        "gunshots/reload_rifle.ogg"
+        "firearms/reload_rifle.ogg"
     ]
   },
   {
@@ -14,7 +14,7 @@
       "variant": "minidraco556",
       "volume": 100,
       "files": [
-        "gunshots/reload_rifle.ogg"
+        "firearms/reload_rifle.ogg"
     ]
   },
   {
@@ -23,7 +23,7 @@
       "variant": "ak308",
       "volume": 100,
       "files": [
-        "gunshots/reload_rifle.ogg"
+        "firearms/reload_rifle.ogg"
     ]
   },
   {
@@ -32,7 +32,7 @@
       "variant": "aksemi",
       "volume": 100,
       "files": [
-        "gunshots/reload_rifle.ogg"
+        "firearms/reload_rifle.ogg"
     ]
   },
   {
@@ -41,7 +41,7 @@
       "variant": "ak74",
       "volume": 100,
       "files": [
-        "gunshots/reload_rifle.ogg"
+        "firearms/reload_rifle.ogg"
     ]
   },
   {
@@ -50,7 +50,7 @@
       "variant": "ak47",
       "volume": 100,
       "files": [
-        "gunshots/reload_rifle.ogg"
+        "firearms/reload_rifle.ogg"
     ]
   },
   {
@@ -59,7 +59,7 @@
       "variant": "american_180",
       "volume": 100,
       "files": [
-        "gunshots/reload_rifle.ogg"
+        "firearms/reload_rifle.ogg"
     ]
   },
   {
@@ -68,7 +68,7 @@
       "variant": "ar_pistol",
       "volume": 100,
       "files": [
-        "gunshots/reload_rifle.ogg"
+        "firearms/reload_rifle.ogg"
     ]
   },
   {
@@ -77,7 +77,7 @@
       "variant": "ar10",
       "volume": 100,
       "files": [
-        "gunshots/reload_rifle.ogg"
+        "firearms/reload_rifle.ogg"
     ]
   },
   {
@@ -86,7 +86,7 @@
       "variant": "ar15",
       "volume": 100,
       "files": [
-        "gunshots/reload_rifle.ogg"
+        "firearms/reload_rifle.ogg"
     ]
   },
   {
@@ -95,7 +95,7 @@
       "variant": "ar15_retool_300blk",
       "volume": 100,
       "files": [
-        "gunshots/reload_rifle.ogg"
+        "firearms/reload_rifle.ogg"
     ]
   },
   {
@@ -104,7 +104,7 @@
       "variant": "steyr_aug",
       "volume": 100,
       "files": [
-        "gunshots/reload_rifle.ogg"
+        "firearms/reload_rifle.ogg"
     ]
   },
   {
@@ -113,7 +113,7 @@
       "variant": "bt_apc9k",
       "volume": 100,
       "files": [
-        "gunshots/reload_rifle.ogg"
+        "firearms/reload_rifle.ogg"
     ]
   },
   {
@@ -122,7 +122,7 @@
       "variant": "hk_mp5_10_semi",
       "volume": 100,
       "files": [
-        "gunshots/reload_rifle.ogg"
+        "firearms/reload_rifle.ogg"
     ]
   },
   {
@@ -131,7 +131,7 @@
       "variant": "bbgun",
       "volume": 100,
       "files": [
-        "gunshots/reload_rifle.ogg"
+        "firearms/reload_rifle.ogg"
     ]
   },
   {
@@ -140,7 +140,7 @@
       "variant": "arx160",
       "volume": 100,
       "files": [
-        "gunshots/reload_rifle.ogg"
+        "firearms/reload_rifle.ogg"
     ]
   },
   {
@@ -149,7 +149,7 @@
       "variant": "m1918",
       "volume": 100,
       "files": [
-        "gunshots/reload_rifle.ogg"
+        "firearms/reload_rifle.ogg"
     ]
   },
   {
@@ -158,7 +158,7 @@
       "variant": "calico",
       "volume": 100,
       "files": [
-        "gunshots/reload_rifle.ogg"
+        "firearms/reload_rifle.ogg"
     ]
   },
   {
@@ -167,7 +167,7 @@
       "variant": "fn_ps90",
       "volume": 100,
       "files": [
-        "gunshots/reload_rifle.ogg"
+        "firearms/reload_rifle.ogg"
     ]
   },
   {
@@ -176,7 +176,7 @@
       "variant": "colt_ro635",
       "volume": 100,
       "files": [
-        "gunshots/reload_rifle.ogg"
+        "firearms/reload_rifle.ogg"
     ]
   },
   {
@@ -185,7 +185,7 @@
       "variant": "cx4",
       "volume": 100,
       "files": [
-        "gunshots/reload_rifle.ogg"
+        "firearms/reload_rifle.ogg"
     ]
   },
   {
@@ -194,7 +194,7 @@
       "variant": "pamd68",
       "volume": 100,
       "files": [
-        "gunshots/reload_rifle.ogg"
+        "firearms/reload_rifle.ogg"
     ]
   },
   {
@@ -203,7 +203,7 @@
       "variant": "fn_p90",
       "volume": 100,
       "files": [
-        "gunshots/reload_rifle.ogg"
+        "firearms/reload_rifle.ogg"
     ]
   },
   {
@@ -212,7 +212,7 @@
       "variant": "fn_fal",
       "volume": 100,
       "files": [
-        "gunshots/reload_rifle.ogg"
+        "firearms/reload_rifle.ogg"
     ]
   },
   {
@@ -221,7 +221,7 @@
       "variant": "scar_h",
       "volume": 100,
       "files": [
-        "gunshots/reload_rifle.ogg"
+        "firearms/reload_rifle.ogg"
     ]
   },
   {
@@ -230,7 +230,7 @@
       "variant": "fs2000",
       "volume": 100,
       "files": [
-        "gunshots/reload_rifle.ogg"
+        "firearms/reload_rifle.ogg"
     ]
   },
   {
@@ -239,7 +239,7 @@
       "variant": "hk_g36",
       "volume": 100,
       "files": [
-        "gunshots/reload_rifle.ogg"
+        "firearms/reload_rifle.ogg"
     ]
   },
   {
@@ -248,7 +248,7 @@
       "variant": "TDI_10",
       "volume": 100,
       "files": [
-        "gunshots/reload_rifle.ogg"
+        "firearms/reload_rifle.ogg"
     ]
   },
   {
@@ -257,7 +257,7 @@
       "variant": "TDI",
       "volume": 100,
       "files": [
-        "gunshots/reload_rifle.ogg"
+        "firearms/reload_rifle.ogg"
     ]
   },
   {
@@ -266,7 +266,7 @@
       "variant": "hk_g3",
       "volume": 100,
       "files": [
-        "gunshots/reload_rifle.ogg"
+        "firearms/reload_rifle.ogg"
     ]
   },
   {
@@ -275,7 +275,7 @@
       "variant": "hk_mp5",
       "volume": 100,
       "files": [
-        "gunshots/reload_rifle.ogg"
+        "firearms/reload_rifle.ogg"
     ]
   },
   {
@@ -284,7 +284,7 @@
       "variant": "hk_mp5k",
       "volume": 100,
       "files": [
-        "gunshots/reload_rifle.ogg"
+        "firearms/reload_rifle.ogg"
     ]
   },
   {
@@ -293,7 +293,7 @@
       "variant": "hk_mp5sd",
       "volume": 100,
       "files": [
-        "gunshots/reload_rifle.ogg"
+        "firearms/reload_rifle.ogg"
     ]
   },
   {
@@ -302,7 +302,7 @@
       "variant": "hk_mp7",
       "volume": 100,
       "files": [
-        "gunshots/reload_rifle.ogg"
+        "firearms/reload_rifle.ogg"
     ]
   },
   {
@@ -311,7 +311,7 @@
       "variant": "briefcase_smg",
       "volume": 100,
       "files": [
-        "gunshots/reload_rifle.ogg"
+        "firearms/reload_rifle.ogg"
     ]
   },
   {
@@ -320,7 +320,7 @@
       "variant": "hk_usc45",
       "volume": 100,
       "files": [
-        "gunshots/reload_rifle.ogg"
+        "firearms/reload_rifle.ogg"
     ]
   },
   {
@@ -329,7 +329,7 @@
       "variant": "hk417_13",
       "volume": 100,
       "files": [
-        "gunshots/reload_rifle.ogg"
+        "firearms/reload_rifle.ogg"
     ]
   },
   {
@@ -338,7 +338,7 @@
       "variant": "robofac_gun",
       "volume": 100,
       "files": [
-        "gunshots/reload_rifle.ogg"
+        "firearms/reload_rifle.ogg"
     ]
   },
   {
@@ -347,7 +347,7 @@
       "variant": "saiga_12",
       "volume": 100,
       "files": [
-        "gunshots/reload_rifle.ogg"
+        "firearms/reload_rifle.ogg"
     ]
   },
   {
@@ -356,7 +356,7 @@
       "variant": "iwi_tavor_x95_300blk",
       "volume": 100,
       "files": [
-        "gunshots/reload_rifle.ogg"
+        "firearms/reload_rifle.ogg"
     ]
   },
   {
@@ -365,7 +365,7 @@
       "variant": "kord",
       "volume": 100,
       "files": [
-        "gunshots/reload_rifle.ogg"
+        "firearms/reload_rifle.ogg"
     ]
   },
   {
@@ -374,7 +374,7 @@
       "variant": "smg_40",
       "volume": 100,
       "files": [
-        "gunshots/reload_rifle.ogg"
+        "firearms/reload_rifle.ogg"
     ]
   },
   {
@@ -383,7 +383,7 @@
       "variant": "smg_45",
       "volume": 100,
       "files": [
-        "gunshots/reload_rifle.ogg"
+        "firearms/reload_rifle.ogg"
     ]
   },
   {
@@ -392,7 +392,7 @@
       "variant": "smg_9mm",
       "volume": 100,
       "files": [
-        "gunshots/reload_rifle.ogg"
+        "firearms/reload_rifle.ogg"
     ]
   },
   {
@@ -401,7 +401,7 @@
       "variant": "m1carbine",
       "volume": 100,
       "files": [
-        "gunshots/reload_rifle.ogg"
+        "firearms/reload_rifle.ogg"
     ]
   },
   {
@@ -410,7 +410,7 @@
       "variant": "m11",
       "volume": 100,
       "files": [
-        "gunshots/reload_rifle.ogg"
+        "firearms/reload_rifle.ogg"
     ]
   },
   {
@@ -419,7 +419,7 @@
       "variant": "m110a1",
       "volume": 100,
       "files": [
-        "gunshots/reload_rifle.ogg"
+        "firearms/reload_rifle.ogg"
     ]
   },
   {
@@ -428,7 +428,7 @@
       "variant": "m14ebr",
       "volume": 100,
       "files": [
-        "gunshots/reload_rifle.ogg"
+        "firearms/reload_rifle.ogg"
     ]
   },
   {
@@ -437,7 +437,7 @@
       "variant": "m16_auto_rifle",
       "volume": 100,
       "files": [
-        "gunshots/reload_rifle.ogg"
+        "firearms/reload_rifle.ogg"
     ]
   },
   {
@@ -446,7 +446,7 @@
       "variant": "m16a4",
       "volume": 100,
       "files": [
-        "gunshots/reload_rifle.ogg"
+        "firearms/reload_rifle.ogg"
     ]
   },
   {
@@ -455,7 +455,7 @@
       "variant": "m231pfw",
       "volume": 100,
       "files": [
-        "gunshots/reload_rifle.ogg"
+        "firearms/reload_rifle.ogg"
     ]
   },
   {
@@ -464,7 +464,7 @@
       "variant": "m26_mass_standalone",
       "volume": 100,
       "files": [
-        "gunshots/reload_rifle.ogg"
+        "firearms/reload_rifle.ogg"
     ]
   },
   {
@@ -473,7 +473,7 @@
       "variant": "m27_assault_rifle",
       "volume": 100,
       "files": [
-        "gunshots/reload_rifle.ogg"
+        "firearms/reload_rifle.ogg"
     ]
   },
   {
@@ -482,7 +482,7 @@
       "variant": "m4_carbine",
       "volume": 100,
       "files": [
-        "gunshots/reload_rifle.ogg"
+        "firearms/reload_rifle.ogg"
     ]
   },
   {
@@ -491,7 +491,7 @@
       "variant": "famas",
       "volume": 100,
       "files": [
-        "gunshots/reload_rifle.ogg"
+        "firearms/reload_rifle.ogg"
     ]
   },
   {
@@ -500,7 +500,7 @@
       "variant": "draco",
       "volume": 100,
       "files": [
-        "gunshots/reload_rifle.ogg"
+        "firearms/reload_rifle.ogg"
     ]
   },
   {
@@ -509,7 +509,7 @@
       "variant": "mk47",
       "volume": 100,
       "files": [
-        "gunshots/reload_rifle.ogg"
+        "firearms/reload_rifle.ogg"
     ]
   },
   {
@@ -518,7 +518,7 @@
       "variant": "mp18",
       "volume": 100,
       "files": [
-        "gunshots/reload_rifle.ogg"
+        "firearms/reload_rifle.ogg"
     ]
   },
   {
@@ -527,7 +527,7 @@
       "variant": "mp40",
       "volume": 100,
       "files": [
-        "gunshots/reload_rifle.ogg"
+        "firearms/reload_rifle.ogg"
     ]
   },
   {
@@ -536,7 +536,7 @@
       "variant": "pamd68mountable",
       "volume": 100,
       "files": [
-        "gunshots/reload_rifle.ogg"
+        "firearms/reload_rifle.ogg"
     ]
   },
   {
@@ -545,7 +545,7 @@
       "variant": "oa93",
       "volume": 100,
       "files": [
-        "gunshots/reload_rifle.ogg"
+        "firearms/reload_rifle.ogg"
     ]
   },
   {
@@ -554,7 +554,7 @@
       "variant": "ppsh",
       "volume": 100,
       "files": [
-        "gunshots/reload_rifle.ogg"
+        "firearms/reload_rifle.ogg"
     ]
   },
   {
@@ -563,7 +563,7 @@
       "variant": "hk_mp5_semi_pistol",
       "volume": 100,
       "files": [
-        "gunshots/reload_rifle.ogg"
+        "firearms/reload_rifle.ogg"
     ]
   },
   {
@@ -572,7 +572,7 @@
       "variant": "acr_300blk",
       "volume": 100,
       "files": [
-        "gunshots/reload_rifle.ogg"
+        "firearms/reload_rifle.ogg"
     ]
   },
   {
@@ -581,7 +581,7 @@
       "variant": "rm20",
       "volume": 100,
       "files": [
-        "gunshots/reload_rifle.ogg"
+        "firearms/reload_rifle.ogg"
     ]
   },
   {
@@ -590,7 +590,7 @@
       "variant": "rm2000_smg",
       "volume": 100,
       "files": [
-        "gunshots/reload_rifle.ogg"
+        "firearms/reload_rifle.ogg"
     ]
   },
   {
@@ -599,7 +599,7 @@
       "variant": "needlegun",
       "volume": 100,
       "files": [
-        "gunshots/reload_rifle.ogg"
+        "firearms/reload_rifle.ogg"
     ]
   },
   {
@@ -608,7 +608,7 @@
       "variant": "rm228",
       "volume": 100,
       "files": [
-        "gunshots/reload_rifle.ogg"
+        "firearms/reload_rifle.ogg"
     ]
   },
   {
@@ -617,7 +617,7 @@
       "variant": "rm51_assault_rifle",
       "volume": 100,
       "files": [
-        "gunshots/reload_rifle.ogg"
+        "firearms/reload_rifle.ogg"
     ]
   },
   {
@@ -626,7 +626,7 @@
       "variant": "rm88_battle_rifle",
       "volume": 100,
       "files": [
-        "gunshots/reload_rifle.ogg"
+        "firearms/reload_rifle.ogg"
     ]
   },
   {
@@ -635,7 +635,7 @@
       "variant": "pamd68rubik",
       "volume": 100,
       "files": [
-        "gunshots/reload_rifle.ogg"
+        "firearms/reload_rifle.ogg"
     ]
   },
   {
@@ -644,7 +644,7 @@
       "variant": "ruger_1022",
       "volume": 100,
       "files": [
-        "gunshots/reload_rifle.ogg"
+        "firearms/reload_rifle.ogg"
     ]
   },
   {
@@ -653,7 +653,7 @@
       "variant": "ruger_mini",
       "volume": 100,
       "files": [
-        "gunshots/reload_rifle.ogg"
+        "firearms/reload_rifle.ogg"
     ]
   },
   {
@@ -662,7 +662,7 @@
       "variant": "saiga_410",
       "volume": 100,
       "files": [
-        "gunshots/reload_rifle.ogg"
+        "firearms/reload_rifle.ogg"
     ]
   },
   {
@@ -671,7 +671,7 @@
       "variant": "mp40semi",
       "volume": 100,
       "files": [
-        "gunshots/reload_rifle.ogg"
+        "firearms/reload_rifle.ogg"
     ]
   },
   {
@@ -680,7 +680,7 @@
       "variant": "sig_assault_rifle",
       "volume": 100,
       "files": [
-        "gunshots/reload_rifle.ogg"
+        "firearms/reload_rifle.ogg"
     ]
   },
   {
@@ -689,7 +689,7 @@
       "variant": "sig_mcx_rattler_sbr",
       "volume": 100,
       "files": [
-        "gunshots/reload_rifle.ogg"
+        "firearms/reload_rifle.ogg"
     ]
   },
   {
@@ -698,7 +698,7 @@
       "variant": "sten",
       "volume": 100,
       "files": [
-        "gunshots/reload_rifle.ogg"
+        "firearms/reload_rifle.ogg"
     ]
   },
   {
@@ -707,7 +707,7 @@
       "variant": "tommygun",
       "volume": 100,
       "files": [
-        "gunshots/reload_rifle.ogg"
+        "firearms/reload_rifle.ogg"
     ]
   },
   {
@@ -716,7 +716,7 @@
       "variant": "hk_ump45",
       "volume": 100,
       "files": [
-        "gunshots/reload_rifle.ogg"
+        "firearms/reload_rifle.ogg"
     ]
   },
   {
@@ -725,7 +725,7 @@
       "variant": "vz58_p",
       "volume": 100,
       "files": [
-        "gunshots/reload_rifle.ogg"
+        "firearms/reload_rifle.ogg"
     ]
   },
   {
@@ -734,7 +734,7 @@
       "variant": "vz58ts",
       "volume": 100,
       "files": [
-        "gunshots/reload_rifle.ogg"
+        "firearms/reload_rifle.ogg"
     ]
   }
 ]

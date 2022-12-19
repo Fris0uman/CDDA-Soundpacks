@@ -5,7 +5,7 @@
       "variant": "m2browning_sawn",
       "volume": 100,
       "files": [
-        "gunshots/reload_sniper.ogg"
+        "firearms/reload_sniper.ogg"
     ]
   },
   {
@@ -14,7 +14,7 @@
       "variant": "bh_m89",
       "volume": 100,
       "files": [
-        "gunshots/reload_sniper.ogg"
+        "firearms/reload_sniper.ogg"
     ]
   },
   {
@@ -23,7 +23,7 @@
       "variant": "sharps",
       "volume": 100,
       "files": [
-        "gunshots/reload_sniper.ogg"
+        "firearms/reload_sniper.ogg"
     ]
   },
   {
@@ -32,7 +32,7 @@
       "variant": "as50",
       "volume": 100,
       "files": [
-        "gunshots/reload_sniper.ogg"
+        "firearms/reload_sniper.ogg"
     ]
   },
   {
@@ -41,7 +41,7 @@
       "variant": "m107a1",
       "volume": 100,
       "files": [
-        "gunshots/reload_sniper.ogg"
+        "firearms/reload_sniper.ogg"
     ]
   },
   {
@@ -50,7 +50,7 @@
       "variant": "remington700_270",
       "volume": 100,
       "files": [
-        "gunshots/reload_sniper.ogg"
+        "firearms/reload_sniper.ogg"
     ]
   },
   {
@@ -59,7 +59,7 @@
       "variant": "combination_gun",
       "volume": 100,
       "files": [
-        "gunshots/reload_sniper.ogg"
+        "firearms/reload_sniper.ogg"
     ]
   },
   {
@@ -68,7 +68,7 @@
       "variant": "trex_gun",
       "volume": 100,
       "files": [
-        "gunshots/reload_sniper.ogg"
+        "firearms/reload_sniper.ogg"
     ]
   },
   {
@@ -77,7 +77,7 @@
       "variant": "pamd71z",
       "volume": 100,
       "files": [
-        "gunshots/reload_sniper.ogg"
+        "firearms/reload_sniper.ogg"
     ]
   },
   {
@@ -86,7 +86,7 @@
       "variant": "henry_big_boy",
       "volume": 100,
       "files": [
-        "gunshots/reload_sniper.ogg"
+        "firearms/reload_sniper.ogg"
     ]
   },
   {
@@ -95,7 +95,7 @@
       "variant": "garand",
       "volume": 100,
       "files": [
-        "gunshots/reload_sniper.ogg"
+        "firearms/reload_sniper.ogg"
     ]
   },
   {
@@ -104,7 +104,7 @@
       "variant": "m1903",
       "volume": 100,
       "files": [
-        "gunshots/reload_sniper.ogg"
+        "firearms/reload_sniper.ogg"
     ]
   },
   {
@@ -113,7 +113,7 @@
       "variant": "m1a",
       "volume": 100,
       "files": [
-        "gunshots/reload_sniper.ogg"
+        "firearms/reload_sniper.ogg"
     ]
   },
   {
@@ -122,7 +122,7 @@
       "variant": "m2carbine",
       "volume": 100,
       "files": [
-        "gunshots/reload_sniper.ogg"
+        "firearms/reload_sniper.ogg"
     ]
   },
   {
@@ -131,7 +131,7 @@
       "variant": "m2010",
       "volume": 100,
       "files": [
-        "gunshots/reload_sniper.ogg"
+        "firearms/reload_sniper.ogg"
     ]
   },
   {
@@ -140,7 +140,7 @@
       "variant": "M24",
       "volume": 100,
       "files": [
-        "gunshots/reload_sniper.ogg"
+        "firearms/reload_sniper.ogg"
     ]
   },
   {
@@ -149,7 +149,7 @@
       "variant": "1895sbl",
       "volume": 100,
       "files": [
-        "gunshots/reload_sniper.ogg"
+        "firearms/reload_sniper.ogg"
     ]
   },
   {
@@ -158,7 +158,7 @@
       "variant": "marlin_9a",
       "volume": 100,
       "files": [
-        "gunshots/reload_sniper.ogg"
+        "firearms/reload_sniper.ogg"
     ]
   },
   {
@@ -167,7 +167,7 @@
       "variant": "tac50",
       "volume": 100,
       "files": [
-        "gunshots/reload_sniper.ogg"
+        "firearms/reload_sniper.ogg"
     ]
   },
   {
@@ -176,7 +176,7 @@
       "variant": "mosin91_30",
       "volume": 100,
       "files": [
-        "gunshots/reload_sniper.ogg"
+        "firearms/reload_sniper.ogg"
     ]
   },
   {
@@ -185,7 +185,7 @@
       "variant": "mosin44",
       "volume": 100,
       "files": [
-        "gunshots/reload_sniper.ogg"
+        "firearms/reload_sniper.ogg"
     ]
   },
   {
@@ -194,7 +194,7 @@
       "variant": "remington_700",
       "volume": 100,
       "files": [
-        "gunshots/reload_sniper.ogg"
+        "firearms/reload_sniper.ogg"
     ]
   },
   {
@@ -203,7 +203,7 @@
       "variant": "rm11b_sniper_rifle",
       "volume": 100,
       "files": [
-        "gunshots/reload_sniper.ogg"
+        "firearms/reload_sniper.ogg"
     ]
   },
   {
@@ -212,7 +212,7 @@
       "variant": "savage_111f",
       "volume": 100,
       "files": [
-        "gunshots/reload_sniper.ogg"
+        "firearms/reload_sniper.ogg"
     ]
   },
   {
@@ -221,7 +221,7 @@
       "variant": "bfg50",
       "volume": 100,
       "files": [
-        "gunshots/reload_sniper.ogg"
+        "firearms/reload_sniper.ogg"
     ]
   },
   {
@@ -230,7 +230,7 @@
       "variant": "sks",
       "volume": 100,
       "files": [
-        "gunshots/reload_sniper.ogg"
+        "firearms/reload_sniper.ogg"
     ]
   },
   {
@@ -239,7 +239,7 @@
       "variant": "obrez",
       "volume": 100,
       "files": [
-        "gunshots/reload_sniper.ogg"
+        "firearms/reload_sniper.ogg"
     ]
   },
   {
@@ -248,7 +248,7 @@
       "variant": "weatherby_5",
       "volume": 100,
       "files": [
-        "gunshots/reload_sniper.ogg"
+        "firearms/reload_sniper.ogg"
     ]
   },
   {
@@ -257,7 +257,7 @@
       "variant": "win70",
       "volume": 100,
       "files": [
-        "gunshots/reload_sniper.ogg"
+        "firearms/reload_sniper.ogg"
     ]
   }
 ]

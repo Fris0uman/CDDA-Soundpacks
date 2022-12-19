@@ -4,9 +4,9 @@
     "id": "fire_gun",
     "volume": 100,
     "files": [
-      "gunshots/gunshot1.ogg",
-      "gunshots/gunshot2.ogg",
-      "gunshots/gunshot3.ogg"
+      "firearms/gunshot1.ogg",
+      "firearms/gunshot2.ogg",
+      "firearms/gunshot3.ogg"
     ]
   }
 ]

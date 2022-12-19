@@ -4,7 +4,7 @@
     "id": "reload",
     "volume": 100,
     "files": [
-      "gunshots/reload_shotgun.ogg"
+      "firearms/reload_shotgun.ogg"
     ],
     "//": "it's safest to use the simple shotgun 'single click' reload by default"
   }

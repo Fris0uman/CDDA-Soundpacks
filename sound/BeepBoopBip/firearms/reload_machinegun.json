@@ -5,7 +5,7 @@
       "variant": "m240",
       "volume": 100,
       "files": [
-        "gunshots/reload_machinegun.ogg"
+        "firearms/reload_machinegun.ogg"
     ]
   },
   {
@@ -14,7 +14,7 @@
       "variant": "m249",
       "volume": 100,
       "files": [
-        "gunshots/reload_machinegun.ogg"
+        "firearms/reload_machinegun.ogg"
     ]
   },
   {
@@ -23,7 +23,7 @@
       "variant": "m249_semi",
       "volume": 100,
       "files": [
-        "gunshots/reload_machinegun.ogg"
+        "firearms/reload_machinegun.ogg"
     ]
   },
   {
@@ -32,7 +32,7 @@
       "variant": "m2browning",
       "volume": 100,
       "files": [
-        "gunshots/reload_machinegun.ogg"
+        "firearms/reload_machinegun.ogg"
     ]
   },
   {
@@ -41,7 +41,7 @@
       "variant": "m60",
       "volume": 100,
       "files": [
-        "gunshots/reload_machinegun.ogg"
+        "firearms/reload_machinegun.ogg"
     ]
   },
   {
@@ -50,7 +50,7 @@
       "variant": "m60_semi",
       "volume": 100,
       "files": [
-        "gunshots/reload_machinegun.ogg"
+        "firearms/reload_machinegun.ogg"
     ]
   },
   {
@@ -59,7 +59,7 @@
       "variant": "rm298",
       "volume": 100,
       "files": [
-        "gunshots/reload_machinegun.ogg"
+        "firearms/reload_machinegun.ogg"
     ]
   },
   {
@@ -68,7 +68,7 @@
       "variant": "rm614_lmg",
       "volume": 100,
       "files": [
-        "gunshots/reload_machinegun.ogg"
+        "firearms/reload_machinegun.ogg"
     ]
   }
 ]

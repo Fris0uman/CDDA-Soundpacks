@@ -5,7 +5,7 @@
       "variant": "doublespeargun",
       "volume": 100,
       "files": [
-        "gunshots/reload_largesingle.ogg"
+        "firearms/reload_largesingle.ogg"
     ]
   },
   {
@@ -14,7 +14,7 @@
       "variant": "minispeargun",
       "volume": 100,
       "files": [
-        "gunshots/reload_largesingle.ogg"
+        "firearms/reload_largesingle.ogg"
     ]
   },
   {
@@ -23,7 +23,7 @@
       "variant": "airspeargun",
       "volume": 100,
       "files": [
-        "gunshots/reload_largesingle.ogg"
+        "firearms/reload_largesingle.ogg"
     ]
   },
   {
@@ -32,7 +32,7 @@
       "variant": "speargun",
       "volume": 100,
       "files": [
-        "gunshots/reload_largesingle.ogg"
+        "firearms/reload_largesingle.ogg"
     ]
   },
   {
@@ -41,7 +41,7 @@
       "variant": "m79",
       "volume": 100,
       "files": [
-        "gunshots/reload_largesingle.ogg"
+        "firearms/reload_largesingle.ogg"
     ]
   },
   {
@@ -50,7 +50,7 @@
       "variant": "launcher_simple",
       "volume": 100,
       "files": [
-        "gunshots/reload_largesingle.ogg"
+        "firearms/reload_largesingle.ogg"
     ]
   },
   {
@@ -59,7 +59,7 @@
       "variant": "triple_launcher_simple",
       "volume": 100,
       "files": [
-        "gunshots/reload_largesingle.ogg"
+        "firearms/reload_largesingle.ogg"
     ]
   },
   {
@@ -68,7 +68,7 @@
       "variant": "rm802",
       "volume": 100,
       "files": [
-        "gunshots/reload_largesingle.ogg"
+        "firearms/reload_largesingle.ogg"
     ]
   },
   {
@@ -77,7 +77,7 @@
       "variant": "m320",
       "volume": 100,
       "files": [
-        "gunshots/reload_largesingle.ogg"
+        "firearms/reload_largesingle.ogg"
     ]
   },
   {
@@ -86,7 +86,7 @@
       "variant": "mgl",
       "volume": 100,
       "files": [
-        "gunshots/reload_largesingle.ogg"
+        "firearms/reload_largesingle.ogg"
     ]
   },
   {
@@ -95,7 +95,7 @@
       "variant": "mark19",
       "volume": 100,
       "files": [
-        "gunshots/reload_largesingle.ogg"
+        "firearms/reload_largesingle.ogg"
     ]
   }
 ]
