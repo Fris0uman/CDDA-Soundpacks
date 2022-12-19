@@ -256,18 +256,18 @@ shotgun (small/medium firearms that do not use magazines/are reloading one round
 other (what do you mean a 12-guage gatling gun)
   bigun
   cannon_3in_ordnance*
-  laser_rifle
+  laser_rifle*
   at4
   atgm_launcher
   blunderbuss*
-  plasma_rifle
+  plasma_rifle*
   bullet_crossbow
-  gatling_mech_laser
-  coilgun
+  gatling_mech_laser*
+  coilgun*
   compositecrossbow
   compcrossbow
   surv_rocket_launcher
-  yrax_deterrent_laser
+  yrax_deterrent_laser*
   doublespeargun*
   flamethrower
   carbine_flintlock*
@@ -277,7 +277,7 @@ other (what do you mean a 12-guage gatling gun)
   hk_g80
   carbine_flintlock_double*
   huge_crossbow
-  hm12
+  hm12*
   m134
   m202_flash
   m3_carlgustav
@@ -289,23 +289,23 @@ other (what do you mean a 12-guage gatling gun)
   mark19*
   mgl*
   minispeargun*
-  v29_turret
+  v29_turret*
   nailgun
   paintballgun
   hand_crossbow
   airspeargun*
-  plasma_gun
+  plasma_gun*
   rep_crossbow
   rm451_flamethrower
   rm802*
-  recon_mech_laser
+  recon_mech_laser*
   RPG
-  gatling_mech_laser_single
-  recon_mech_laser_single
+  gatling_mech_laser_single*
+  recon_mech_laser_single*
   speargun*
   triple_launcher_simple*
   launcher_simple*
-  v29
+  v29*
   watercannon
   crossbow
-  emp_gun
+  emp_gun*
