@@ -255,11 +255,11 @@ shotgun (small/medium firearms that do not use magazines/are reloading one round
   shotgun_410
 other (what do you mean a 12-guage gatling gun)
   bigun
-  cannon_3in_ordnance
+  cannon_3in_ordnance*
   laser_rifle
   at4
   atgm_launcher
-  blunderbuss
+  blunderbuss*
   plasma_rifle
   bullet_crossbow
   gatling_mech_laser
@@ -270,12 +270,12 @@ other (what do you mean a 12-guage gatling gun)
   yrax_deterrent_laser
   doublespeargun*
   flamethrower
-  carbine_flintlock
-  rifle_flintlock
-  pistol_flintlock
-  longrifle_flintlock
+  carbine_flintlock*
+  rifle_flintlock*
+  pistol_flintlock*
+  longrifle_flintlock*
   hk_g80
-  carbine_flintlock_double
+  carbine_flintlock_double*
   huge_crossbow
   hm12
   m134
