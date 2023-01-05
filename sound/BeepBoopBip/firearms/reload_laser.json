@@ -1,129 +1,129 @@
 [
   {
-      "type": "sound_effect",
-      "id": "reload",
-      "variant": "laser_rifle",
-      "volume": 100,
-      "files": [
-        "firearms/reload_laser.ogg"
+    "type": "sound_effect",
+    "id": "reload",
+    "variant": "laser_rifle",
+    "volume": 100,
+    "files": [
+      "firearms/reload_laser.ogg"
     ],
-      "//": "not completely confident in sound, but works well enough. also, most of these weapons can't actually be reloaded"
+    "//": "not completely confident in sound, but works well enough. also, most of these weapons can't actually be reloaded"
   },
   {
-      "type": "sound_effect",
-      "id": "reload",
-      "variant": "plasma_rifle",
-      "volume": 100,
-      "files": [
-        "firearms/reload_laser.ogg"
+    "type": "sound_effect",
+    "id": "reload",
+    "variant": "plasma_rifle",
+    "volume": 100,
+    "files": [
+      "firearms/reload_laser.ogg"
     ]
   },
   {
-      "type": "sound_effect",
-      "id": "reload",
-      "variant": "gatling_mech_laser",
-      "volume": 100,
-      "files": [
-        "firearms/reload_laser.ogg"
+    "type": "sound_effect",
+    "id": "reload",
+    "variant": "gatling_mech_laser",
+    "volume": 100,
+    "files": [
+      "firearms/reload_laser.ogg"
     ]
   },
   {
-      "type": "sound_effect",
-      "id": "reload",
-      "variant": "coilgun",
-      "volume": 100,
-      "files": [
-        "firearms/reload_laser.ogg"
+    "type": "sound_effect",
+    "id": "reload",
+    "variant": "coilgun",
+    "volume": 100,
+    "files": [
+      "firearms/reload_laser.ogg"
     ]
   },
   {
-      "type": "sound_effect",
-      "id": "reload",
-      "variant": "yrax_deterrent_laser",
-      "volume": 100,
-      "files": [
-        "firearms/reload_laser.ogg"
+    "type": "sound_effect",
+    "id": "reload",
+    "variant": "yrax_deterrent_laser",
+    "volume": 100,
+    "files": [
+      "firearms/reload_laser.ogg"
     ]
   },
   {
-      "type": "sound_effect",
-      "id": "reload",
-      "variant": "hm12",
-      "volume": 100,
-      "files": [
-        "firearms/reload_laser.ogg"
+    "type": "sound_effect",
+    "id": "reload",
+    "variant": "hm12",
+    "volume": 100,
+    "files": [
+      "firearms/reload_laser.ogg"
     ]
   },
   {
-      "type": "sound_effect",
-      "id": "reload",
-      "variant": "v29_turret",
-      "volume": 100,
-      "files": [
-        "firearms/reload_laser.ogg"
+    "type": "sound_effect",
+    "id": "reload",
+    "variant": "v29_turret",
+    "volume": 100,
+    "files": [
+      "firearms/reload_laser.ogg"
     ]
   },
   {
-      "type": "sound_effect",
-      "id": "reload",
-      "variant": "plasma_gun",
-      "volume": 100,
-      "files": [
-        "firearms/reload_laser.ogg"
+    "type": "sound_effect",
+    "id": "reload",
+    "variant": "plasma_gun",
+    "volume": 100,
+    "files": [
+      "firearms/reload_laser.ogg"
     ]
   },
   {
-      "type": "sound_effect",
-      "id": "reload",
-      "variant": "recon_mech_laser",
-      "volume": 100,
-      "files": [
-        "firearms/reload_laser.ogg"
+    "type": "sound_effect",
+    "id": "reload",
+    "variant": "recon_mech_laser",
+    "volume": 100,
+    "files": [
+      "firearms/reload_laser.ogg"
     ]
   },
   {
-      "type": "sound_effect",
-      "id": "reload",
-      "variant": "gatling_mech_laser_single",
-      "volume": 100,
-      "files": [
-        "firearms/reload_laser.ogg"
+    "type": "sound_effect",
+    "id": "reload",
+    "variant": "gatling_mech_laser_single",
+    "volume": 100,
+    "files": [
+      "firearms/reload_laser.ogg"
     ]
   },
   {
-      "type": "sound_effect",
-      "id": "reload",
-      "variant": "recon_mech_laser_single",
-      "volume": 100,
-      "files": [
-        "firearms/reload_laser.ogg"
+    "type": "sound_effect",
+    "id": "reload",
+    "variant": "recon_mech_laser_single",
+    "volume": 100,
+    "files": [
+      "firearms/reload_laser.ogg"
     ]
   },
   {
-      "type": "sound_effect",
-      "id": "reload",
-      "variant": "v29",
-      "volume": 100,
-      "files": [
-        "firearms/reload_laser.ogg"
+    "type": "sound_effect",
+    "id": "reload",
+    "variant": "v29",
+    "volume": 100,
+    "files": [
+      "firearms/reload_laser.ogg"
     ]
   },
   {
-      "type": "sound_effect",
-      "id": "reload",
-      "variant": "yrax_deterrent_laser",
-      "volume": 100,
-      "files": [
-        "firearms/reload_laser.ogg"
+    "type": "sound_effect",
+    "id": "reload",
+    "variant": "yrax_deterrent_laser",
+    "volume": 100,
+    "files": [
+      "firearms/reload_laser.ogg"
     ]
   },
   {
-      "type": "sound_effect",
-      "id": "reload",
-      "variant": "emp_gun",
-      "volume": 100,
-      "files": [
-        "firearms/reload_laser.ogg"
+    "type": "sound_effect",
+    "id": "reload",
+    "variant": "emp_gun",
+    "volume": 100,
+    "files": [
+      "firearms/reload_laser.ogg"
     ]
   }
 ]
