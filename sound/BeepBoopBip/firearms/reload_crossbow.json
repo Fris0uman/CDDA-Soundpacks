@@ -1,78 +1,80 @@
 [
   {
-      "type": "sound_effect",
-      "id": "reload",
-      "variant": "bullet_crossbow",
-      "volume": 100,
-      "files": [
-        "firearms/reload_crossbow1.ogg",
-        "firearms/reload_crossbow2.ogg",
-        "firearms/reload_crossbow3.ogg"
+    "type": "sound_effect",
+    "id": "reload",
+    "variant": "bullet_crossbow",
+    "volume": 100,
+    "files": [
+      "firearms/reload_crossbow1.ogg",
+      "firearms/reload_crossbow2.ogg",
+      "firearms/reload_crossbow3.ogg"
+    ]
+    "//": "too quiet?"
+  },
+  {
+    "type": "sound_effect",
+    "id": "reload",
+    "variant": "compositecrossbow",
+    "volume": 100,
+    "files": [
+      "firearms/reload_crossbow1.ogg",
+      "firearms/reload_crossbow2.ogg",
+      "firearms/reload_crossbow3.ogg"
     ]
   },
   {
-      "type": "sound_effect",
-      "id": "reload",
-      "variant": "compositecrossbow",
-      "volume": 100,
-      "files": [
-        "firearms/reload_crossbow1.ogg",
-        "firearms/reload_crossbow2.ogg",
-        "firearms/reload_crossbow3.ogg"
+    "type": "sound_effect",
+    "id": "reload",
+    "variant": "compcrossbow",
+    "volume": 100,
+    "files": [
+      "firearms/reload_crossbow1.ogg",
+      "firearms/reload_crossbow2.ogg",
+      "firearms/reload_crossbow3.ogg"
     ]
   },
   {
-      "type": "sound_effect",
-      "id": "reload",
-      "variant": "compcrossbow",
-      "volume": 100,
-      "files": [
-        "firearms/reload_crossbow1.ogg",
-        "firearms/reload_crossbow2.ogg",
-        "firearms/reload_crossbow3.ogg"
+    "type": "sound_effect",
+    "id": "reload",
+    "variant": "huge_crossbow",
+    "volume": 100,
+    "files": [
+      "firearms/reload_crossbow1.ogg",
+      "firearms/reload_crossbow2.ogg",
+      "firearms/reload_crossbow3.ogg"
     ]
   },
   {
-      "type": "sound_effect",
-      "id": "reload",
-      "variant": "huge_crossbow",
-      "volume": 100,
-      "files": [
-        "firearms/reload_crossbow1.ogg",
-        "firearms/reload_crossbow2.ogg",
-        "firearms/reload_crossbow3.ogg"
+    "type": "sound_effect",
+    "id": "reload",
+    "variant": "hand_crossbow",
+    "volume": 100,
+    "files": [
+      "firearms/reload_crossbow1.ogg",
+      "firearms/reload_crossbow2.ogg",
+      "firearms/reload_crossbow3.ogg"
     ]
   },
   {
-      "type": "sound_effect",
-      "id": "reload",
-      "variant": "hand_crossbow",
-      "volume": 100,
-      "files": [
-        "firearms/reload_crossbow1.ogg",
-        "firearms/reload_crossbow2.ogg",
-        "firearms/reload_crossbow3.ogg"
+    "type": "sound_effect",
+    "id": "reload",
+    "variant": "rep_crossbow",
+    "volume": 100,
+    "files": [
+      "firearms/reload_crossbow1.ogg",
+      "firearms/reload_crossbow2.ogg",
+      "firearms/reload_crossbow3.ogg"
     ]
   },
   {
-      "type": "sound_effect",
-      "id": "reload",
-      "variant": "rep_crossbow",
-      "volume": 100,
-      "files": [
-        "firearms/reload_crossbow1.ogg",
-        "firearms/reload_crossbow2.ogg",
-        "firearms/reload_crossbow3.ogg"
-    ]
-  },
-  {
-      "type": "sound_effect",
-      "id": "reload",
-      "variant": "crossbow",
-      "volume": 100,
-      "files": [
-        "firearms/reload_crossbow1.ogg",        "firearms/reload_crossbow2.ogg",
-        "firearms/reload_crossbow3.ogg"
+    "type": "sound_effect",
+    "id": "reload",
+    "variant": "crossbow",
+    "volume": 100,
+    "files": [
+      "firearms/reload_crossbow1.ogg",
+      "firearms/reload_crossbow2.ogg",
+      "firearms/reload_crossbow3.ogg"
 
     ]
   }
