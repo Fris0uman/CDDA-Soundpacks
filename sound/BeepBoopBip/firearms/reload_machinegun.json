@@ -4,99 +4,69 @@
     "id": "reload",
     "variant": "m240",
     "volume": 100,
-    "files": [
-      "firearms/reload_machinegun1.ogg",
-      "firearms/reload_machinegun2.ogg"
-    ]
+    "files": [ "firearms/reload_machinegun1.ogg", "firearms/reload_machinegun2.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "reload",
     "variant": "m249",
     "volume": 100,
-    "files": [
-      "firearms/reload_machinegun1.ogg",
-      "firearms/reload_machinegun2.ogg"
-    ]
+    "files": [ "firearms/reload_machinegun1.ogg", "firearms/reload_machinegun2.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "reload",
     "variant": "m249_semi",
     "volume": 100,
-    "files": [
-      "firearms/reload_machinegun1.ogg",
-      "firearms/reload_machinegun2.ogg"
-    ]
+    "files": [ "firearms/reload_machinegun1.ogg", "firearms/reload_machinegun2.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "reload",
     "variant": "m2browning",
     "volume": 100,
-    "files": [
-      "firearms/reload_machinegun1.ogg",
-      "firearms/reload_machinegun2.ogg"
-    ]
+    "files": [ "firearms/reload_machinegun1.ogg", "firearms/reload_machinegun2.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "reload",
     "variant": "m60",
     "volume": 100,
-    "files": [
-      "firearms/reload_machinegun1.ogg",
-      "firearms/reload_machinegun2.ogg"
-    ]
+    "files": [ "firearms/reload_machinegun1.ogg", "firearms/reload_machinegun2.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "reload",
     "variant": "m60_semi",
     "volume": 100,
-    "files": [
-      "firearms/reload_machinegun1.ogg",
-      "firearms/reload_machinegun2.ogg"
-    ]
+    "files": [ "firearms/reload_machinegun1.ogg", "firearms/reload_machinegun2.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "reload",
     "variant": "rm298",
     "volume": 100,
-    "files": [
-      "firearms/reload_machinegun1.ogg",
-      "firearms/reload_machinegun2.ogg"
-    ]
+    "files": [ "firearms/reload_machinegun1.ogg", "firearms/reload_machinegun2.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "reload",
     "variant": "rm614_lmg",
     "volume": 100,
-    "files": [
-      "firearms/reload_machinegun1.ogg",
-      "firearms/reload_machinegun2.ogg"
-    ]
+    "files": [ "firearms/reload_machinegun1.ogg", "firearms/reload_machinegun2.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "reload",
     "variant": "bigun",
     "volume": 100,
-    "files": [
-      "firearms/reload_machinegun1.ogg",
-      "firearms/reload_machinegun2.ogg"
-    ]
+    "files": [ "firearms/reload_machinegun1.ogg", "firearms/reload_machinegun2.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "reload",
     "variant": "m134",
     "volume": 100,
-    "files": [
-      "firearms/reload_machinegun1.ogg",
-      "firearms/reload_machinegun2.ogg"
-    ]
+    "files": [ "firearms/reload_machinegun1.ogg", "firearms/reload_machinegun2.ogg" ]
   }
 ]

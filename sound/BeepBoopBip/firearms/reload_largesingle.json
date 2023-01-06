@@ -4,98 +4,76 @@
     "id": "reload",
     "variant": "doublespeargun",
     "volume": 100,
-    "files": [
-      "firearms/reload_largesingle.ogg"
-    ]
+    "files": [ "firearms/reload_largesingle.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "reload",
     "variant": "minispeargun",
     "volume": 100,
-    "files": [
-      "firearms/reload_largesingle.ogg"
-    ]
+    "files": [ "firearms/reload_largesingle.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "reload",
     "variant": "airspeargun",
     "volume": 100,
-    "files": [
-      "firearms/reload_largesingle.ogg"
-    ]
+    "files": [ "firearms/reload_largesingle.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "reload",
     "variant": "speargun",
     "volume": 100,
-    "files": [
-      "firearms/reload_largesingle.ogg"
-    ]
+    "files": [ "firearms/reload_largesingle.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "reload",
     "variant": "m79",
     "volume": 100,
-    "files": [
-      "firearms/reload_largesingle.ogg"
-    ]
+    "files": [ "firearms/reload_largesingle.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "reload",
     "variant": "launcher_simple",
     "volume": 100,
-    "files": [
-      "firearms/reload_largesingle.ogg"
-    ]
+    "files": [ "firearms/reload_largesingle.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "reload",
     "variant": "triple_launcher_simple",
     "volume": 100,
-    "files": [
-      "firearms/reload_largesingle.ogg"
-    ]
+    "files": [ "firearms/reload_largesingle.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "reload",
     "variant": "rm802",
     "volume": 100,
-    "files": [
-      "firearms/reload_largesingle.ogg"
-    ]
+    "files": [ "firearms/reload_largesingle.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "reload",
     "variant": "m320",
     "volume": 100,
-    "files": [
-      "firearms/reload_largesingle.ogg"
-    ]
+    "files": [ "firearms/reload_largesingle.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "reload",
     "variant": "mgl",
     "volume": 100,
-    "files": [
-      "firearms/reload_largesingle.ogg"
-    ]
+    "files": [ "firearms/reload_largesingle.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "reload",
     "variant": "mark19",
     "volume": 100,
-    "files": [
-      "firearms/reload_largesingle.ogg"
-    ]
+    "files": [ "firearms/reload_largesingle.ogg" ]
   }
 ]

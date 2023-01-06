@@ -3,10 +3,6 @@
     "type": "sound_effect",
     "id": "fire_gun",
     "volume": 100,
-    "files": [
-      "firearms/gunshot1.ogg",
-      "firearms/gunshot2.ogg",
-      "firearms/gunshot3.ogg"
-    ]
+    "files": [ "firearms/gunshot1.ogg", "firearms/gunshot2.ogg", "firearms/gunshot3.ogg" ]
   }
 ]

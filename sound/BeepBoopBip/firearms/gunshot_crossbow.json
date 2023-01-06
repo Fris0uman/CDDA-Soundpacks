@@ -4,263 +4,167 @@
     "id": "fire_gun",
     "variant": "bullet_crossbow",
     "volume": 100,
-    "files": [
-      "firearms/gunshot_crossbow1.ogg",
-      "firearms/gunshot_crossbow2.ogg",
-      "firearms/gunshot_crossbow3.ogg"
-    ]
+    "files": [ "firearms/gunshot_crossbow1.ogg", "firearms/gunshot_crossbow2.ogg", "firearms/gunshot_crossbow3.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "fire_gun",
     "variant": "compositecrossbow",
     "volume": 100,
-    "files": [
-      "firearms/gunshot_crossbow1.ogg",
-      "firearms/gunshot_crossbow2.ogg",
-      "firearms/gunshot_crossbow3.ogg"
-    ]
+    "files": [ "firearms/gunshot_crossbow1.ogg", "firearms/gunshot_crossbow2.ogg", "firearms/gunshot_crossbow3.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "fire_gun",
     "variant": "compcrossbow",
     "volume": 100,
-    "files": [
-      "firearms/gunshot_crossbow1.ogg",
-      "firearms/gunshot_crossbow2.ogg",
-      "firearms/gunshot_crossbow3.ogg"
-    ]
+    "files": [ "firearms/gunshot_crossbow1.ogg", "firearms/gunshot_crossbow2.ogg", "firearms/gunshot_crossbow3.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "fire_gun",
     "variant": "huge_crossbow",
     "volume": 100,
-    "files": [
-      "firearms/gunshot_crossbow1.ogg",
-      "firearms/gunshot_crossbow2.ogg",
-      "firearms/gunshot_crossbow3.ogg"
-    ]
+    "files": [ "firearms/gunshot_crossbow1.ogg", "firearms/gunshot_crossbow2.ogg", "firearms/gunshot_crossbow3.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "fire_gun",
     "variant": "hand_crossbow",
     "volume": 100,
-    "files": [
-      "firearms/gunshot_crossbow1.ogg",
-      "firearms/gunshot_crossbow2.ogg",
-      "firearms/gunshot_crossbow3.ogg"
-    ]
+    "files": [ "firearms/gunshot_crossbow1.ogg", "firearms/gunshot_crossbow2.ogg", "firearms/gunshot_crossbow3.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "fire_gun",
     "variant": "rep_crossbow",
     "volume": 100,
-    "files": [
-      "firearms/gunshot_crossbow1.ogg",
-      "firearms/gunshot_crossbow2.ogg",
-      "firearms/gunshot_crossbow3.ogg"
-    ]
+    "files": [ "firearms/gunshot_crossbow1.ogg", "firearms/gunshot_crossbow2.ogg", "firearms/gunshot_crossbow3.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "fire_gun",
     "variant": "crossbow",
     "volume": 100,
-    "files": [
-      "firearms/gunshot_crossbow1.ogg",
-      "firearms/gunshot_crossbow2.ogg",
-      "firearms/gunshot_crossbow3.ogg"
-    ]
+    "files": [ "firearms/gunshot_crossbow1.ogg", "firearms/gunshot_crossbow2.ogg", "firearms/gunshot_crossbow3.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "fire_gun",
     "variant": "slingshot",
     "volume": 100,
-    "files": [
-      "firearms/gunshot_crossbow1.ogg",
-      "firearms/gunshot_crossbow2.ogg",
-      "firearms/gunshot_crossbow3.ogg"
-    ]
+    "files": [ "firearms/gunshot_crossbow1.ogg", "firearms/gunshot_crossbow2.ogg", "firearms/gunshot_crossbow3.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "fire_gun",
     "variant": "sling",
     "volume": 100,
-    "files": [
-      "firearms/gunshot_crossbow1.ogg",
-      "firearms/gunshot_crossbow2.ogg",
-      "firearms/gunshot_crossbow3.ogg"
-    ]
+    "files": [ "firearms/gunshot_crossbow1.ogg", "firearms/gunshot_crossbow2.ogg", "firearms/gunshot_crossbow3.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "fire_gun",
     "variant": "staff_sling",
     "volume": 100,
-    "files": [
-      "firearms/gunshot_crossbow1.ogg",
-      "firearms/gunshot_crossbow2.ogg",
-      "firearms/gunshot_crossbow3.ogg"
-    ]
+    "files": [ "firearms/gunshot_crossbow1.ogg", "firearms/gunshot_crossbow2.ogg", "firearms/gunshot_crossbow3.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "fire_gun",
     "variant": "wristrocket",
     "volume": 100,
-    "files": [
-      "firearms/gunshot_crossbow1.ogg",
-      "firearms/gunshot_crossbow2.ogg",
-      "firearms/gunshot_crossbow3.ogg"
-    ]
+    "files": [ "firearms/gunshot_crossbow1.ogg", "firearms/gunshot_crossbow2.ogg", "firearms/gunshot_crossbow3.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "fire_gun",
     "variant": "shortbow",
     "volume": 100,
-    "files": [
-      "firearms/gunshot_crossbow1.ogg",
-      "firearms/gunshot_crossbow2.ogg",
-      "firearms/gunshot_crossbow3.ogg"
-    ]
+    "files": [ "firearms/gunshot_crossbow1.ogg", "firearms/gunshot_crossbow2.ogg", "firearms/gunshot_crossbow3.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "fire_gun",
     "variant": "selfbow",
     "volume": 100,
-    "files": [
-      "firearms/gunshot_crossbow1.ogg",
-      "firearms/gunshot_crossbow2.ogg",
-      "firearms/gunshot_crossbow3.ogg"
-    ]
+    "files": [ "firearms/gunshot_crossbow1.ogg", "firearms/gunshot_crossbow2.ogg", "firearms/gunshot_crossbow3.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "fire_gun",
     "variant": "recurbow",
     "volume": 100,
-    "files": [
-      "firearms/gunshot_crossbow1.ogg",
-      "firearms/gunshot_crossbow2.ogg",
-      "firearms/gunshot_crossbow3.ogg"
-    ]
+    "files": [ "firearms/gunshot_crossbow1.ogg", "firearms/gunshot_crossbow2.ogg", "firearms/gunshot_crossbow3.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "fire_gun",
     "variant": "longbow",
     "volume": 100,
-    "files": [
-      "firearms/gunshot_crossbow1.ogg",
-      "firearms/gunshot_crossbow2.ogg",
-      "firearms/gunshot_crossbow3.ogg"
-    ]
+    "files": [ "firearms/gunshot_crossbow1.ogg", "firearms/gunshot_crossbow2.ogg", "firearms/gunshot_crossbow3.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "fire_gun",
     "variant": "takedown_recurbow",
     "volume": 100,
-    "files": [
-      "firearms/gunshot_crossbow1.ogg",
-      "firearms/gunshot_crossbow2.ogg",
-      "firearms/gunshot_crossbow3.ogg"
-    ]
+    "files": [ "firearms/gunshot_crossbow1.ogg", "firearms/gunshot_crossbow2.ogg", "firearms/gunshot_crossbow3.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "fire_gun",
     "variant": "compbow",
     "volume": 100,
-    "files": [
-      "firearms/gunshot_crossbow1.ogg",
-      "firearms/gunshot_crossbow2.ogg",
-      "firearms/gunshot_crossbow3.ogg"
-    ]
+    "files": [ "firearms/gunshot_crossbow1.ogg", "firearms/gunshot_crossbow2.ogg", "firearms/gunshot_crossbow3.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "fire_gun",
     "variant": "reflexbow",
     "volume": 100,
-    "files": [
-      "firearms/gunshot_crossbow1.ogg",
-      "firearms/gunshot_crossbow2.ogg",
-      "firearms/gunshot_crossbow3.ogg"
-    ]
+    "files": [ "firearms/gunshot_crossbow1.ogg", "firearms/gunshot_crossbow2.ogg", "firearms/gunshot_crossbow3.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "fire_gun",
     "variant": "compositebow",
     "volume": 100,
-    "files": [
-      "firearms/gunshot_crossbow1.ogg",
-      "firearms/gunshot_crossbow2.ogg",
-      "firearms/gunshot_crossbow3.ogg"
-    ]
+    "files": [ "firearms/gunshot_crossbow1.ogg", "firearms/gunshot_crossbow2.ogg", "firearms/gunshot_crossbow3.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "fire_gun",
     "variant": "reflexrecurvebow",
     "volume": 100,
-    "files": [
-      "firearms/gunshot_crossbow1.ogg",
-      "firearms/gunshot_crossbow2.ogg",
-      "firearms/gunshot_crossbow3.ogg"
-    ]
+    "files": [ "firearms/gunshot_crossbow1.ogg", "firearms/gunshot_crossbow2.ogg", "firearms/gunshot_crossbow3.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "fire_gun",
     "variant": "compbow_low",
     "volume": 100,
-    "files": [
-      "firearms/gunshot_crossbow1.ogg",
-      "firearms/gunshot_crossbow2.ogg",
-      "firearms/gunshot_crossbow3.ogg"
-    ]
+    "files": [ "firearms/gunshot_crossbow1.ogg", "firearms/gunshot_crossbow2.ogg", "firearms/gunshot_crossbow3.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "fire_gun",
     "variant": "compbow_high",
     "volume": 100,
-    "files": [
-      "firearms/gunshot_crossbow1.ogg",
-      "firearms/gunshot_crossbow2.ogg",
-      "firearms/gunshot_crossbow3.ogg"
-    ]
+    "files": [ "firearms/gunshot_crossbow1.ogg", "firearms/gunshot_crossbow2.ogg", "firearms/gunshot_crossbow3.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "fire_gun",
     "variant": "woodgreatbow",
     "volume": 100,
-    "files": [
-      "firearms/gunshot_crossbow1.ogg",
-      "firearms/gunshot_crossbow2.ogg",
-      "firearms/gunshot_crossbow3.ogg"
-    ]
+    "files": [ "firearms/gunshot_crossbow1.ogg", "firearms/gunshot_crossbow2.ogg", "firearms/gunshot_crossbow3.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "fire_gun",
     "variant": "compgreatbow",
     "volume": 100,
-    "files": [
-      "firearms/gunshot_crossbow1.ogg",
-      "firearms/gunshot_crossbow2.ogg",
-      "firearms/gunshot_crossbow3.ogg"
-    ]
+    "files": [ "firearms/gunshot_crossbow1.ogg", "firearms/gunshot_crossbow2.ogg", "firearms/gunshot_crossbow3.ogg" ]
   }
 ]

@@ -4,69 +4,48 @@
     "id": "reload",
     "variant": "cannon_3in_ordnance",
     "volume": 100,
-    "files": [
-      "firearms/reload_flintlock1.ogg",
-      "firearms/reload_flintlock2.ogg"
-    ]
+    "files": [ "firearms/reload_flintlock1.ogg", "firearms/reload_flintlock2.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "reload",
     "variant": "blunderbuss",
     "volume": 100,
-    "files": [
-      "firearms/reload_flintlock1.ogg",
-      "firearms/reload_flintlock2.ogg"
-    ]
+    "files": [ "firearms/reload_flintlock1.ogg", "firearms/reload_flintlock2.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "reload",
     "variant": "carbine_flintlock",
     "volume": 100,
-    "files": [
-      "firearms/reload_flintlock1.ogg",
-      "firearms/reload_flintlock2.ogg"
-    ]
+    "files": [ "firearms/reload_flintlock1.ogg", "firearms/reload_flintlock2.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "reload",
     "variant": "rifle_flintlock",
     "volume": 100,
-    "files": [
-      "firearms/reload_flintlock1.ogg",
-      "firearms/reload_flintlock2.ogg"
-    ]
+    "files": [ "firearms/reload_flintlock1.ogg", "firearms/reload_flintlock2.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "reload",
     "variant": "pistol_flintlock",
     "volume": 100,
-    "files": [
-      "firearms/reload_flintlock1.ogg",
-      "firearms/reload_flintlock2.ogg"
-    ]
+    "files": [ "firearms/reload_flintlock1.ogg", "firearms/reload_flintlock2.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "reload",
     "variant": "longrifle_flintlock",
     "volume": 100,
-    "files": [
-      "firearms/reload_flintlock1.ogg",
-      "firearms/reload_flintlock2.ogg"
-    ]
+    "files": [ "firearms/reload_flintlock1.ogg", "firearms/reload_flintlock2.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "reload",
     "variant": "carbine_flintlock_double",
     "volume": 100,
-    "files": [
-      "firearms/reload_flintlock1.ogg",
-      "firearms/reload_flintlock2.ogg"
-    ]
+    "files": [ "firearms/reload_flintlock1.ogg", "firearms/reload_flintlock2.ogg" ]
   }
 ]

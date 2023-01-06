@@ -4,289 +4,202 @@
     "id": "reload",
     "variant": "m2browning_sawn",
     "volume": 100,
-    "files": [
-      "firearms/reload_sniper1.ogg",
-      "firearms/reload_sniper2.ogg"
-    ]
+    "files": [ "firearms/reload_sniper1.ogg", "firearms/reload_sniper2.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "reload",
     "variant": "bh_m89",
     "volume": 100,
-    "files": [
-      "firearms/reload_sniper1.ogg",
-      "firearms/reload_sniper2.ogg"
-    ]
+    "files": [ "firearms/reload_sniper1.ogg", "firearms/reload_sniper2.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "reload",
     "variant": "sharps",
     "volume": 100,
-    "files": [
-      "firearms/reload_sniper1.ogg",
-      "firearms/reload_sniper2.ogg"
-    ]
+    "files": [ "firearms/reload_sniper1.ogg", "firearms/reload_sniper2.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "reload",
     "variant": "as50",
     "volume": 100,
-    "files": [
-      "firearms/reload_sniper1.ogg",
-      "firearms/reload_sniper2.ogg"
-    ]
+    "files": [ "firearms/reload_sniper1.ogg", "firearms/reload_sniper2.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "reload",
     "variant": "m107a1",
     "volume": 100,
-    "files": [
-      "firearms/reload_sniper1.ogg",
-      "firearms/reload_sniper2.ogg"
-    ]
+    "files": [ "firearms/reload_sniper1.ogg", "firearms/reload_sniper2.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "reload",
     "variant": "remington700_270",
     "volume": 100,
-    "files": [
-      "firearms/reload_sniper1.ogg",
-      "firearms/reload_sniper2.ogg"
-    ]
+    "files": [ "firearms/reload_sniper1.ogg", "firearms/reload_sniper2.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "reload",
     "variant": "combination_gun",
     "volume": 100,
-    "files": [
-      "firearms/reload_sniper1.ogg",
-      "firearms/reload_sniper2.ogg"
-    ]
+    "files": [ "firearms/reload_sniper1.ogg", "firearms/reload_sniper2.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "reload",
     "variant": "trex_gun",
     "volume": 100,
-    "files": [
-      "firearms/reload_sniper1.ogg",
-      "firearms/reload_sniper2.ogg"
-    ]
+    "files": [ "firearms/reload_sniper1.ogg", "firearms/reload_sniper2.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "reload",
     "variant": "pamd71z",
     "volume": 100,
-    "files": [
-      "firearms/reload_sniper1.ogg",
-      "firearms/reload_sniper2.ogg"
-    ]
+    "files": [ "firearms/reload_sniper1.ogg", "firearms/reload_sniper2.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "reload",
     "variant": "henry_big_boy",
     "volume": 100,
-    "files": [
-      "firearms/reload_sniper1.ogg",
-      "firearms/reload_sniper2.ogg"
-    ]
+    "files": [ "firearms/reload_sniper1.ogg", "firearms/reload_sniper2.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "reload",
     "variant": "garand",
     "volume": 100,
-    "files": [
-      "firearms/reload_sniper1.ogg",
-      "firearms/reload_sniper2.ogg"
-    ]
+    "files": [ "firearms/reload_sniper1.ogg", "firearms/reload_sniper2.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "reload",
     "variant": "m1903",
     "volume": 100,
-    "files": [
-      "firearms/reload_sniper1.ogg",
-      "firearms/reload_sniper2.ogg"
-    ]
+    "files": [ "firearms/reload_sniper1.ogg", "firearms/reload_sniper2.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "reload",
     "variant": "m1a",
     "volume": 100,
-    "files": [
-      "firearms/reload_sniper1.ogg",
-      "firearms/reload_sniper2.ogg"
-    ]
+    "files": [ "firearms/reload_sniper1.ogg", "firearms/reload_sniper2.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "reload",
     "variant": "m2carbine",
     "volume": 100,
-    "files": [
-      "firearms/reload_sniper1.ogg",
-      "firearms/reload_sniper2.ogg"
-    ]
+    "files": [ "firearms/reload_sniper1.ogg", "firearms/reload_sniper2.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "reload",
     "variant": "m2010",
     "volume": 100,
-    "files": [
-      "firearms/reload_sniper1.ogg",
-      "firearms/reload_sniper2.ogg"
-    ]
+    "files": [ "firearms/reload_sniper1.ogg", "firearms/reload_sniper2.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "reload",
     "variant": "M24",
     "volume": 100,
-    "files": [
-      "firearms/reload_sniper1.ogg",
-      "firearms/reload_sniper2.ogg"
-    ]
+    "files": [ "firearms/reload_sniper1.ogg", "firearms/reload_sniper2.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "reload",
     "variant": "1895sbl",
     "volume": 100,
-    "files": [
-      "firearms/reload_sniper1.ogg",
-      "firearms/reload_sniper2.ogg"
-    ]
+    "files": [ "firearms/reload_sniper1.ogg", "firearms/reload_sniper2.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "reload",
     "variant": "marlin_9a",
     "volume": 100,
-    "files": [
-      "firearms/reload_sniper1.ogg",
-      "firearms/reload_sniper2.ogg"
-    ]
+    "files": [ "firearms/reload_sniper1.ogg", "firearms/reload_sniper2.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "reload",
     "variant": "tac50",
     "volume": 100,
-    "files": [
-      "firearms/reload_sniper1.ogg",
-      "firearms/reload_sniper2.ogg"
-    ]
+    "files": [ "firearms/reload_sniper1.ogg", "firearms/reload_sniper2.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "reload",
     "variant": "mosin91_30",
     "volume": 100,
-    "files": [
-      "firearms/reload_sniper1.ogg",
-      "firearms/reload_sniper2.ogg"
-    ]
+    "files": [ "firearms/reload_sniper1.ogg", "firearms/reload_sniper2.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "reload",
     "variant": "mosin44",
     "volume": 100,
-    "files": [
-      "firearms/reload_sniper1.ogg",
-      "firearms/reload_sniper2.ogg"
-    ]
+    "files": [ "firearms/reload_sniper1.ogg", "firearms/reload_sniper2.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "reload",
     "variant": "remington_700",
     "volume": 100,
-    "files": [
-      "firearms/reload_sniper1.ogg",
-      "firearms/reload_sniper2.ogg"
-    ]
+    "files": [ "firearms/reload_sniper1.ogg", "firearms/reload_sniper2.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "reload",
     "variant": "rm11b_sniper_rifle",
     "volume": 100,
-    "files": [
-      "firearms/reload_sniper1.ogg",
-      "firearms/reload_sniper2.ogg"
-    ]
+    "files": [ "firearms/reload_sniper1.ogg", "firearms/reload_sniper2.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "reload",
     "variant": "savage_111f",
     "volume": 100,
-    "files": [
-      "firearms/reload_sniper1.ogg",
-      "firearms/reload_sniper2.ogg"
-    ]
+    "files": [ "firearms/reload_sniper1.ogg", "firearms/reload_sniper2.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "reload",
     "variant": "bfg50",
     "volume": 100,
-    "files": [
-      "firearms/reload_sniper1.ogg",
-      "firearms/reload_sniper2.ogg"
-    ]
+    "files": [ "firearms/reload_sniper1.ogg", "firearms/reload_sniper2.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "reload",
     "variant": "sks",
     "volume": 100,
-    "files": [
-      "firearms/reload_sniper1.ogg",
-      "firearms/reload_sniper2.ogg"
-    ]
+    "files": [ "firearms/reload_sniper1.ogg", "firearms/reload_sniper2.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "reload",
     "variant": "obrez",
     "volume": 100,
-    "files": [
-      "firearms/reload_sniper1.ogg",
-      "firearms/reload_sniper2.ogg"
-    ]
+    "files": [ "firearms/reload_sniper1.ogg", "firearms/reload_sniper2.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "reload",
     "variant": "weatherby_5",
     "volume": 100,
-    "files": [
-      "firearms/reload_sniper1.ogg",
-      "firearms/reload_sniper2.ogg"
-    ]
+    "files": [ "firearms/reload_sniper1.ogg", "firearms/reload_sniper2.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "reload",
     "variant": "win70",
     "volume": 100,
-    "files": [
-      "firearms/reload_sniper1.ogg",
-      "firearms/reload_sniper2.ogg"
-    ]
+    "files": [ "firearms/reload_sniper1.ogg", "firearms/reload_sniper2.ogg" ]
   }
 ]

@@ -2,72 +2,43 @@
   {
     "type": "sound_effect",
     "id": "reload",
-    "variant": "at4",
-    "volume": 100,
-    "files": [
-      "firearms/reload_rocket1.ogg",
-      "firearms/reload_rocket2.ogg"
-    ],
-    "//": "this isn't reloadable irl, but okay"
-  },
-  {
-    "type": "sound_effect",
-    "id": "reload",
     "variant": "atgm_launcher",
     "volume": 100,
-    "files": [
-      "firearms/reload_rocket1.ogg",
-      "firearms/reload_rocket2.ogg"
-    ]
+    "files": [ "firearms/reload_rocket1.ogg", "firearms/reload_rocket2.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "reload",
     "variant": "surv_rocket_launcher",
     "volume": 100,
-    "files": [
-      "firearms/reload_rocket1.ogg",
-      "firearms/reload_rocket2.ogg"
-    ]
+    "files": [ "firearms/reload_rocket1.ogg", "firearms/reload_rocket2.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "reload",
     "variant": "hk_g80",
     "volume": 100,
-    "files": [
-      "firearms/reload_rocket1.ogg",
-      "firearms/reload_rocket2.ogg"
-    ]
+    "files": [ "firearms/reload_rocket1.ogg", "firearms/reload_rocket2.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "reload",
     "variant": "m202_flash",
     "volume": 100,
-    "files": [
-      "firearms/reload_rocket1.ogg",
-      "firearms/reload_rocket2.ogg"
-    ]
+    "files": [ "firearms/reload_rocket1.ogg", "firearms/reload_rocket2.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "reload",
     "variant": "m3_carlgustav",
     "volume": 100,
-    "files": [
-      "firearms/reload_rocket1.ogg",
-      "firearms/reload_rocket2.ogg"
-    ]
+    "files": [ "firearms/reload_rocket1.ogg", "firearms/reload_rocket2.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "reload",
     "variant": "RPG",
     "volume": 100,
-    "files": [
-      "firearms/reload_rocket1.ogg",
-      "firearms/reload_rocket2.ogg"
-    ]
+    "files": [ "firearms/reload_rocket1.ogg", "firearms/reload_rocket2.ogg" ]
   }
 ]
