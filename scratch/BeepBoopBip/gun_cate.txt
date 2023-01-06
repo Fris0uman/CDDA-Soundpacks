@@ -269,7 +269,7 @@ other (what do you mean a 12-guage gatling gun)
   surv_rocket_launcher*
   yrax_deterrent_laser*
   doublespeargun*
-  flamethrower
+  flamethrower*
   carbine_flintlock*
   rifle_flintlock*
   pistol_flintlock*
@@ -284,7 +284,7 @@ other (what do you mean a 12-guage gatling gun)
   m320*
   m4_carlgustav*
   m79*
-  chemical_thrower
+  chemical_thrower*
   mark19*
   mgl*
   minispeargun*
@@ -295,7 +295,7 @@ other (what do you mean a 12-guage gatling gun)
   airspeargun*
   plasma_gun*
   rep_crossbow*
-  rm451_flamethrower
+  rm451_flamethrower*
   rm802*
   recon_mech_laser*
   RPG*

@@ -1,0 +1,32 @@
+[
+  {
+    "type": "sound_effect",
+    "id": "reload",
+    "variant": "flamethrower",
+    "volume": 100,
+    "files": [
+      "firearms/reload_thrower1.ogg",
+      "firearms/reload_thrower2.ogg"
+    ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "reload",
+    "variant": "chemical_thrower",
+    "volume": 100,
+    "files": [
+      "firearms/reload_thrower1.ogg",
+      "firearms/reload_thrower2.ogg"
+    ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "reload",
+    "variant": "rm451_flamethrower",
+    "volume": 100,
+    "files": [
+      "firearms/reload_thrower1.ogg",
+      "firearms/reload_thrower2.ogg"
+    ]
+  }
+]
