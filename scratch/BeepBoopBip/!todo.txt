@@ -2,6 +2,7 @@ trim excess silent data off
   a script to do this would be best
   this would also allow for more flexibility to get around a bfxr mixer limitation
     (sounds cannot start before playback, even when silent e.g., for reversed sounds)
+encode .ogg's samplerate to 48000hz from .wav's
 get music
 
 
