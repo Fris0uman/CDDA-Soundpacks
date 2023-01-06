@@ -5,7 +5,8 @@
     "variant": "cannon_3in_ordnance",
     "volume": 100,
     "files": [
-      "firearms/reload_flintlock.ogg"
+      "firearms/reload_flintlock1.ogg",
+      "firearms/reload_flintlock2.ogg"
     ]
   },
   {
@@ -14,7 +15,8 @@
     "variant": "blunderbuss",
     "volume": 100,
     "files": [
-      "firearms/reload_flintlock.ogg"
+      "firearms/reload_flintlock1.ogg",
+      "firearms/reload_flintlock2.ogg"
     ]
   },
   {
@@ -23,7 +25,8 @@
     "variant": "carbine_flintlock",
     "volume": 100,
     "files": [
-      "firearms/reload_flintlock.ogg"
+      "firearms/reload_flintlock1.ogg",
+      "firearms/reload_flintlock2.ogg"
     ]
   },
   {
@@ -32,7 +35,8 @@
     "variant": "rifle_flintlock",
     "volume": 100,
     "files": [
-      "firearms/reload_flintlock.ogg"
+      "firearms/reload_flintlock1.ogg",
+      "firearms/reload_flintlock2.ogg"
     ]
   },
   {
@@ -41,7 +45,8 @@
     "variant": "pistol_flintlock",
     "volume": 100,
     "files": [
-      "firearms/reload_flintlock.ogg"
+      "firearms/reload_flintlock1.ogg",
+      "firearms/reload_flintlock2.ogg"
     ]
   },
   {
@@ -50,7 +55,8 @@
     "variant": "longrifle_flintlock",
     "volume": 100,
     "files": [
-      "firearms/reload_flintlock.ogg"
+      "firearms/reload_flintlock1.ogg",
+      "firearms/reload_flintlock2.ogg"
     ]
   },
   {
@@ -59,7 +65,8 @@
     "variant": "carbine_flintlock_double",
     "volume": 100,
     "files": [
-      "firearms/reload_flintlock.ogg"
+      "firearms/reload_flintlock1.ogg",
+      "firearms/reload_flintlock2.ogg"
     ]
   }
 ]

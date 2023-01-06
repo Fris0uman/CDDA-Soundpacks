@@ -5,7 +5,8 @@
     "variant": "sw_500",
     "volume": 100,
     "files": [
-      "firearms/reload_revolver.ogg"
+      "firearms/reload_revolver1.ogg",
+      "firearms/reload_revolver2.ogg"
     ]
   },
   {
@@ -14,7 +15,8 @@
     "variant": "sw_610",
     "volume": 100,
     "files": [
-      "firearms/reload_revolver.ogg"
+      "firearms/reload_revolver1.ogg",
+      "firearms/reload_revolver2.ogg"
     ]
   },
   {
@@ -23,7 +25,8 @@
     "variant": "colt_army",
     "volume": 100,
     "files": [
-      "firearms/reload_revolver.ogg"
+      "firearms/reload_revolver1.ogg",
+      "firearms/reload_revolver2.ogg"
     ]
   },
   {
@@ -32,7 +35,8 @@
     "variant": "colt_navy",
     "volume": 100,
     "files": [
-      "firearms/reload_revolver.ogg"
+      "firearms/reload_revolver1.ogg",
+      "firearms/reload_revolver2.ogg"
     ]
   },
   {
@@ -41,7 +45,8 @@
     "variant": "surv_six_shooter",
     "volume": 100,
     "files": [
-      "firearms/reload_revolver.ogg"
+      "firearms/reload_revolver1.ogg",
+      "firearms/reload_revolver2.ogg"
     ]
   },
   {
@@ -50,7 +55,8 @@
     "variant": "lemat_revolver",
     "volume": 100,
     "files": [
-      "firearms/reload_revolver.ogg"
+      "firearms/reload_revolver1.ogg",
+      "firearms/reload_revolver2.ogg"
     ]
   },
   {
@@ -59,7 +65,8 @@
     "variant": "bfr",
     "volume": 100,
     "files": [
-      "firearms/reload_revolver.ogg"
+      "firearms/reload_revolver1.ogg",
+      "firearms/reload_revolver2.ogg"
     ]
   },
   {
@@ -68,7 +75,8 @@
     "variant": "mr73",
     "volume": 100,
     "files": [
-      "firearms/reload_revolver.ogg"
+      "firearms/reload_revolver1.ogg",
+      "firearms/reload_revolver2.ogg"
     ]
   },
   {
@@ -77,7 +85,8 @@
     "variant": "ruger_lcr_22",
     "volume": 100,
     "files": [
-      "firearms/reload_revolver.ogg"
+      "firearms/reload_revolver1.ogg",
+      "firearms/reload_revolver2.ogg"
     ]
   },
   {
@@ -86,7 +95,8 @@
     "variant": "ruger_lcr_38",
     "volume": 100,
     "files": [
-      "firearms/reload_revolver.ogg"
+      "firearms/reload_revolver1.ogg",
+      "firearms/reload_revolver2.ogg"
     ]
   },
   {
@@ -95,7 +105,8 @@
     "variant": "ruger_redhawk",
     "volume": 100,
     "files": [
-      "firearms/reload_revolver.ogg"
+      "firearms/reload_revolver1.ogg",
+      "firearms/reload_revolver2.ogg"
     ]
   },
   {
@@ -104,7 +115,8 @@
     "variant": "sw_619",
     "volume": 100,
     "files": [
-      "firearms/reload_revolver.ogg"
+      "firearms/reload_revolver1.ogg",
+      "firearms/reload_revolver2.ogg"
     ]
   },
   {
@@ -113,7 +125,8 @@
     "variant": "sw629",
     "volume": 100,
     "files": [
-      "firearms/reload_revolver.ogg"
+      "firearms/reload_revolver1.ogg",
+      "firearms/reload_revolver2.ogg"
     ]
   },
   {
@@ -122,7 +135,8 @@
     "variant": "model_10_revolver",
     "volume": 100,
     "files": [
-      "firearms/reload_revolver.ogg"
+      "firearms/reload_revolver1.ogg",
+      "firearms/reload_revolver2.ogg"
     ]
   },
   {
@@ -131,7 +145,8 @@
     "variant": "raging_bull",
     "volume": 100,
     "files": [
-      "firearms/reload_revolver.ogg"
+      "firearms/reload_revolver1.ogg",
+      "firearms/reload_revolver2.ogg"
     ]
   },
   {
@@ -140,7 +155,8 @@
     "variant": "raging_judge",
     "volume": 100,
     "files": [
-      "firearms/reload_revolver.ogg"
+      "firearms/reload_revolver1.ogg",
+      "firearms/reload_revolver2.ogg"
     ]
   },
   {
@@ -149,7 +165,8 @@
     "variant": "colt_saa",
     "volume": 100,
     "files": [
-      "firearms/reload_revolver.ogg"
+      "firearms/reload_revolver1.ogg",
+      "firearms/reload_revolver2.ogg"
     ]
   }
 ]
