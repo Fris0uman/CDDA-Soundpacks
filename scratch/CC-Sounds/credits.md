@@ -4,3 +4,4 @@
 | m1garand_snipped.wav       | battlestar10    | **CC-BY-3.0** | https://soundbible.com/1666-M1-Garand-Gunfire.html           | *Trimmed from original* |
 | 9_mm_gunshot.wav           | GoodSoundForYou | **CC-BY-3.0** | https://soundbible.com/2120-9mm-Gunshot.html#                | | 
 | GUN_FIRE.wav               | Mike Koenig     | **CC-BY-3.0** | https://soundbible.com/1998-Gun-Fire.html                    | |
+| bow_1.ogg                  | Hanbaal         | **CC0**       | https://freesound.org/people/Hanbaal/sounds/178872/          |
