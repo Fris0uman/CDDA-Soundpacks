@@ -95,7 +95,8 @@
     "id": "fire_gun",
     "variant": "bbgun",
     "volume": 100,
-    "files": [ "fire_gun/rifles/rifle_1.ogg" ]
+    "files": [ "fire_gun/rifles/rifle_1.ogg" ],
+    "//": "a bit loud for a bb gun, eh?"
   },
   {
     "type": "sound_effect",
@@ -792,7 +793,28 @@
     "volume": 100,
     "files": [ "fire_gun/rifles/rifle_1.ogg" ]
   },
-  
+  {
+    "type": "sound_effect",
+    "id": "fire_gun",
+    "variant": "browning_blr",
+    "volume": 100,
+    "files": [ "fire_gun/rifles/rifle_1.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "fire_gun",
+    "variant": "colt_lightning",
+    "volume": 100,
+    "files": [ "fire_gun/rifles/rifle_1.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "fire_gun",
+    "variant": "deagle_44",
+    "volume": 100,
+    "files": [ "fire_gun/rifles/rifle_1.ogg" ],
+    "//": "rifle enough; it's a big round"
+  },
   {
     "type": "sound_effect",
     "id": "fire_gun",
@@ -801,5 +823,4 @@
     "files": [ "fire_gun/rifles/rifle_1.ogg" ],
     "//": "rifle enough; it's a big round"
   }
-
 ]

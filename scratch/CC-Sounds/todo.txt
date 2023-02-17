@@ -1,0 +1,4 @@
+doublespeargun 
+flamethrower
+flaregun
+pseudo_m203

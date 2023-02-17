@@ -44,13 +44,6 @@
   {
       "type": "sound_effect",
       "id": "fire_gun",
-      "variant": "bond_410",
-      "volume": 60,
-      "files": [ "fire_gun/shotguns/shotgun_1.ogg" ]
-  },
-  {
-      "type": "sound_effect",
-      "id": "fire_gun",
       "variant": "winchester_1887",
       "volume": 60,
       "files": [ "fire_gun/shotguns/shotgun_1.ogg" ]
@@ -59,27 +52,6 @@
       "type": "sound_effect",
       "id": "fire_gun",
       "variant": "remington_870_breacher",
-      "volume": 60,
-      "files": [ "fire_gun/shotguns/shotgun_1.ogg" ]
-  },
-  {
-      "type": "sound_effect",
-      "id": "fire_gun",
-      "variant": "browning_blr",
-      "volume": 60,
-      "files": [ "fire_gun/shotguns/shotgun_1.ogg" ]
-  },
-  {
-      "type": "sound_effect",
-      "id": "fire_gun",
-      "variant": "colt_lightning",
-      "volume": 60,
-      "files": [ "fire_gun/shotguns/shotgun_1.ogg" ]
-  },
-  {
-      "type": "sound_effect",
-      "id": "fire_gun",
-      "variant": "cop_38",
       "volume": 60,
       "files": [ "fire_gun/shotguns/shotgun_1.ogg" ]
   },
@@ -101,13 +73,6 @@
       "type": "sound_effect",
       "id": "fire_gun",
       "variant": "pipe_double_shotgun",
-      "volume": 60,
-      "files": [ "fire_gun/shotguns/shotgun_1.ogg" ]
-  },
-  {
-      "type": "sound_effect",
-      "id": "fire_gun",
-      "variant": "flaregun",
       "volume": 60,
       "files": [ "fire_gun/shotguns/shotgun_1.ogg" ]
   },
@@ -136,13 +101,6 @@
       "type": "sound_effect",
       "id": "fire_gun",
       "variant": "ksg-25",
-      "volume": 60,
-      "files": [ "fire_gun/shotguns/shotgun_1.ogg" ]
-  },
-  {
-      "type": "sound_effect",
-      "id": "fire_gun",
-      "variant": "surv_hand_cannon",
       "volume": 60,
       "files": [ "fire_gun/shotguns/shotgun_1.ogg" ]
   },

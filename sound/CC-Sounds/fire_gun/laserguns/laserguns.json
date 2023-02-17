@@ -93,6 +93,13 @@
   {
     "type": "sound_effect",
     "id": "fire_gun",
+    "variant": "bio_laser_gun",
+    "volume": 100,
+    "files": [ "fire_gun/laserguns/lasergun_1.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "fire_gun",
     "variant": "emp_gun",
     "volume": 100,
     "files": [ "fire_gun/laserguns/lasergun_1.ogg" ]

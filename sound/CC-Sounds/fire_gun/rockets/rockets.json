@@ -58,6 +58,13 @@
   {
     "type": "sound_effect",
     "id": "fire_gun",
+    "variant": "firework_cannon",
+    "volume": 100,
+    "files": [ "fire_gun/rockets/rocket_1.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "fire_gun",
     "variant": "cannon_3in_ordnance",
     "volume": 100,
     "files": [ "fire_gun/rockets/rocket_1.ogg" ],

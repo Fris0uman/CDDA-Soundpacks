@@ -641,9 +641,30 @@
   {
     "type": "sound_effect",
     "id": "fire_gun",
+    "variant": "bond_410",
+    "volume": 100,
+    "files": [ "fire_gun/handguns/handgun_1.ogg" ],
+    "//": "this thing *can* fire shotgun rounds along with .45, but we can't change sound based on ammunition type so"
+  },
+  {
+    "type": "sound_effect",
+    "id": "fire_gun",
+    "variant": "cop_38",
+    "volume": 100,
+    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "fire_gun",
+    "variant": "surv_hand_cannon",
+    "volume": 100,
+    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "fire_gun",
     "variant": "2_shot_special",
     "volume": 100,
     "files": [ "fire_gun/handguns/handgun_1.ogg" ]
   }
-
 ]
