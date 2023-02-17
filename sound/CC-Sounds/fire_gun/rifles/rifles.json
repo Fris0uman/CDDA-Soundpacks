@@ -51,13 +51,6 @@
   {
     "type": "sound_effect",
     "id": "fire_gun",
-    "variant": "ar_pistol",
-    "volume": 100,
-    "files": [ "fire_gun/rifles/rifle_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
     "variant": "ar10",
     "volume": 100,
     "files": [ "fire_gun/rifles/rifle_1.ogg" ]
@@ -262,13 +255,6 @@
     "type": "sound_effect",
     "id": "fire_gun",
     "variant": "robofac_gun",
-    "volume": 100,
-    "files": [ "fire_gun/rifles/rifle_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "saiga_12",
     "volume": 100,
     "files": [ "fire_gun/rifles/rifle_1.ogg" ]
   },
@@ -805,5 +791,15 @@
     "variant": "win70",
     "volume": 100,
     "files": [ "fire_gun/rifles/rifle_1.ogg" ]
+  },
+  
+  {
+    "type": "sound_effect",
+    "id": "fire_gun",
+    "variant": "sw_500",
+    "volume": 100,
+    "files": [ "fire_gun/rifles/rifle_1.ogg" ],
+    "//": "rifle enough; it's a big round"
   }
+
 ]
