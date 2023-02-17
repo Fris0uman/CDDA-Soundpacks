@@ -4,7 +4,7 @@
     "id": "fire_gun",
     "variant": "laser_rifle",
     "volume": 100,
-    "files": [ "fire_gun/laserguns/lasergun_1.ogg" ],
+    "files": [ "fire_gun/laserguns/lasergun_1.ogg" ]
   },
   {
     "type": "sound_effect",

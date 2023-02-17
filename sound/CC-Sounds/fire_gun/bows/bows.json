@@ -4,7 +4,7 @@
     "id": "fire_gun",
     "variant": "bullet_crossbow",
     "volume": 100,
-    "files": [ "fire_gun/bows/bow_1.ogg" ],
+    "files": [ "fire_gun/bows/bow_1.ogg" ]
   },
   {
     "type": "sound_effect",
