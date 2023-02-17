@@ -522,13 +522,6 @@
   {
     "type": "sound_effect",
     "id": "fire_gun",
-    "variant": "sw_500",
-    "volume": 100,
-    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
     "variant": "sw_610",
     "volume": 100,
     "files": [ "fire_gun/handguns/handgun_1.ogg" ]
@@ -637,5 +630,20 @@
     "variant": "colt_saa",
     "volume": 100,
     "files": [ "fire_gun/handguns/handgun_1.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "fire_gun",
+    "variant": "ar_pistol",
+    "volume": 100,
+    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "fire_gun",
+    "variant": "2_shot_special",
+    "volume": 100,
+    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
   }
+
 ]
