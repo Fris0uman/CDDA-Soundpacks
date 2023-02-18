@@ -65,6 +65,20 @@
   {
     "type": "sound_effect",
     "id": "fire_gun",
+    "variant": "m4_carlgustav",
+    "volume": 100,
+    "files": [ "fire_gun/rockets/rocket_1.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "fire_gun",
+    "variant": "m79",
+    "volume": 100,
+    "files": [ "fire_gun/rockets/rocket_1.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "fire_gun",
     "variant": "cannon_3in_ordnance",
     "volume": 100,
     "files": [ "fire_gun/rockets/rocket_1.ogg" ],
