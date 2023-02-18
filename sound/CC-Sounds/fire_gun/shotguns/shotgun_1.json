@@ -114,41 +114,6 @@
   {
       "type": "sound_effect",
       "id": "fire_gun",
-      "variant": "rifle_22",
-      "volume": 60,
-      "files": [ "fire_gun/shotguns/shotgun_1.ogg" ]
-  },
-  {
-      "type": "sound_effect",
-      "id": "fire_gun",
-      "variant": "rifle_38",
-      "volume": 60,
-      "files": [ "fire_gun/shotguns/shotgun_1.ogg" ]
-  },
-  {
-      "type": "sound_effect",
-      "id": "fire_gun",
-      "variant": "rifle_40",
-      "volume": 60,
-      "files": [ "fire_gun/shotguns/shotgun_1.ogg" ]
-  },
-  {
-      "type": "sound_effect",
-      "id": "fire_gun",
-      "variant": "rifle_44",
-      "volume": 60,
-      "files": [ "fire_gun/shotguns/shotgun_1.ogg" ]
-  },
-  {
-      "type": "sound_effect",
-      "id": "fire_gun",
-      "variant": "rifle_9mm",
-      "volume": 60,
-      "files": [ "fire_gun/shotguns/shotgun_1.ogg" ]
-  },
-  {
-      "type": "sound_effect",
-      "id": "fire_gun",
       "variant": "pipe_shotgun",
       "volume": 60,
       "files": [ "fire_gun/shotguns/shotgun_1.ogg" ]
@@ -213,6 +178,13 @@
       "type": "sound_effect",
       "id": "fire_gun",
       "variant": "saiga_12",
+      "volume": 60,
+      "files": [ "fire_gun/shotguns/shotgun_1.ogg" ]
+  },
+  {
+      "type": "sound_effect",
+      "id": "fire_gun",
+      "variant": "m26_mass_standalone",
       "volume": 60,
       "files": [ "fire_gun/shotguns/shotgun_1.ogg" ]
   },

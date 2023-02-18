@@ -30,6 +30,13 @@
   {
     "type": "sound_effect",
     "id": "fire_gun",
+    "variant": "m2browning_sawn",
+    "volume": 100,
+    "files": [ "fire_gun/machineguns/machinegun_1.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "fire_gun",
     "variant": "m60",
     "volume": 100,
     "files": [ "fire_gun/machineguns/machinegun_1.ogg" ]

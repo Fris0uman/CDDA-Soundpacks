@@ -2,3 +2,10 @@ doublespeargun
 flamethrower
 flaregun
 pseudo_m203
+m320
+chemical_thrower
+mark19
+mgl
+minispeargun
+nailgun
+paintballgun
