@@ -430,13 +430,6 @@
   {
     "type": "sound_effect",
     "id": "fire_gun",
-    "variant": "rm20",
-    "volume": 100,
-    "files": [ "fire_gun/rifles/rifle_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
     "variant": "rm2000_smg",
     "volume": 100,
     "files": [ "fire_gun/rifles/rifle_1.ogg" ]
@@ -487,13 +480,6 @@
     "type": "sound_effect",
     "id": "fire_gun",
     "variant": "ruger_mini",
-    "volume": 100,
-    "files": [ "fire_gun/rifles/rifle_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "saiga_410",
     "volume": 100,
     "files": [ "fire_gun/rifles/rifle_1.ogg" ]
   },

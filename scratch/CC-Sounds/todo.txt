@@ -9,3 +9,6 @@ mgl
 minispeargun
 nailgun
 paintballgun
+airspeargun
+rm451_flamethrower 
+rm802
