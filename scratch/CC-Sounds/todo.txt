@@ -1,21 +1,8 @@
 flaregun
 
 
-doublespeargun 
-minispeargun
-airspeargun
-speargun
-
 nailgun
 paintballgun
-
-pseudo_m203
-m320
-mark19
-mgl
-rm802
-triple_launcher_simple
-launcher_simple
 
 
 flamethrower
