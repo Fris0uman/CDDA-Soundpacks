@@ -191,6 +191,20 @@
   {
       "type": "sound_effect",
       "id": "fire_gun",
+      "variant": "rm20",
+      "volume": 60,
+      "files": [ "fire_gun/shotguns/shotgun_1.ogg" ]
+  },
+  {
+      "type": "sound_effect",
+      "id": "fire_gun",
+      "variant": "saiga_410",
+      "volume": 60,
+      "files": [ "fire_gun/shotguns/shotgun_1.ogg" ]
+  },
+  {
+      "type": "sound_effect",
+      "id": "fire_gun",
       "variant": "blunderbuss",
       "volume": 60,
       "files": [ "fire_gun/shotguns/shotgun_1.ogg" ]
