@@ -6,4 +6,5 @@
 | GUN_FIRE.wav               | Mike Koenig     | **CC-BY-3.0** | https://soundbible.com/1998-Gun-Fire.html                    | |
 | 178872__hanbaal__bow.wav   | Hanbaal         | **CC0**       | https://freesound.org/people/Hanbaal/sounds/178872/          | |
 | laser-gun_snipped.wav      | Mike Koenig     | **CC-BY-3.0** | https://soundbible.com/1774-Laser-Machine-Gun.html           | *Trimmed from original* |
-| rpg_snipped.wav            | Mike Koenig     | **CC-BY-3.0** | https://soundbible.com/2075-RPG-Plus-Shrapnel.html           | *Trimmed from original* |
+| rpg_snipped.wav            | morganpurkis    | **CC0**       | https://freesound.org/people/morganpurkis/sounds/391847/     | *Edited*                |
+|                            | CGEffex         | **CC-BY-4.0** | https://freesound.org/people/CGEffex/sounds/100772/          | *Edited*                |
