@@ -8,3 +8,4 @@
 | laser-gun_snipped.wav      | Mike Koenig     | **CC-BY-3.0** | https://soundbible.com/1774-Laser-Machine-Gun.html           | *Trimmed from original* |
 | rpg_snipped.wav            | morganpurkis    | **CC0**       | https://freesound.org/people/morganpurkis/sounds/391847/     | *Edited*                |
 |                            | CGEffex         | **CC-BY-4.0** | https://freesound.org/people/CGEffex/sounds/100772/          | *Edited*                |
+| grenade-launcher.wav       | LeMudCrab       | **CC0**       | https://freesound.org/people/LeMudCrab/sounds/163458/        | | 
