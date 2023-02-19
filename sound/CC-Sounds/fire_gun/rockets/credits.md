@@ -1,3 +1,4 @@
 | File Name                  | Author          | License       | Link                                                         | Notes                   |
 |----------------------------|-----------------|---------------|--------------------------------------------------------------|-------------------------|
-| rpg_snipped.wav            | Mike Koenig     | **CC-BY-3.0** | https://soundbible.com/2075-RPG-Plus-Shrapnel.html           | *Trimmed from original* |
+| rocket.ogg                 | morganpurkis    | **CC0**       | https://freesound.org/people/morganpurkis/sounds/391847/     | *Edited*                |
+|                            | CGEffex         | **CC-BY-4.0** | https://freesound.org/people/CGEffex/sounds/100772/          | *Edited*                |
