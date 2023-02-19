@@ -12,3 +12,7 @@ paintballgun
 airspeargun
 rm451_flamethrower 
 rm802
+speargun
+triple_launcher_simple
+launcher_simple
+watercannon
