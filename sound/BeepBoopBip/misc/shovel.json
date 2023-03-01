@@ -1,0 +1,10 @@
+[
+  {
+    "type": "sound_effect",
+    "id": "tool",
+    "variant": "shovel",
+    "volume": 100,
+    "files": [ "misc/shovel1.ogg", "misc/shovel2.ogg", "misc/shovel3.ogg" ],
+    "//": "there is a large blank space in the tracks for a reason"
+  }
+]

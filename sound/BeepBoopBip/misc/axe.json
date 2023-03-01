@@ -1,0 +1,10 @@
+[
+  {
+    "type": "sound_effect",
+    "id": "tool",
+    "variant": "axe",
+    "volume": 100,
+    "files": [ "misc/axe1.ogg", "misc/axe2.ogg", "misc/axe3.ogg" ],
+    "//": "there is a large blank space in the tracks for a reason"
+  }
+]
