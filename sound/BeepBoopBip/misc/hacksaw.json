@@ -1,0 +1,10 @@
+[
+  {
+    "type": "sound_effect",
+    "id": "tool",
+    "variant": "hacksaw",
+    "volume": 100,
+    "files": [ "misc/hacksaw1.ogg", "misc/hacksaw2.ogg", "misc/hacksaw3.ogg" ],
+    "//": "there is a large blank space in the tracks for a reason"
+  }
+]
