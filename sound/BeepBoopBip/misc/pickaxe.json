@@ -1,0 +1,10 @@
+[
+  {
+    "type": "sound_effect",
+    "id": "tool",
+    "variant": "pickaxe",
+    "volume": 100,
+    "files": [ "misc/pickaxe1.ogg", "misc/pickaxe2.ogg", "misc/pickaxe3.ogg" ],
+    "//": "there is a large blank space in the tracks for a reason"
+  }
+]
