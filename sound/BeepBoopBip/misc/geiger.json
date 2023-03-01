@@ -1,0 +1,24 @@
+[
+  {
+    "type": "sound_effect",
+    "id": "tool",
+    "variant": "geiger_low",
+    "volume": 100,
+    "files": [ "misc/geiger_low.ogg" ],
+    "//": "not completely confident in these sounds, but they'll work for now"
+  },
+  {
+    "type": "sound_effect",
+    "id": "tool",
+    "variant": "geiger_medium",
+    "volume": 100,
+    "files": [ "misc/geiger_medium.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "tool",
+    "variant": "geiger_high",
+    "volume": 100,
+    "files": [ "misc/geiger_high.ogg" ]
+  }
+]
