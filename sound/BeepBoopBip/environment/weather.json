@@ -9,6 +9,28 @@
   {
     "type": "sound_effect",
     "id": "environment",
+    "variant": "WEATHER_CLEAR",
+    "volume": 100,
+    "files": [ "environment/weather_wind.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "environment",
+    "variant": "WEATHER_SUNNY",
+    "volume": 100,
+    "files": [ "environment/weather_wind.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "environment",
+    "variant": "WEATHER_CLOUDY",
+    "volume": 100,
+    "files": [ "environment/weather_wind.ogg" ],
+    "//": "i would like to separate this from sunny/clear"
+  },
+  {
+    "type": "sound_effect",
+    "id": "environment",
     "variant": "WEATHER_RAINY",
     "volume": 100,
     "files": [ "environment/weather_rainstorm.ogg" ]
