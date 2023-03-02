@@ -77,6 +77,28 @@
   {
     "type": "sound_effect",
     "id": "environment",
+    "variant": "WEATHER_SNOW",
+    "volume": 50,
+    "files": [ "environment/weather_strongwind.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "environment",
+    "variant": "WEATHER_FLURRIES",
+    "volume": 75,
+    "files": [ "environment/weather_strongwind.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "environment",
+    "variant": "WEATHER_SNOWSTORM",
+    "volume": 100,
+    "files": [ "environment/weather_strongwind.ogg" ]
+  },
+  
+  {
+    "type": "sound_effect",
+    "id": "environment",
     "variant": "WEATHER_ACID_DRIZZLE",
     "volume": 50,
     "files": [ "environment/weather_rainstorm.ogg" ],
