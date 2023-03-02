@@ -1,0 +1,23 @@
+[
+  {
+    "type": "sound_effect",
+    "id": "environment",
+    "variant": "indoors_rain",
+    "volume": 100,
+    "files": [ "environment/indoors_rain.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "environment",
+    "variant": "WEATHER_RAINY",
+    "volume": 100,
+    "files": [ "environment/weather_rainstorm.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "environment",
+    "variant": "WEATHER_RAINSTORM",
+    "volume": 100,
+    "files": [ "environment/weather_rainstorm.ogg" ]
+  }
+]
