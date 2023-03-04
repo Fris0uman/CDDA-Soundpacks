@@ -3,7 +3,7 @@
     "type": "sound_effect",
     "id": "plmove",
     "variant": "t_floor",
-    "volume": 100,
+    "volume": 30,
     "files": [
       "plmove/walk_t_floor/walk_t_floor_1.ogg",
       "plmove/walk_t_floor/walk_t_floor_2.ogg",
@@ -17,7 +17,7 @@
     "type": "sound_effect",
     "id": "plmove",
     "variant": "t_floor_olight",
-    "volume": 100,
+    "volume": 30,
     "files": [
       "plmove/walk_t_floor/walk_t_floor_1.ogg",
       "plmove/walk_t_floor/walk_t_floor_2.ogg",
@@ -31,7 +31,7 @@
     "type": "sound_effect",
     "id": "plmove",
     "variant": "t_floor_primitive",
-    "volume": 100,
+    "volume": 30,
     "files": [
       "plmove/walk_t_floor/walk_t_floor_1.ogg",
       "plmove/walk_t_floor/walk_t_floor_2.ogg",
@@ -45,7 +45,7 @@
     "type": "sound_effect",
     "id": "plmove",
     "variant": "t_floor_waxed",
-    "volume": 100,
+    "volume": 30,
     "files": [
       "plmove/walk_t_floor/walk_t_floor_1.ogg",
       "plmove/walk_t_floor/walk_t_floor_2.ogg",
@@ -59,7 +59,7 @@
     "type": "sound_effect",
     "id": "plmove",
     "variant": "t_floor_waxed_y",
-    "volume": 100,
+    "volume": 30,
     "files": [
       "plmove/walk_t_floor/walk_t_floor_1.ogg",
       "plmove/walk_t_floor/walk_t_floor_2.ogg",
