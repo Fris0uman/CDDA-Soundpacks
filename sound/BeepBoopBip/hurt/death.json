@@ -1,8 +1,8 @@
-{
-  "type": "sound_effect",
-  "id": "clean_up_at_end",
-  "volume": 100,
-  "files": [
-    "hurt/death.ogg"
-  ]
-}
+[
+  {
+    "type": "sound_effect",
+    "id": "clean_up_at_end",
+    "volume": 100,
+    "files": [ "hurt/death.ogg" ]
+  }
+]
