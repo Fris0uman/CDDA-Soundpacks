@@ -48,7 +48,6 @@
     "volume": 100,
     "files": [ "fire_gun/launchers/launcher_1.ogg" ]
   },
-  
   {
     "type": "sound_effect",
     "id": "fire_gun",

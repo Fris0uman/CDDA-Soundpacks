@@ -510,7 +510,6 @@
     "volume": 100,
     "files": [ "fire_gun/handguns/handgun_1.ogg" ]
   },
-
   {
     "type": "sound_effect",
     "id": "fire_gun",
@@ -518,7 +517,6 @@
     "volume": 100,
     "files": [ "fire_gun/handguns/handgun_1.ogg" ]
   },
-
   {
     "type": "sound_effect",
     "id": "fire_gun",
