@@ -207,6 +207,6 @@
     "id": "smash_success",
     "variant": "f_coffee_table",
     "volume": 60,
-    "files": [ "smash_success/wood_furn/smash_success_wood.ogg","smash_success/wood_furn/smash_success_wood_1.ogg" ]
+    "files": [ "smash_success/wood_furn/smash_success_wood.ogg" ]
   }
 ]
