@@ -1,6 +1,6 @@
 | File Name        | Author   | License   | Link                            |
 |------------------|----------|-----------|---------------------------------|
-| smash_fail_wall.ogg | pfranzen | **CC BY 4.0** | https://freesound.org/people/pfranzen/sounds/377157/ |
+| smash_glass.ogg | nuncaconoci | **CC0 1.0** | https://freesound.org/people/nuncaconoci/sounds/570370/ |
 |  |  | ** ** |  |
 |  |  | ** ** |  |
 |  |  | ** ** |  |
