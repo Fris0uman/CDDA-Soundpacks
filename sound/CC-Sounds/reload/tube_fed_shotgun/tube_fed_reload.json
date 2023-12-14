@@ -5,10 +5,10 @@
     "variant": "lever_shotgun",
     "volume": 100,
     "files": [
-      "reload/tube_fed_shotguns/shell_load_01.ogg",
-      "reload/tube_fed_shotguns/shell_load_02.ogg",
-      "reload/tube_fed_shotguns/shell_load_03.ogg",
-      "reload/tube_fed_shotguns/shell_load_04.ogg"
+      "reload/tube_fed_shotgun/shell_load_01.ogg",
+      "reload/tube_fed_shotgun/shell_load_02.ogg",
+      "reload/tube_fed_shotgun/shell_load_03.ogg",
+      "reload/tube_fed_shotgun/shell_load_04.ogg"
     ]
   },
   {
@@ -17,10 +17,10 @@
     "variant": "ksg",
     "volume": 100,
     "files": [
-      "reload/tube_fed_shotguns/shell_load_01.ogg",
-      "reload/tube_fed_shotguns/shell_load_02.ogg",
-      "reload/tube_fed_shotguns/shell_load_03.ogg",
-      "reload/tube_fed_shotguns/shell_load_04.ogg"
+      "reload/tube_fed_shotgun/shell_load_01.ogg",
+      "reload/tube_fed_shotgun/shell_load_02.ogg",
+      "reload/tube_fed_shotgun/shell_load_03.ogg",
+      "reload/tube_fed_shotgun/shell_load_04.ogg"
     ]
   },
   {
@@ -29,10 +29,10 @@
     "variant": "ksg-25",
     "volume": 100,
     "files": [
-      "reload/tube_fed_shotguns/shell_load_01.ogg",
-      "reload/tube_fed_shotguns/shell_load_02.ogg",
-      "reload/tube_fed_shotguns/shell_load_03.ogg",
-      "reload/tube_fed_shotguns/shell_load_04.ogg"
+      "reload/tube_fed_shotgun/shell_load_01.ogg",
+      "reload/tube_fed_shotgun/shell_load_02.ogg",
+      "reload/tube_fed_shotgun/shell_load_03.ogg",
+      "reload/tube_fed_shotgun/shell_load_04.ogg"
     ]
   },
   {
@@ -41,10 +41,10 @@
     "variant": "mossberg_500",
     "volume": 100,
     "files": [
-      "reload/tube_fed_shotguns/shell_load_01.ogg",
-      "reload/tube_fed_shotguns/shell_load_02.ogg",
-      "reload/tube_fed_shotguns/shell_load_03.ogg",
-      "reload/tube_fed_shotguns/shell_load_04.ogg"
+      "reload/tube_fed_shotgun/shell_load_01.ogg",
+      "reload/tube_fed_shotgun/shell_load_02.ogg",
+      "reload/tube_fed_shotgun/shell_load_03.ogg",
+      "reload/tube_fed_shotgun/shell_load_04.ogg"
     ]
   },
   {
@@ -53,10 +53,10 @@
     "variant": "mossberg_590",
     "volume": 100,
     "files": [
-      "reload/tube_fed_shotguns/shell_load_01.ogg",
-      "reload/tube_fed_shotguns/shell_load_02.ogg",
-      "reload/tube_fed_shotguns/shell_load_03.ogg",
-      "reload/tube_fed_shotguns/shell_load_04.ogg"
+      "reload/tube_fed_shotgun/shell_load_01.ogg",
+      "reload/tube_fed_shotgun/shell_load_02.ogg",
+      "reload/tube_fed_shotgun/shell_load_03.ogg",
+      "reload/tube_fed_shotgun/shell_load_04.ogg"
     ]
   },
   {
@@ -65,10 +65,10 @@
     "variant": "mossberg_930",
     "volume": 100,
     "files": [
-      "reload/tube_fed_shotguns/shell_load_01.ogg",
-      "reload/tube_fed_shotguns/shell_load_02.ogg",
-      "reload/tube_fed_shotguns/shell_load_03.ogg",
-      "reload/tube_fed_shotguns/shell_load_04.ogg"
+      "reload/tube_fed_shotgun/shell_load_01.ogg",
+      "reload/tube_fed_shotgun/shell_load_02.ogg",
+      "reload/tube_fed_shotgun/shell_load_03.ogg",
+      "reload/tube_fed_shotgun/shell_load_04.ogg"
     ]
   },
   {
@@ -77,10 +77,10 @@
     "variant": "remington_870",
     "volume": 100,
     "files": [
-      "reload/tube_fed_shotguns/shell_load_01.ogg",
-      "reload/tube_fed_shotguns/shell_load_02.ogg",
-      "reload/tube_fed_shotguns/shell_load_03.ogg",
-      "reload/tube_fed_shotguns/shell_load_04.ogg"
+      "reload/tube_fed_shotgun/shell_load_01.ogg",
+      "reload/tube_fed_shotgun/shell_load_02.ogg",
+      "reload/tube_fed_shotgun/shell_load_03.ogg",
+      "reload/tube_fed_shotgun/shell_load_04.ogg"
     ]
   },
   {
@@ -89,10 +89,10 @@
     "variant": "remington_870_breacher",
     "volume": 100,
     "files": [
-      "reload/tube_fed_shotguns/shell_load_01.ogg",
-      "reload/tube_fed_shotguns/shell_load_02.ogg",
-      "reload/tube_fed_shotguns/shell_load_03.ogg",
-      "reload/tube_fed_shotguns/shell_load_04.ogg"
+      "reload/tube_fed_shotgun/shell_load_01.ogg",
+      "reload/tube_fed_shotgun/shell_load_02.ogg",
+      "reload/tube_fed_shotgun/shell_load_03.ogg",
+      "reload/tube_fed_shotgun/shell_load_04.ogg"
     ]
   },
   {
@@ -101,10 +101,10 @@
     "variant": "remington_870_express",
     "volume": 100,
     "files": [
-      "reload/tube_fed_shotguns/shell_load_01.ogg",
-      "reload/tube_fed_shotguns/shell_load_02.ogg",
-      "reload/tube_fed_shotguns/shell_load_03.ogg",
-      "reload/tube_fed_shotguns/shell_load_04.ogg"
+      "reload/tube_fed_shotgun/shell_load_01.ogg",
+      "reload/tube_fed_shotgun/shell_load_02.ogg",
+      "reload/tube_fed_shotgun/shell_load_03.ogg",
+      "reload/tube_fed_shotgun/shell_load_04.ogg"
     ]
   },
   {
@@ -113,10 +113,10 @@
     "variant": "tavor_12",
     "volume": 100,
     "files": [
-      "reload/tube_fed_shotguns/shell_load_01.ogg",
-      "reload/tube_fed_shotguns/shell_load_02.ogg",
-      "reload/tube_fed_shotguns/shell_load_03.ogg",
-      "reload/tube_fed_shotguns/shell_load_04.ogg"
+      "reload/tube_fed_shotgun/shell_load_01.ogg",
+      "reload/tube_fed_shotgun/shell_load_02.ogg",
+      "reload/tube_fed_shotgun/shell_load_03.ogg",
+      "reload/tube_fed_shotgun/shell_load_04.ogg"
     ]
   },
   {
@@ -125,10 +125,10 @@
     "variant": "winchester_1887",
     "volume": 100,
     "files": [
-      "reload/tube_fed_shotguns/shell_load_01.ogg",
-      "reload/tube_fed_shotguns/shell_load_02.ogg",
-      "reload/tube_fed_shotguns/shell_load_03.ogg",
-      "reload/tube_fed_shotguns/shell_load_04.ogg"
+      "reload/tube_fed_shotgun/shell_load_01.ogg",
+      "reload/tube_fed_shotgun/shell_load_02.ogg",
+      "reload/tube_fed_shotgun/shell_load_03.ogg",
+      "reload/tube_fed_shotgun/shell_load_04.ogg"
     ]
   },
   {
@@ -137,10 +137,10 @@
     "variant": "winchester_1897",
     "volume": 100,
     "files": [
-      "reload/tube_fed_shotguns/shell_load_01.ogg",
-      "reload/tube_fed_shotguns/shell_load_02.ogg",
-      "reload/tube_fed_shotguns/shell_load_03.ogg",
-      "reload/tube_fed_shotguns/shell_load_04.ogg"
+      "reload/tube_fed_shotgun/shell_load_01.ogg",
+      "reload/tube_fed_shotgun/shell_load_02.ogg",
+      "reload/tube_fed_shotgun/shell_load_03.ogg",
+      "reload/tube_fed_shotgun/shell_load_04.ogg"
     ]
   },
   {
@@ -149,10 +149,10 @@
     "variant": "masterkey",
     "volume": 100,
     "files": [
-      "reload/tube_fed_shotguns/shell_load_01.ogg",
-      "reload/tube_fed_shotguns/shell_load_02.ogg",
-      "reload/tube_fed_shotguns/shell_load_03.ogg",
-      "reload/tube_fed_shotguns/shell_load_04.ogg"
+      "reload/tube_fed_shotgun/shell_load_01.ogg",
+      "reload/tube_fed_shotgun/shell_load_02.ogg",
+      "reload/tube_fed_shotgun/shell_load_03.ogg",
+      "reload/tube_fed_shotgun/shell_load_04.ogg"
     ]
   },
   {
@@ -161,10 +161,10 @@
     "variant": "masterkey_mod",
     "volume": 100,
     "files": [
-      "reload/tube_fed_shotguns/shell_load_01.ogg",
-      "reload/tube_fed_shotguns/shell_load_02.ogg",
-      "reload/tube_fed_shotguns/shell_load_03.ogg",
-      "reload/tube_fed_shotguns/shell_load_04.ogg"
+      "reload/tube_fed_shotgun/shell_load_01.ogg",
+      "reload/tube_fed_shotgun/shell_load_02.ogg",
+      "reload/tube_fed_shotgun/shell_load_03.ogg",
+      "reload/tube_fed_shotgun/shell_load_04.ogg"
     ]
   }
 ]
