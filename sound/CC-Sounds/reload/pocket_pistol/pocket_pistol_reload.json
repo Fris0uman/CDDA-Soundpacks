@@ -5,7 +5,7 @@
     "variant": "sig_p230",
     "volume": 100,
     "files": [
-      "reload//pocket_pistol/pocket_pistol_load_01.ogg",
+      "reload/pocket_pistol/pocket_pistol_load_01.ogg",
       "reload//pocket_pistol/pocket_pistol_load_02.ogg",
       "reload//pocket_pistol/pocket_pistol_load_03.ogg",
       "reload//pocket_pistol/pocket_pistol_load_04.ogg"
