@@ -6,9 +6,9 @@
     "volume": 100,
     "files": [
       "reload/pocket_pistol/pocket_pistol_load_01.ogg",
-      "reload//pocket_pistol/pocket_pistol_load_02.ogg",
-      "reload//pocket_pistol/pocket_pistol_load_03.ogg",
-      "reload//pocket_pistol/pocket_pistol_load_04.ogg"
+      "reload/pocket_pistol/pocket_pistol_load_02.ogg",
+      "reload/pocket_pistol/pocket_pistol_load_03.ogg",
+      "reload/pocket_pistol/pocket_pistol_load_04.ogg"
     ]
   },
   {
@@ -17,10 +17,10 @@
     "variant": "walther_ppk",
     "volume": 100,
     "files": [
-      "reload//pocket_pistol/pocket_pistol_load_01.ogg",
-      "reload//pocket_pistol/pocket_pistol_load_02.ogg",
-      "reload//pocket_pistol/pocket_pistol_load_03.ogg",
-      "reload//pocket_pistol/pocket_pistol_load_04.ogg"
+      "reload/pocket_pistol/pocket_pistol_load_01.ogg",
+      "reload/pocket_pistol/pocket_pistol_load_02.ogg",
+      "reload/pocket_pistol/pocket_pistol_load_03.ogg",
+      "reload/pocket_pistol/pocket_pistol_load_04.ogg"
     ]
   },
   {
@@ -29,10 +29,10 @@
     "variant": "kp32",
     "volume": 100,
     "files": [
-      "reload//pocket_pistol/pocket_pistol_load_01.ogg",
-      "reload//pocket_pistol/pocket_pistol_load_02.ogg",
-      "reload//pocket_pistol/pocket_pistol_load_03.ogg",
-      "reload//pocket_pistol/pocket_pistol_load_04.ogg"
+      "reload/pocket_pistol/pocket_pistol_load_01.ogg",
+      "reload/pocket_pistol/pocket_pistol_load_02.ogg",
+      "reload/pocket_pistol/pocket_pistol_load_03.ogg",
+      "reload/pocket_pistol/pocket_pistol_load_04.ogg"
     ]
   },
   {
@@ -41,10 +41,10 @@
     "variant": "kp3at",
     "volume": 100,
     "files": [
-      "reload//pocket_pistol/pocket_pistol_load_01.ogg",
-      "reload//pocket_pistol/pocket_pistol_load_02.ogg",
-      "reload//pocket_pistol/pocket_pistol_load_03.ogg",
-      "reload//pocket_pistol/pocket_pistol_load_04.ogg"
+      "reload/pocket_pistol/pocket_pistol_load_01.ogg",
+      "reload/pocket_pistol/pocket_pistol_load_02.ogg",
+      "reload/pocket_pistol/pocket_pistol_load_03.ogg",
+      "reload/pocket_pistol/pocket_pistol_load_04.ogg"
     ]
   },
   {
@@ -53,10 +53,10 @@
     "variant": "fn1910",
     "volume": 100,
     "files": [
-      "reload//pocket_pistol/pocket_pistol_load_01.ogg",
-      "reload//pocket_pistol/pocket_pistol_load_02.ogg",
-      "reload//pocket_pistol/pocket_pistol_load_03.ogg",
-      "reload//pocket_pistol/pocket_pistol_load_04.ogg"
+      "reload/pocket_pistol/pocket_pistol_load_01.ogg",
+      "reload/pocket_pistol/pocket_pistol_load_02.ogg",
+      "reload/pocket_pistol/pocket_pistol_load_03.ogg",
+      "reload/pocket_pistol/pocket_pistol_load_04.ogg"
     ]
   },
   {
@@ -65,10 +65,10 @@
     "variant": "rugerlcp",
     "volume": 100,
     "files": [
-      "reload//pocket_pistol/pocket_pistol_load_01.ogg",
-      "reload//pocket_pistol/pocket_pistol_load_02.ogg",
-      "reload//pocket_pistol/pocket_pistol_load_03.ogg",
-      "reload//pocket_pistol/pocket_pistol_load_04.ogg"
+      "reload/pocket_pistol/pocket_pistol_load_01.ogg",
+      "reload/pocket_pistol/pocket_pistol_load_02.ogg",
+      "reload/pocket_pistol/pocket_pistol_load_03.ogg",
+      "reload/pocket_pistol/pocket_pistol_load_04.ogg"
     ]
   },
   {
@@ -77,10 +77,10 @@
     "variant": "hptcf380",
     "volume": 100,
     "files": [
-      "reload//pocket_pistol/pocket_pistol_load_01.ogg",
-      "reload//pocket_pistol/pocket_pistol_load_02.ogg",
-      "reload//pocket_pistol/pocket_pistol_load_03.ogg",
-      "reload//pocket_pistol/pocket_pistol_load_04.ogg"
+      "reload/pocket_pistol/pocket_pistol_load_01.ogg",
+      "reload/pocket_pistol/pocket_pistol_load_02.ogg",
+      "reload/pocket_pistol/pocket_pistol_load_03.ogg",
+      "reload/pocket_pistol/pocket_pistol_load_04.ogg"
     ]
   },
   {
@@ -89,10 +89,10 @@
     "variant": "taurus_spectrum",
     "volume": 100,
     "files": [
-      "reload//pocket_pistol/pocket_pistol_load_01.ogg",
-      "reload//pocket_pistol/pocket_pistol_load_02.ogg",
-      "reload//pocket_pistol/pocket_pistol_load_03.ogg",
-      "reload//pocket_pistol/pocket_pistol_load_04.ogg"
+      "reload/pocket_pistol/pocket_pistol_load_01.ogg",
+      "reload/pocket_pistol/pocket_pistol_load_02.ogg",
+      "reload/pocket_pistol/pocket_pistol_load_03.ogg",
+      "reload/pocket_pistol/pocket_pistol_load_04.ogg"
     ]
   },
   {
@@ -101,10 +101,10 @@
     "variant": "sig_mosquito",
     "volume": 100,
     "files": [
-      "reload//pocket_pistol/pocket_pistol_load_01.ogg",
-      "reload//pocket_pistol/pocket_pistol_load_02.ogg",
-      "reload//pocket_pistol/pocket_pistol_load_03.ogg",
-      "reload//pocket_pistol/pocket_pistol_load_04.ogg"
+      "reload/pocket_pistol/pocket_pistol_load_01.ogg",
+      "reload/pocket_pistol/pocket_pistol_load_02.ogg",
+      "reload/pocket_pistol/pocket_pistol_load_03.ogg",
+      "reload/pocket_pistol/pocket_pistol_load_04.ogg"
     ]
   },
   {
@@ -113,10 +113,10 @@
     "variant": "sw_22",
     "volume": 100,
     "files": [
-      "reload//pocket_pistol/pocket_pistol_load_01.ogg",
-      "reload//pocket_pistol/pocket_pistol_load_02.ogg",
-      "reload//pocket_pistol/pocket_pistol_load_03.ogg",
-      "reload//pocket_pistol/pocket_pistol_load_04.ogg"
+      "reload/pocket_pistol/pocket_pistol_load_01.ogg",
+      "reload/pocket_pistol/pocket_pistol_load_02.ogg",
+      "reload/pocket_pistol/pocket_pistol_load_03.ogg",
+      "reload/pocket_pistol/pocket_pistol_load_04.ogg"
     ]
   },
   {
@@ -125,10 +125,10 @@
     "variant": "j22",
     "volume": 100,
     "files": [
-      "reload//pocket_pistol/pocket_pistol_load_01.ogg",
-      "reload//pocket_pistol/pocket_pistol_load_02.ogg",
-      "reload//pocket_pistol/pocket_pistol_load_03.ogg",
-      "reload//pocket_pistol/pocket_pistol_load_04.ogg"
+      "reload/pocket_pistol/pocket_pistol_load_01.ogg",
+      "reload/pocket_pistol/pocket_pistol_load_02.ogg",
+      "reload/pocket_pistol/pocket_pistol_load_03.ogg",
+      "reload/pocket_pistol/pocket_pistol_load_04.ogg"
     ]
   },
   {
@@ -137,10 +137,10 @@
     "variant": "walther_p22",
     "volume": 100,
     "files": [
-      "reload//pocket_pistol/pocket_pistol_load_01.ogg",
-      "reload//pocket_pistol/pocket_pistol_load_02.ogg",
-      "reload//pocket_pistol/pocket_pistol_load_03.ogg",
-      "reload//pocket_pistol/pocket_pistol_load_04.ogg"
+      "reload/pocket_pistol/pocket_pistol_load_01.ogg",
+      "reload/pocket_pistol/pocket_pistol_load_02.ogg",
+      "reload/pocket_pistol/pocket_pistol_load_03.ogg",
+      "reload/pocket_pistol/pocket_pistol_load_04.ogg"
     ]
   },
   {
@@ -149,10 +149,10 @@
     "variant": "makarov",
     "volume": 100,
     "files": [
-      "reload//pocket_pistol/pocket_pistol_load_01.ogg",
-      "reload//pocket_pistol/pocket_pistol_load_02.ogg",
-      "reload//pocket_pistol/pocket_pistol_load_03.ogg",
-      "reload//pocket_pistol/pocket_pistol_load_04.ogg"
+      "reload/pocket_pistol/pocket_pistol_load_01.ogg",
+      "reload/pocket_pistol/pocket_pistol_load_02.ogg",
+      "reload/pocket_pistol/pocket_pistol_load_03.ogg",
+      "reload/pocket_pistol/pocket_pistol_load_04.ogg"
     ]
   },
   {
@@ -161,10 +161,10 @@
     "variant": "kpf9",
     "volume": 100,
     "files": [
-      "reload//pocket_pistol/pocket_pistol_load_01.ogg",
-      "reload//pocket_pistol/pocket_pistol_load_02.ogg",
-      "reload//pocket_pistol/pocket_pistol_load_03.ogg",
-      "reload//pocket_pistol/pocket_pistol_load_04.ogg"
+      "reload/pocket_pistol/pocket_pistol_load_01.ogg",
+      "reload/pocket_pistol/pocket_pistol_load_02.ogg",
+      "reload/pocket_pistol/pocket_pistol_load_03.ogg",
+      "reload/pocket_pistol/pocket_pistol_load_04.ogg"
     ]
   }
 ]
