@@ -3,7 +3,7 @@
     "type": "sound_effect",
     "id": "reload",
     "variant": "sig_p230",
-    "volume": 100,
+    "volume": 60,
     "files": [
       "reload/pocket_pistol/pocket_pistol_load_01.ogg",
       "reload/pocket_pistol/pocket_pistol_load_02.ogg",
@@ -15,7 +15,7 @@
     "type": "sound_effect",
     "id": "reload",
     "variant": "walther_ppk",
-    "volume": 100,
+    "volume": 60,
     "files": [
       "reload/pocket_pistol/pocket_pistol_load_01.ogg",
       "reload/pocket_pistol/pocket_pistol_load_02.ogg",
@@ -27,7 +27,7 @@
     "type": "sound_effect",
     "id": "reload",
     "variant": "kp32",
-    "volume": 100,
+    "volume": 60,
     "files": [
       "reload/pocket_pistol/pocket_pistol_load_01.ogg",
       "reload/pocket_pistol/pocket_pistol_load_02.ogg",
@@ -39,7 +39,7 @@
     "type": "sound_effect",
     "id": "reload",
     "variant": "kp3at",
-    "volume": 100,
+    "volume": 60,
     "files": [
       "reload/pocket_pistol/pocket_pistol_load_01.ogg",
       "reload/pocket_pistol/pocket_pistol_load_02.ogg",
@@ -51,7 +51,7 @@
     "type": "sound_effect",
     "id": "reload",
     "variant": "fn1910",
-    "volume": 100,
+    "volume": 60,
     "files": [
       "reload/pocket_pistol/pocket_pistol_load_01.ogg",
       "reload/pocket_pistol/pocket_pistol_load_02.ogg",
@@ -63,7 +63,7 @@
     "type": "sound_effect",
     "id": "reload",
     "variant": "rugerlcp",
-    "volume": 100,
+    "volume": 60,
     "files": [
       "reload/pocket_pistol/pocket_pistol_load_01.ogg",
       "reload/pocket_pistol/pocket_pistol_load_02.ogg",
@@ -75,7 +75,7 @@
     "type": "sound_effect",
     "id": "reload",
     "variant": "hptcf380",
-    "volume": 100,
+    "volume": 60,
     "files": [
       "reload/pocket_pistol/pocket_pistol_load_01.ogg",
       "reload/pocket_pistol/pocket_pistol_load_02.ogg",
@@ -87,7 +87,7 @@
     "type": "sound_effect",
     "id": "reload",
     "variant": "taurus_spectrum",
-    "volume": 100,
+    "volume": 60,
     "files": [
       "reload/pocket_pistol/pocket_pistol_load_01.ogg",
       "reload/pocket_pistol/pocket_pistol_load_02.ogg",
@@ -99,7 +99,7 @@
     "type": "sound_effect",
     "id": "reload",
     "variant": "sig_mosquito",
-    "volume": 100,
+    "volume": 60,
     "files": [
       "reload/pocket_pistol/pocket_pistol_load_01.ogg",
       "reload/pocket_pistol/pocket_pistol_load_02.ogg",
@@ -111,7 +111,7 @@
     "type": "sound_effect",
     "id": "reload",
     "variant": "sw_22",
-    "volume": 100,
+    "volume": 60,
     "files": [
       "reload/pocket_pistol/pocket_pistol_load_01.ogg",
       "reload/pocket_pistol/pocket_pistol_load_02.ogg",
@@ -123,7 +123,7 @@
     "type": "sound_effect",
     "id": "reload",
     "variant": "j22",
-    "volume": 100,
+    "volume": 60,
     "files": [
       "reload/pocket_pistol/pocket_pistol_load_01.ogg",
       "reload/pocket_pistol/pocket_pistol_load_02.ogg",
@@ -135,7 +135,7 @@
     "type": "sound_effect",
     "id": "reload",
     "variant": "walther_p22",
-    "volume": 100,
+    "volume": 60,
     "files": [
       "reload/pocket_pistol/pocket_pistol_load_01.ogg",
       "reload/pocket_pistol/pocket_pistol_load_02.ogg",
@@ -147,7 +147,7 @@
     "type": "sound_effect",
     "id": "reload",
     "variant": "makarov",
-    "volume": 100,
+    "volume": 60,
     "files": [
       "reload/pocket_pistol/pocket_pistol_load_01.ogg",
       "reload/pocket_pistol/pocket_pistol_load_02.ogg",
@@ -159,7 +159,7 @@
     "type": "sound_effect",
     "id": "reload",
     "variant": "kpf9",
-    "volume": 100,
+    "volume": 60,
     "files": [
       "reload/pocket_pistol/pocket_pistol_load_01.ogg",
       "reload/pocket_pistol/pocket_pistol_load_02.ogg",
