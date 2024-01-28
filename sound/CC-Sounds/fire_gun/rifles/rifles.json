@@ -2,20 +2,6 @@
   {
     "type": "sound_effect",
     "id": "fire_gun",
-    "variant": "ak556",
-    "volume": 100,
-    "files": [ "fire_gun/rifles/rifle_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "minidraco556",
-    "volume": 100,
-    "files": [ "fire_gun/rifles/rifle_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
     "variant": "ak308",
     "volume": 100,
     "files": [ "fire_gun/rifles/rifle_1.ogg" ]
@@ -52,27 +38,6 @@
     "type": "sound_effect",
     "id": "fire_gun",
     "variant": "ar10",
-    "volume": 100,
-    "files": [ "fire_gun/rifles/rifle_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "ar15",
-    "volume": 100,
-    "files": [ "fire_gun/rifles/rifle_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "ar15_retool_300blk",
-    "volume": 100,
-    "files": [ "fire_gun/rifles/rifle_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "steyr_aug",
     "volume": 100,
     "files": [ "fire_gun/rifles/rifle_1.ogg" ]
   },
@@ -171,20 +136,6 @@
   {
     "type": "sound_effect",
     "id": "fire_gun",
-    "variant": "fs2000",
-    "volume": 100,
-    "files": [ "fire_gun/rifles/rifle_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "hk_g36",
-    "volume": 100,
-    "files": [ "fire_gun/rifles/rifle_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
     "variant": "TDI_10",
     "volume": 100,
     "files": [ "fire_gun/rifles/rifle_1.ogg" ]
@@ -262,13 +213,6 @@
   {
     "type": "sound_effect",
     "id": "fire_gun",
-    "variant": "iwi_tavor_x95_300blk",
-    "volume": 100,
-    "files": [ "fire_gun/rifles/rifle_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
     "variant": "kord",
     "volume": 100,
     "files": [ "fire_gun/rifles/rifle_1.ogg" ]
@@ -325,48 +269,6 @@
   {
     "type": "sound_effect",
     "id": "fire_gun",
-    "variant": "m16_auto_rifle",
-    "volume": 100,
-    "files": [ "fire_gun/rifles/rifle_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "m16a4",
-    "volume": 100,
-    "files": [ "fire_gun/rifles/rifle_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "m231pfw",
-    "volume": 100,
-    "files": [ "fire_gun/rifles/rifle_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "m27_assault_rifle",
-    "volume": 100,
-    "files": [ "fire_gun/rifles/rifle_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "m4_carbine",
-    "volume": 100,
-    "files": [ "fire_gun/rifles/rifle_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "famas",
-    "volume": 100,
-    "files": [ "fire_gun/rifles/rifle_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
     "variant": "draco",
     "volume": 100,
     "files": [ "fire_gun/rifles/rifle_1.ogg" ]
@@ -402,13 +304,6 @@
   {
     "type": "sound_effect",
     "id": "fire_gun",
-    "variant": "oa93",
-    "volume": 100,
-    "files": [ "fire_gun/rifles/rifle_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
     "variant": "ppsh",
     "volume": 100,
     "files": [ "fire_gun/rifles/rifle_1.ogg" ]
@@ -417,13 +312,6 @@
     "type": "sound_effect",
     "id": "fire_gun",
     "variant": "hk_mp5_semi_pistol",
-    "volume": 100,
-    "files": [ "fire_gun/rifles/rifle_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "acr_300blk",
     "volume": 100,
     "files": [ "fire_gun/rifles/rifle_1.ogg" ]
   },
@@ -479,28 +367,7 @@
   {
     "type": "sound_effect",
     "id": "fire_gun",
-    "variant": "ruger_mini",
-    "volume": 100,
-    "files": [ "fire_gun/rifles/rifle_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
     "variant": "mp40semi",
-    "volume": 100,
-    "files": [ "fire_gun/rifles/rifle_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "sig_assault_rifle",
-    "volume": 100,
-    "files": [ "fire_gun/rifles/rifle_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "sig_mcx_rattler_sbr",
     "volume": 100,
     "files": [ "fire_gun/rifles/rifle_1.ogg" ]
   },
