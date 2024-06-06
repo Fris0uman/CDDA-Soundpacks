@@ -50,18 +50,6 @@
   {
     "type": "sound_effect",
     "id": "fire_gun",
-    "variant": "famas",
-    "volume": 100,
-    "is_indoors": true,
-    "files": [
-      "fire_gun/rifles/automatic_rifle/indoor_gunfire/556_auto_rifle_shot_01.ogg",
-      "fire_gun/rifles/automatic_rifle/indoor_gunfire/556_auto_rifle_shot_02.ogg",
-      "fire_gun/rifles/automatic_rifle/indoor_gunfire/556_auto_rifle_shot_03.ogg"
-    ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
     "variant": "fs2000",
     "volume": 100,
     "is_indoors": true,

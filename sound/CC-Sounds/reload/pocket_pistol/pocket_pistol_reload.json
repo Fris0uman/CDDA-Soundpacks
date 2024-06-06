@@ -166,5 +166,29 @@
       "reload/pocket_pistol/pocket_pistol_load_03.ogg",
       "reload/pocket_pistol/pocket_pistol_load_04.ogg"
     ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "reload",
+    "variant": "cp33",
+    "volume": 60,
+    "files": [
+      "reload/pocket_pistol/pocket_pistol_load_01.ogg",
+      "reload/pocket_pistol/pocket_pistol_load_02.ogg",
+      "reload/pocket_pistol/pocket_pistol_load_03.ogg",
+      "reload/pocket_pistol/pocket_pistol_load_04.ogg"
+    ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "reload",
+    "variant": "ruger_mk4",
+    "volume": 60,
+    "files": [
+      "reload/pocket_pistol/pocket_pistol_load_01.ogg",
+      "reload/pocket_pistol/pocket_pistol_load_02.ogg",
+      "reload/pocket_pistol/pocket_pistol_load_03.ogg",
+      "reload/pocket_pistol/pocket_pistol_load_04.ogg"
+    ]
   }
 ]
