@@ -1,0 +1,44 @@
+[
+  {
+    "type": "sound_effect",
+    "id": "plmove",
+    "variant": "sleepiness_m_low",
+    "volume": 100,
+    "files": [ "plmove/sleepiness/sleepiness_low.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "plmove",
+    "variant": "sleepiness_m_med",
+    "volume": 100,
+    "files": [ "plmove/sleepiness/sleepiness_med.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "plmove",
+    "variant": "sleepiness_m_high",
+    "volume": 100,
+    "files": [ "plmove/sleepiness/sleepiness_high.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "plmove",
+    "variant": "sleepiness_f_low",
+    "volume": 100,
+    "files": [ "plmove/sleepiness/sleepiness_low.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "plmove",
+    "variant": "sleepiness_f_med",
+    "volume": 100,
+    "files": [ "plmove/sleepiness/sleepiness_med.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "plmove",
+    "variant": "sleepiness_f_high",
+    "volume": 100,
+    "files": [ "plmove/sleepiness/sleepiness_high.ogg" ]
+  }
+]
