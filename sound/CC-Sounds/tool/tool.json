@@ -19,5 +19,12 @@
     "variant": "oxytorch",
     "volume": 60,
     "files": [ "tool/oxytorch_1.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "tool",
+    "variant": "shovel",
+    "volume": 100,
+    "files": [ "tool/shovel_1.ogg" ]
   }
 ]
