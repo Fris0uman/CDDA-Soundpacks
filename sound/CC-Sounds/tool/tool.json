@@ -26,5 +26,12 @@
     "variant": "shovel",
     "volume": 100,
     "files": [ "tool/shovel_1.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "tool",
+    "variant": "axe",
+    "volume": 100,
+    "files": [ "tool/axe_1.ogg" ]
   }
 ]
