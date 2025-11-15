@@ -33,5 +33,12 @@
     "variant": "axe",
     "volume": 100,
     "files": [ "tool/axe_1.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "tool",
+    "variant": "hacksaw",
+    "volume": 100,
+    "files": [ "tool/hacksaw_1.ogg" ]
   }
 ]
