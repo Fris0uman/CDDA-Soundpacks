@@ -3,5 +3,5 @@
 ## Installation
 
 - Get ffmpeg https://github.com/BtbN/FFmpeg-Builds/releases
-- Add both `ffmpeg` and `ffprobe` to PATH
+- Add `ffmpeg` to PATH
 - Done

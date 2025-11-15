@@ -21,7 +21,7 @@ root_dir = os.path.join(tool_dir,'../sound/CC-Sounds')
 exclude = set([ '.git', '.github', '.gitignore', '.gitmodules' ])
 music_dirs = [os.path.join(tool_dir,'sound/CC-Sounds/music')]
 ffprobe = shutil.which('ffprobe')
-ffmpeg = shutil.which('ffmpeg.')
+ffmpeg = shutil.which('ffmpeg')
 
 bit_rate_target = 128000
 sample_rate_target = 48000
