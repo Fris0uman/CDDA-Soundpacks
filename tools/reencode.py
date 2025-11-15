@@ -1,3 +1,7 @@
+"""
+You need ffmpeg and ffprobe added to PATH to run this script
+"""
+
 #!python3
 
 import json
