@@ -4,8 +4,6 @@
     "id": "engine_start",
     "variant": "electric",
     "volume": 100,
-    "files": [
-      "engine_start/electric/motor_start_ping.ogg"
-    ]
+    "files": [ "engine_start/electric/motor_start_ping.ogg" ]
   }
 ]
