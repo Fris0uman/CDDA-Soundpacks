@@ -1,6 +1,6 @@
 | File Name        | Author   | License   | Link                            |
 |------------------|----------|-----------|---------------------------------|
-| walk_grass_1.ogg | spycrah  | **CC BY 3.0** | https://freesound.org/s/535220/ |
+| walk_grass_1.ogg | Flammos  | **CC BY 3.0** | https://freesound.org/s/613205/ |
 | walk_grass_2.ogg | spycrah  | **CC BY 3.0** | https://freesound.org/s/535222/ |
 | walk_grass_3.ogg | Ashe Kirk | **CC0 1.0** | https://freesound.org/s/151229/ |
 | walk_grass_4.ogg | Ashe Kirk | **CC0 1.0** | https://freesound.org/s/151230/ |
