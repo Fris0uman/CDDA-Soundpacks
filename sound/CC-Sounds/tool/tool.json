@@ -5,5 +5,19 @@
     "variant": "pickaxe",
     "volume": 50,
     "files": [ "tool/pickaxe_1.ogg", "tool/pickaxe_2.ogg", "tool/pickaxe_3.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "tool",
+    "variant": "camera_shutter",
+    "volume": 100,
+    "files": [ "tool/camera_shutter_1.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "tool",
+    "variant": "oxytorch",
+    "volume": 60,
+    "files": [ "tool/oxytorch_1.ogg" ]
   }
 ]
