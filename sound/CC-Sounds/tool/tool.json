@@ -1,0 +1,9 @@
+[
+  {
+    "type": "sound_effect",
+    "id": "tool",
+    "variant": "pickaxe",
+    "volume": 50,
+    "files": [ "tool/pickaxe_1.ogg", "tool/pickaxe_2.ogg", "tool/pickaxe_3.ogg" ]
+  }
+]
