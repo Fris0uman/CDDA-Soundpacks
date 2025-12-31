@@ -96,8 +96,6 @@
       "t_concrete_ramp_up_low"
     ],
     "volume": 80,
-    "files": [
-      "smash_success/concrete/smash_success_concrete.ogg"
-    ]
+    "files": [ "smash_success/concrete/smash_success_concrete.ogg" ]
   }
 ]

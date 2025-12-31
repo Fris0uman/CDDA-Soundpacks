@@ -36,8 +36,6 @@
       "bigun"
     ],
     "volume": 60,
-    "files": [
-      "fire_gun/shotguns/shotgun_1.ogg"
-    ]
+    "files": [ "fire_gun/shotguns/shotgun_1.ogg" ]
   }
 ]

@@ -32,8 +32,6 @@
       "speargun"
     ],
     "volume": 100,
-    "files": [
-      "fire_gun/bows/bow_1.ogg"
-    ]
+    "files": [ "fire_gun/bows/bow_1.ogg" ]
   }
 ]

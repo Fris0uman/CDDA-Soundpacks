@@ -2,13 +2,7 @@
   {
     "type": "sound_effect",
     "id": "plmove",
-    "variant": [
-      "t_grass_long",
-      "t_grass_tall",
-      "t_grass_dead",
-      "t_fern",
-      "t_fern_harvested"
-    ],
+    "variant": [ "t_grass_long", "t_grass_tall", "t_grass_dead", "t_fern", "t_fern_harvested" ],
     "volume": 110,
     "files": [
       "plmove/walk_t_grass_long/walk_t_grass_long_1.ogg",

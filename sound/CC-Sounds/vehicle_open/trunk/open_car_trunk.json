@@ -2,18 +2,8 @@
   {
     "type": "sound_effect",
     "id": "vehicle_open",
-    "variant": [
-      "door_shutter",
-      "hatch",
-      "hatch_opaque",
-      "hdhatch",
-      "hdhatch_opaque",
-      "door_trunk",
-      "hddoor_trunk"
-    ],
+    "variant": [ "door_shutter", "hatch", "hatch_opaque", "hdhatch", "hdhatch_opaque", "door_trunk", "hddoor_trunk" ],
     "volume": 100,
-    "files": [
-      "vehicle_open/trunk/open_car_trunk.ogg"
-    ]
+    "files": [ "vehicle_open/trunk/open_car_trunk.ogg" ]
   }
 ]

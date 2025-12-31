@@ -34,8 +34,6 @@
       "t_rdoor_boarded_damaged"
     ],
     "volume": 60,
-    "files": [
-      "smash_success/door_wood/door_smash_success.ogg"
-    ]
+    "files": [ "smash_success/door_wood/door_smash_success.ogg" ]
   }
 ]

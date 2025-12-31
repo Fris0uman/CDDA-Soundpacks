@@ -181,9 +181,6 @@
       "f_aut_gas_console_o"
     ],
     "volume": 60,
-    "files": [
-      "smash_success/metal/smash_success_metal.ogg",
-      "smash_success/metal/smash_success_metal_1.ogg"
-    ]
+    "files": [ "smash_success/metal/smash_success_metal.ogg", "smash_success/metal/smash_success_metal_1.ogg" ]
   }
 ]

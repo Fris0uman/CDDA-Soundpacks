@@ -12,8 +12,6 @@
       "t_quietfarm_border_fence"
     ],
     "volume": 50,
-    "files": [
-      "smash_success/chain_link/smash_success_chain_link.ogg"
-    ]
+    "files": [ "smash_success/chain_link/smash_success_chain_link.ogg" ]
   }
 ]

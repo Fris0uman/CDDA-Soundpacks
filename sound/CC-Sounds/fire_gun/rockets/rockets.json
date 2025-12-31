@@ -17,8 +17,6 @@
       "cannon_3in_ordnance"
     ],
     "volume": 100,
-    "files": [
-      "fire_gun/rockets/rocket_1.ogg"
-    ]
+    "files": [ "fire_gun/rockets/rocket_1.ogg" ]
   }
 ]

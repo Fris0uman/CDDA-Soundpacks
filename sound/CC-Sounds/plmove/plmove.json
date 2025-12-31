@@ -2,9 +2,7 @@
   {
     "type": "sound_effect",
     "id": "plmove",
-    "variant": [
-      "walk_dirt"
-    ],
+    "variant": [ "walk_dirt" ],
     "volume": 50,
     "files": [
       "plmove/walk_dirt_1.ogg",
@@ -18,9 +16,7 @@
   {
     "type": "sound_effect",
     "id": "plmove",
-    "variant": [
-      "walk_tarmac"
-    ],
+    "variant": [ "walk_tarmac" ],
     "volume": 100,
     "files": [
       "plmove/walk_t_concrete_1.ogg",
@@ -37,9 +33,7 @@
   {
     "type": "sound_effect",
     "id": "plmove",
-    "variant": [
-      "walk_barefoot"
-    ],
+    "variant": [ "walk_barefoot" ],
     "volume": 100,
     "files": [
       "plmove/walk_barefoot_1.ogg",
@@ -57,9 +51,7 @@
   {
     "type": "sound_effect",
     "id": "plmove",
-    "variant": [
-      "walk_water"
-    ],
+    "variant": [ "walk_water" ],
     "volume": 100,
     "files": [
       "plmove/walk_water_1.ogg",
@@ -102,9 +94,7 @@
   {
     "type": "sound_effect",
     "id": "plmove",
-    "variant": [
-      "t_rock_floor"
-    ],
+    "variant": [ "t_rock_floor" ],
     "volume": 100,
     "files": [
       "plmove/walk_t_rock_floor_1.ogg",
@@ -116,9 +106,7 @@
   {
     "type": "sound_effect",
     "id": "plmove",
-    "variant": [
-      "t_railroad_rubble"
-    ],
+    "variant": [ "t_railroad_rubble" ],
     "volume": 50,
     "files": [
       "plmove/walk_t_gravel_1.ogg",

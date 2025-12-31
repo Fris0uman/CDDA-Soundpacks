@@ -20,8 +20,6 @@
       "t_rdoor_c"
     ],
     "volume": 80,
-    "files": [
-      "open_door/door_wood/open_door.ogg"
-    ]
+    "files": [ "open_door/door_wood/open_door.ogg" ]
   }
 ]

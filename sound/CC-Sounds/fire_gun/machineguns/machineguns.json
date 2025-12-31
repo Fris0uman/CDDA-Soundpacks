@@ -16,8 +16,6 @@
       "m134"
     ],
     "volume": 100,
-    "files": [
-      "fire_gun/machineguns/machinegun_1.ogg"
-    ]
+    "files": [ "fire_gun/machineguns/machinegun_1.ogg" ]
   }
 ]

@@ -32,8 +32,6 @@
       "t_wood_wall_black"
     ],
     "volume": 50,
-    "files": [
-      "smash_fail/t_wall/smash_fail_wall.ogg"
-    ]
+    "files": [ "smash_fail/t_wall/smash_fail_wall.ogg" ]
   }
 ]

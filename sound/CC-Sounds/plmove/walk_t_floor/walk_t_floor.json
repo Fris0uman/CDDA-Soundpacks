@@ -2,13 +2,7 @@
   {
     "type": "sound_effect",
     "id": "plmove",
-    "variant": [
-      "t_floor",
-      "t_floor_olight",
-      "t_floor_primitive",
-      "t_floor_waxed",
-      "t_floor_waxed_y"
-    ],
+    "variant": [ "t_floor", "t_floor_olight", "t_floor_primitive", "t_floor_waxed", "t_floor_waxed_y" ],
     "volume": 30,
     "files": [
       "plmove/walk_t_floor/walk_t_floor_1.ogg",

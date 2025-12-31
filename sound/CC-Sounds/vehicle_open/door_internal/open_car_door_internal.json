@@ -2,16 +2,8 @@
   {
     "type": "sound_effect",
     "id": "vehicle_open",
-    "variant": [
-      "door_internal",
-      "door_full",
-      "door_opaque_full",
-      "hddoor_full",
-      "hddoor_opaque_full"
-    ],
+    "variant": [ "door_internal", "door_full", "door_opaque_full", "hddoor_full", "hddoor_opaque_full" ],
     "volume": 50,
-    "files": [
-      "vehicle_open/door_internal/open_car_door_internal.ogg"
-    ]
+    "files": [ "vehicle_open/door_internal/open_car_door_internal.ogg" ]
   }
 ]

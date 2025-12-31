@@ -100,8 +100,6 @@
       "2_shot_special"
     ],
     "volume": 100,
-    "files": [
-      "fire_gun/handguns/handgun_1.ogg"
-    ]
+    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
   }
 ]

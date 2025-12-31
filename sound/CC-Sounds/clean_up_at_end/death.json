@@ -2,13 +2,8 @@
   {
     "type": "sound_effect",
     "id": "clean_up_at_end",
-    "variant": [
-      "death_m",
-      "death_f"
-    ],
+    "variant": [ "death_m", "death_f" ],
     "volume": 100,
-    "files": [
-      "clean_up_at_end/death.ogg"
-    ]
+    "files": [ "clean_up_at_end/death.ogg" ]
   }
 ]

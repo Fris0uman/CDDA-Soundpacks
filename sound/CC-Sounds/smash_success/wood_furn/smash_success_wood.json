@@ -35,8 +35,6 @@
       "f_coffee_table"
     ],
     "volume": 60,
-    "files": [
-      "smash_success/wood_furn/smash_success_wood.ogg"
-    ]
+    "files": [ "smash_success/wood_furn/smash_success_wood.ogg" ]
   }
 ]

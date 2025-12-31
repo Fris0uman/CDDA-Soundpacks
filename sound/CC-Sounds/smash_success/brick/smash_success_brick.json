@@ -31,8 +31,6 @@
       "t_brick_oven"
     ],
     "volume": 80,
-    "files": [
-      "smash_success/brick/smash_success_brick.ogg"
-    ]
+    "files": [ "smash_success/brick/smash_success_brick.ogg" ]
   }
 ]

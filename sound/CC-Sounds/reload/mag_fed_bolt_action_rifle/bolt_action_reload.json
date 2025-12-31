@@ -2,17 +2,7 @@
   {
     "type": "sound_effect",
     "id": "reload",
-    "variant": [
-      "tac50",
-      "cz600",
-      "m2010",
-      "ruger_pr",
-      "steyr_scout",
-      "tac338",
-      "mrad_smr",
-      "axmc",
-      "ruger_arr"
-    ],
+    "variant": [ "tac50", "cz600", "m2010", "ruger_pr", "steyr_scout", "tac338", "mrad_smr", "axmc", "ruger_arr" ],
     "volume": 100,
     "files": [
       "reload/mag_fed_bolt_action_rifle/bolt_action_rifle_load_01.ogg",
