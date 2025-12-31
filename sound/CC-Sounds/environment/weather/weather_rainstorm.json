@@ -2,7 +2,7 @@
   {
     "type": "sound_effect",
     "id": "environment",
-    "variant": "WEATHER_RAINSTORM",
+    "variant": [ "WEATHER_RAINSTORM" ],
     "volume": 100,
     "is_indoors": false,
     "files": [ "environment/weather/WEATHER_RAINSTORM.ogg" ]
@@ -10,7 +10,7 @@
   {
     "type": "sound_effect",
     "id": "environment",
-    "variant": "WEATHER_RAINSTORM",
+    "variant": [ "WEATHER_RAINSTORM" ],
     "volume": 100,
     "is_indoors": true,
     "files": [ "environment/weather/WEATHER_RAINSTORM_inside.ogg" ]

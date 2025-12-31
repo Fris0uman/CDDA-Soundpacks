@@ -2,666 +2,103 @@
   {
     "type": "sound_effect",
     "id": "fire_gun",
-    "variant": "m1911-460",
-    "volume": 100,
-    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "af2011a1_38super",
-    "volume": 100,
-    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "90two",
-    "volume": 100,
-    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "90two40",
-    "volume": 100,
-    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "feral_m9",
-    "volume": 100,
-    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "m9",
-    "volume": 100,
-    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "px4",
-    "volume": 100,
-    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "px4_40",
-    "volume": 100,
-    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "mauser_c96",
-    "volume": 100,
-    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "hi_power_40",
-    "volume": 100,
-    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "hi_power_9mm",
-    "volume": 100,
-    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "m1911_10",
-    "volume": 100,
-    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "glock_29",
-    "volume": 100,
-    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "cz75",
-    "volume": 100,
-    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "witness_10",
-    "volume": 100,
-    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "fn1910",
-    "volume": 100,
-    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "fn57",
-    "volume": 100,
-    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "glock_17",
-    "volume": 100,
-    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "glock_18c",
-    "volume": 100,
-    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "glock_19",
-    "volume": 100,
-    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "glock_22",
-    "volume": 100,
-    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "glock_31",
-    "volume": 100,
-    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "glock_20",
-    "volume": 100,
-    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "glock_21",
-    "volume": 100,
-    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "hptc9",
-    "volume": 100,
-    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "hptcf380",
-    "volume": 100,
-    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "hptjcp",
-    "volume": 100,
-    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "hptjhp",
-    "volume": 100,
-    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "j22",
-    "volume": 100,
-    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "p50",
-    "volume": 100,
-    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "kp32",
-    "volume": 100,
-    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "kp3at",
-    "volume": 100,
-    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "kpf9",
-    "volume": 100,
-    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "ksub2000",
-    "volume": 100,
-    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "p08",
-    "volume": 100,
-    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "m17",
-    "volume": 100,
-    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "m18",
-    "volume": 100,
-    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "m1911",
-    "volume": 100,
-    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "m1911a1_38super",
-    "volume": 100,
-    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "mac_10",
-    "volume": 100,
-    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "mac_11",
-    "volume": 100,
-    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "makarov",
-    "volume": 100,
-    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "walther_ppq_45",
-    "volume": 100,
-    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "mauser_m714",
-    "volume": 100,
-    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "rm103a_pistol",
-    "volume": 100,
-    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "needlepistol",
-    "volume": 100,
-    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "rugerlcp",
-    "volume": 100,
-    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "ruger_57",
-    "volume": 100,
-    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "sw_22",
-    "volume": 100,
-    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "sig_mosquito",
-    "volume": 100,
-    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "p226_357sig",
-    "volume": 100,
-    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "p226_9mm",
-    "volume": 100,
-    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "p320_357sig",
-    "volume": 100,
-    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "p220_10",
-    "volume": 100,
-    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "sig_40",
-    "volume": 100,
-    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "sp2022",
-    "volume": 100,
-    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "sig_p230",
-    "volume": 100,
-    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "skorpion_61",
-    "volume": 100,
-    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "skorpion_82",
-    "volume": 100,
-    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "taurus_spectrum",
-    "volume": 100,
-    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "tec9",
-    "volume": 100,
-    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "pressin",
-    "volume": 100,
-    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "tokarev",
-    "volume": 100,
-    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "usp_9mm",
-    "volume": 100,
-    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "usp_45",
-    "volume": 100,
-    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "uzi",
-    "volume": 100,
-    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "walther_ccp",
-    "volume": 100,
-    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "walther_p22",
-    "volume": 100,
-    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "walther_p38",
-    "volume": 100,
-    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "walther_ppk",
-    "volume": 100,
-    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "walther_ppq_40",
-    "volume": 100,
-    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "walther_ppq_9mm",
-    "volume": 100,
-    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "xd_10",
-    "volume": 100,
-    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "pistol_flintlock",
-    "volume": 100,
-    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "sw_610",
-    "volume": 100,
-    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "colt_army",
-    "volume": 100,
-    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "colt_navy",
-    "volume": 100,
-    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "surv_six_shooter",
-    "volume": 100,
-    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "lemat_revolver",
-    "volume": 100,
-    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "bfr",
-    "volume": 100,
-    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "mr73",
-    "volume": 100,
-    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "ruger_lcr_22",
-    "volume": 100,
-    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "ruger_lcr_38",
-    "volume": 100,
-    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "ruger_redhawk",
-    "volume": 100,
-    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "sw_619",
-    "volume": 100,
-    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "sw629",
-    "volume": 100,
-    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "model_10_revolver",
-    "volume": 100,
-    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "raging_bull",
-    "volume": 100,
-    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "raging_judge",
-    "volume": 100,
-    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "colt_saa",
-    "volume": 100,
-    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "ar_pistol",
-    "volume": 100,
-    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "bond_410",
-    "volume": 100,
-    "files": [ "fire_gun/handguns/handgun_1.ogg" ],
-    "//": "this thing *can* fire shotgun rounds along with .45, but we can't change sound based on ammunition type so"
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "cop_38",
-    "volume": 100,
-    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "surv_hand_cannon",
-    "volume": 100,
-    "files": [ "fire_gun/handguns/handgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "2_shot_special",
+    "variant": [
+      "m1911-460",
+      "af2011a1_38super",
+      "90two",
+      "90two40",
+      "feral_m9",
+      "m9",
+      "px4",
+      "px4_40",
+      "mauser_c96",
+      "hi_power_40",
+      "hi_power_9mm",
+      "m1911_10",
+      "glock_29",
+      "cz75",
+      "witness_10",
+      "fn1910",
+      "fn57",
+      "glock_17",
+      "glock_18c",
+      "glock_19",
+      "glock_22",
+      "glock_31",
+      "glock_20",
+      "glock_21",
+      "hptc9",
+      "hptcf380",
+      "hptjcp",
+      "hptjhp",
+      "j22",
+      "p50",
+      "kp32",
+      "kp3at",
+      "kpf9",
+      "ksub2000",
+      "p08",
+      "m17",
+      "m18",
+      "m1911",
+      "m1911a1_38super",
+      "mac_10",
+      "mac_11",
+      "makarov",
+      "walther_ppq_45",
+      "mauser_m714",
+      "rm103a_pistol",
+      "needlepistol",
+      "rugerlcp",
+      "ruger_57",
+      "sw_22",
+      "sig_mosquito",
+      "p226_357sig",
+      "p226_9mm",
+      "p320_357sig",
+      "p220_10",
+      "sig_40",
+      "sp2022",
+      "sig_p230",
+      "skorpion_61",
+      "skorpion_82",
+      "taurus_spectrum",
+      "tec9",
+      "pressin",
+      "tokarev",
+      "usp_9mm",
+      "usp_45",
+      "uzi",
+      "walther_ccp",
+      "walther_p22",
+      "walther_p38",
+      "walther_ppk",
+      "walther_ppq_40",
+      "walther_ppq_9mm",
+      "xd_10",
+      "pistol_flintlock",
+      "sw_610",
+      "colt_army",
+      "colt_navy",
+      "surv_six_shooter",
+      "lemat_revolver",
+      "bfr",
+      "mr73",
+      "ruger_lcr_22",
+      "ruger_lcr_38",
+      "ruger_redhawk",
+      "sw_619",
+      "sw629",
+      "model_10_revolver",
+      "raging_bull",
+      "raging_judge",
+      "colt_saa",
+      "ar_pistol",
+      "bond_410",
+      "cop_38",
+      "surv_hand_cannon",
+      "2_shot_special"
+    ],
     "volume": 100,
     "files": [ "fire_gun/handguns/handgun_1.ogg" ]
   }

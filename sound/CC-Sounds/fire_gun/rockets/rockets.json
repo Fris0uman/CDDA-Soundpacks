@@ -2,86 +2,21 @@
   {
     "type": "sound_effect",
     "id": "fire_gun",
-    "variant": "atgm_launcher",
+    "variant": [
+      "atgm_launcher",
+      "surv_rocket_launcher",
+      "hk_g80",
+      "m202_flash",
+      "m3_carlgustav",
+      "RPG",
+      "LAW",
+      "AT4",
+      "firework_cannon",
+      "m4_carlgustav",
+      "m79",
+      "cannon_3in_ordnance"
+    ],
     "volume": 100,
     "files": [ "fire_gun/rockets/rocket_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "surv_rocket_launcher",
-    "volume": 100,
-    "files": [ "fire_gun/rockets/rocket_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "hk_g80",
-    "volume": 100,
-    "files": [ "fire_gun/rockets/rocket_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "m202_flash",
-    "volume": 100,
-    "files": [ "fire_gun/rockets/rocket_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "m3_carlgustav",
-    "volume": 100,
-    "files": [ "fire_gun/rockets/rocket_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "RPG",
-    "volume": 100,
-    "files": [ "fire_gun/rockets/rocket_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "LAW",
-    "volume": 100,
-    "files": [ "fire_gun/rockets/rocket_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "AT4",
-    "volume": 100,
-    "files": [ "fire_gun/rockets/rocket_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "firework_cannon",
-    "volume": 100,
-    "files": [ "fire_gun/rockets/rocket_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "m4_carlgustav",
-    "volume": 100,
-    "files": [ "fire_gun/rockets/rocket_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "m79",
-    "volume": 100,
-    "files": [ "fire_gun/rockets/rocket_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "cannon_3in_ordnance",
-    "volume": 100,
-    "files": [ "fire_gun/rockets/rocket_1.ogg" ],
-    "//": "rocket is being used loosely here"
   }
 ]

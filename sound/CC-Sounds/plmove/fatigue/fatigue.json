@@ -2,42 +2,21 @@
   {
     "type": "sound_effect",
     "id": "plmove",
-    "variant": "fatigue_m_low",
+    "variant": [ "fatigue_m_low", "fatigue_f_low" ],
     "volume": 100,
     "files": [ "plmove/fatigue/fatigue_low.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "plmove",
-    "variant": "fatigue_m_med",
+    "variant": [ "fatigue_m_med", "fatigue_f_med" ],
     "volume": 100,
     "files": [ "plmove/fatigue/fatigue_med.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "plmove",
-    "variant": "fatigue_m_high",
-    "volume": 100,
-    "files": [ "plmove/fatigue/fatigue_high.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "plmove",
-    "variant": "fatigue_f_low",
-    "volume": 100,
-    "files": [ "plmove/fatigue/fatigue_low.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "plmove",
-    "variant": "fatigue_f_med",
-    "volume": 100,
-    "files": [ "plmove/fatigue/fatigue_med.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "plmove",
-    "variant": "fatigue_f_high",
+    "variant": [ "fatigue_m_high", "fatigue_f_high" ],
     "volume": 100,
     "files": [ "plmove/fatigue/fatigue_high.ogg" ]
   }
