@@ -2,36 +2,16 @@
   {
     "type": "sound_effect",
     "id": "vehicle_close",
-    "variant": "door_internal",
+    "variant": [
+      "door_internal",
+      "door_full",
+      "door_opaque_full",
+      "hddoor_full",
+      "hddoor_opaque_full"
+    ],
     "volume": 60,
-    "files": [ "vehicle_close/door_internal/close_car_door_internal.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "vehicle_close",
-    "variant": "door_full",
-    "volume": 60,
-    "files": [ "vehicle_close/door_internal/close_car_door_internal.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "vehicle_close",
-    "variant": "door_opaque_full",
-    "volume": 60,
-    "files": [ "vehicle_close/door_internal/close_car_door_internal.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "vehicle_close",
-    "variant": "hddoor_full",
-    "volume": 60,
-    "files": [ "vehicle_close/door_internal/close_car_door_internal.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "vehicle_close",
-    "variant": "hddoor_opaque_full",
-    "volume": 60,
-    "files": [ "vehicle_close/door_internal/close_car_door_internal.ogg" ]
+    "files": [
+      "vehicle_close/door_internal/close_car_door_internal.ogg"
+    ]
   }
 ]

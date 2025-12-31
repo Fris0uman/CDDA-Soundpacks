@@ -2,29 +2,15 @@
   {
     "type": "sound_effect",
     "id": "vehicle_close",
-    "variant": "door",
+    "variant": [
+      "door",
+      "door_opaque",
+      "hddoor",
+      "hddoor_opaque"
+    ],
     "volume": 100,
-    "files": [ "vehicle_close/door/close_car_door.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "vehicle_close",
-    "variant": "door_opaque",
-    "volume": 100,
-    "files": [ "vehicle_close/door/close_car_door.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "vehicle_close",
-    "variant": "hddoor",
-    "volume": 100,
-    "files": [ "vehicle_close/door/close_car_door.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "vehicle_close",
-    "variant": "hddoor_opaque",
-    "volume": 100,
-    "files": [ "vehicle_close/door/close_car_door.ogg" ]
+    "files": [
+      "vehicle_close/door/close_car_door.ogg"
+    ]
   }
 ]

@@ -2,150 +2,22 @@
   {
     "type": "sound_effect",
     "id": "smash_fail",
-    "variant": "f_chair_folding",
-    "volume": 80,
-    "files": [
-      "smash_fail/plastic/smash_fail_plastic.ogg",
-      "smash_fail/plastic/smash_fail_plastic_1.ogg",
-      "smash_fail/plastic/smash_fail_plastic_2.ogg"
-    ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "smash_fail",
-    "variant": "f_recycle_bin",
-    "volume": 80,
-    "files": [
-      "smash_fail/plastic/smash_fail_plastic.ogg",
-      "smash_fail/plastic/smash_fail_plastic_1.ogg",
-      "smash_fail/plastic/smash_fail_plastic_2.ogg"
-    ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "smash_fail",
-    "variant": "f_trashcan",
-    "volume": 80,
-    "files": [
-      "smash_fail/plastic/smash_fail_plastic.ogg",
-      "smash_fail/plastic/smash_fail_plastic_1.ogg",
-      "smash_fail/plastic/smash_fail_plastic_2.ogg"
-    ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "smash_fail",
-    "variant": "f_utility_shelf",
-    "volume": 80,
-    "files": [
-      "smash_fail/plastic/smash_fail_plastic.ogg",
-      "smash_fail/plastic/smash_fail_plastic_1.ogg",
-      "smash_fail/plastic/smash_fail_plastic_2.ogg"
-    ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "smash_fail",
-    "variant": "t_plastic_window",
-    "volume": 80,
-    "files": [
-      "smash_fail/plastic/smash_fail_plastic.ogg",
-      "smash_fail/plastic/smash_fail_plastic_1.ogg",
-      "smash_fail/plastic/smash_fail_plastic_2.ogg"
-    ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "smash_fail",
-    "variant": "t_plastic_window_open",
-    "volume": 80,
-    "files": [
-      "smash_fail/plastic/smash_fail_plastic.ogg",
-      "smash_fail/plastic/smash_fail_plastic_1.ogg",
-      "smash_fail/plastic/smash_fail_plastic_2.ogg"
-    ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "smash_fail",
-    "variant": "t_plastic_window_with_curtain",
-    "volume": 80,
-    "files": [
-      "smash_fail/plastic/smash_fail_plastic.ogg",
-      "smash_fail/plastic/smash_fail_plastic_1.ogg",
-      "smash_fail/plastic/smash_fail_plastic_2.ogg"
-    ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "smash_fail",
-    "variant": "t_plastic_window_with_curtain_open_window_closed",
-    "volume": 80,
-    "files": [
-      "smash_fail/plastic/smash_fail_plastic.ogg",
-      "smash_fail/plastic/smash_fail_plastic_1.ogg",
-      "smash_fail/plastic/smash_fail_plastic_2.ogg"
-    ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "smash_fail",
-    "variant": "t_plastic_window_with_curtain_open",
-    "volume": 80,
-    "files": [
-      "smash_fail/plastic/smash_fail_plastic.ogg",
-      "smash_fail/plastic/smash_fail_plastic_1.ogg",
-      "smash_fail/plastic/smash_fail_plastic_2.ogg"
-    ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "smash_fail",
-    "variant": "t_reinforced_plastic_window",
-    "volume": 80,
-    "files": [
-      "smash_fail/plastic/smash_fail_plastic.ogg",
-      "smash_fail/plastic/smash_fail_plastic_1.ogg",
-      "smash_fail/plastic/smash_fail_plastic_2.ogg"
-    ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "smash_fail",
-    "variant": "t_reinforced_plastic_window_open",
-    "volume": 80,
-    "files": [
-      "smash_fail/plastic/smash_fail_plastic.ogg",
-      "smash_fail/plastic/smash_fail_plastic_1.ogg",
-      "smash_fail/plastic/smash_fail_plastic_2.ogg"
-    ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "smash_fail",
-    "variant": "t_reinforced_plastic_window_with_curtain",
-    "volume": 80,
-    "files": [
-      "smash_fail/plastic/smash_fail_plastic.ogg",
-      "smash_fail/plastic/smash_fail_plastic_1.ogg",
-      "smash_fail/plastic/smash_fail_plastic_2.ogg"
-    ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "smash_fail",
-    "variant": "t_reinforced_plastic_window_with_curtain_open_window_closed",
-    "volume": 80,
-    "files": [
-      "smash_fail/plastic/smash_fail_plastic.ogg",
-      "smash_fail/plastic/smash_fail_plastic_1.ogg",
-      "smash_fail/plastic/smash_fail_plastic_2.ogg"
-    ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "smash_fail",
-    "variant": "t_reinforced_plastic_window_with_curtain_open",
+    "variant": [
+      "f_chair_folding",
+      "f_recycle_bin",
+      "f_trashcan",
+      "f_utility_shelf",
+      "t_plastic_window",
+      "t_plastic_window_open",
+      "t_plastic_window_with_curtain",
+      "t_plastic_window_with_curtain_open_window_closed",
+      "t_plastic_window_with_curtain_open",
+      "t_reinforced_plastic_window",
+      "t_reinforced_plastic_window_open",
+      "t_reinforced_plastic_window_with_curtain",
+      "t_reinforced_plastic_window_with_curtain_open_window_closed",
+      "t_reinforced_plastic_window_with_curtain_open"
+    ],
     "volume": 80,
     "files": [
       "smash_fail/plastic/smash_fail_plastic.ogg",

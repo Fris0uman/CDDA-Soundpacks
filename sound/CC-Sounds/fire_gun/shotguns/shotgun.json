@@ -2,218 +2,42 @@
   {
     "type": "sound_effect",
     "id": "fire_gun",
-    "variant": "ksg",
+    "variant": [
+      "ksg",
+      "mossberg_500",
+      "remington_870",
+      "ashot",
+      "streetsweeper",
+      "bio_shotgun_gun",
+      "winchester_1887",
+      "remington_870_breacher",
+      "shotgun_d",
+      "slamfire_shotgun_d",
+      "pipe_double_shotgun",
+      "tavor_12",
+      "mossberg_930",
+      "lever_shotgun",
+      "ksg-25",
+      "moss_brownie",
+      "pipe_shotgun",
+      "mossberg_590",
+      "remington_870_express",
+      "winchester_1897",
+      "rm120c",
+      "revolver_shotgun",
+      "shotgun_s",
+      "slamfire_shotgun",
+      "shotgun_410",
+      "saiga_12",
+      "m26_mass_standalone",
+      "rm20",
+      "saiga_410",
+      "blunderbuss",
+      "bigun"
+    ],
     "volume": 60,
-    "files": [ "fire_gun/shotguns/shotgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "mossberg_500",
-    "volume": 60,
-    "files": [ "fire_gun/shotguns/shotgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "remington_870",
-    "volume": 60,
-    "files": [ "fire_gun/shotguns/shotgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "ashot",
-    "volume": 60,
-    "files": [ "fire_gun/shotguns/shotgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "streetsweeper",
-    "volume": 60,
-    "files": [ "fire_gun/shotguns/shotgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "bio_shotgun_gun",
-    "volume": 60,
-    "files": [ "fire_gun/shotguns/shotgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "winchester_1887",
-    "volume": 60,
-    "files": [ "fire_gun/shotguns/shotgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "remington_870_breacher",
-    "volume": 60,
-    "files": [ "fire_gun/shotguns/shotgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "shotgun_d",
-    "volume": 60,
-    "files": [ "fire_gun/shotguns/shotgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "slamfire_shotgun_d",
-    "volume": 60,
-    "files": [ "fire_gun/shotguns/shotgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "pipe_double_shotgun",
-    "volume": 60,
-    "files": [ "fire_gun/shotguns/shotgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "tavor_12",
-    "volume": 60,
-    "files": [ "fire_gun/shotguns/shotgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "mossberg_930",
-    "volume": 60,
-    "files": [ "fire_gun/shotguns/shotgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "lever_shotgun",
-    "volume": 60,
-    "files": [ "fire_gun/shotguns/shotgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "ksg-25",
-    "volume": 60,
-    "files": [ "fire_gun/shotguns/shotgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "moss_brownie",
-    "volume": 60,
-    "files": [ "fire_gun/shotguns/shotgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "pipe_shotgun",
-    "volume": 60,
-    "files": [ "fire_gun/shotguns/shotgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "mossberg_590",
-    "volume": 60,
-    "files": [ "fire_gun/shotguns/shotgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "remington_870_express",
-    "volume": 60,
-    "files": [ "fire_gun/shotguns/shotgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "winchester_1897",
-    "volume": 60,
-    "files": [ "fire_gun/shotguns/shotgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "rm120c",
-    "volume": 60,
-    "files": [ "fire_gun/shotguns/shotgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "revolver_shotgun",
-    "volume": 60,
-    "files": [ "fire_gun/shotguns/shotgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "shotgun_s",
-    "volume": 60,
-    "files": [ "fire_gun/shotguns/shotgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "slamfire_shotgun",
-    "volume": 60,
-    "files": [ "fire_gun/shotguns/shotgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "shotgun_410",
-    "volume": 60,
-    "files": [ "fire_gun/shotguns/shotgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "saiga_12",
-    "volume": 60,
-    "files": [ "fire_gun/shotguns/shotgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "m26_mass_standalone",
-    "volume": 60,
-    "files": [ "fire_gun/shotguns/shotgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "rm20",
-    "volume": 60,
-    "files": [ "fire_gun/shotguns/shotgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "saiga_410",
-    "volume": 60,
-    "files": [ "fire_gun/shotguns/shotgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "blunderbuss",
-    "volume": 60,
-    "files": [ "fire_gun/shotguns/shotgun_1.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "fire_gun",
-    "variant": "bigun",
-    "volume": 60,
-    "files": [ "fire_gun/shotguns/shotgun_1.ogg" ]
+    "files": [
+      "fire_gun/shotguns/shotgun_1.ogg"
+    ]
   }
 ]

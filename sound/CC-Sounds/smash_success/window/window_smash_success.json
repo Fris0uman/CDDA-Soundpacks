@@ -2,176 +2,66 @@
   {
     "type": "sound_effect",
     "id": "smash_success",
-    "variant": "t_window_frame",
+    "variant": [
+      "t_window_frame"
+    ],
     "volume": 50,
-    "files": [ "smash_success/window/window_frame_smash_success.ogg" ]
+    "files": [
+      "smash_success/window/window_frame_smash_success.ogg"
+    ]
   },
   {
     "type": "sound_effect",
     "id": "smash_success",
-    "variant": "t_curtains",
+    "variant": [
+      "t_curtains",
+      "t_window_domestic",
+      "t_window",
+      "t_window_bars_alarm",
+      "t_window_alarm",
+      "t_window_domestic_taped",
+      "t_window_bars",
+      "t_window_stained_blue",
+      "t_window_stained_green",
+      "t_window_stained_red",
+      "t_window_no_curtains",
+      "t_window_open",
+      "t_window_no_curtains_open",
+      "t_window_taped",
+      "t_window_no_curtains_taped",
+      "t_window_alarm_taped",
+      "t_window_bars_curtains",
+      "t_window_bars_domestic"
+    ],
     "volume": 50,
-    "files": [ "smash_success/window/window_smash_success.ogg" ]
+    "files": [
+      "smash_success/window/window_smash_success.ogg"
+    ]
   },
   {
     "type": "sound_effect",
     "id": "smash_success",
-    "variant": "t_window_domestic",
+    "variant": [
+      "t_window_boarded",
+      "t_window_reinforced",
+      "t_window_enhanced"
+    ],
     "volume": 50,
-    "files": [ "smash_success/window/window_smash_success.ogg" ]
+    "files": [
+      "smash_success/window/window_boarded_smash_success.ogg"
+    ]
   },
   {
     "type": "sound_effect",
     "id": "smash_success",
-    "variant": "t_window",
-    "volume": 50,
-    "files": [ "smash_success/window/window_smash_success.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "smash_success",
-    "variant": "t_window_boarded",
-    "volume": 50,
-    "files": [ "smash_success/window/window_boarded_smash_success.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "smash_success",
-    "variant": "t_window_bars_alarm",
-    "volume": 50,
-    "files": [ "smash_success/window/window_smash_success.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "smash_success",
-    "variant": "t_window_alarm",
-    "volume": 50,
-    "files": [ "smash_success/window/window_smash_success.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "smash_success",
-    "variant": "t_window_domestic_taped",
-    "volume": 50,
-    "files": [ "smash_success/window/window_smash_success.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "smash_success",
-    "variant": "t_window_bars",
-    "volume": 50,
-    "files": [ "smash_success/window/window_smash_success.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "smash_success",
-    "variant": "t_window_reinforced",
-    "volume": 50,
-    "files": [ "smash_success/window/window_boarded_smash_success.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "smash_success",
-    "variant": "t_window_boarded_noglass",
+    "variant": [
+      "t_window_boarded_noglass",
+      "t_window_reinforced_noglass",
+      "t_window_enhanced_noglass"
+    ],
     "volume": 75,
-    "files": [ "smash_success/window/wood_smash_success.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "smash_success",
-    "variant": "t_window_stained_blue",
-    "volume": 50,
-    "files": [ "smash_success/window/window_smash_success.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "smash_success",
-    "variant": "t_window_stained_green",
-    "volume": 50,
-    "files": [ "smash_success/window/window_smash_success.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "smash_success",
-    "variant": "t_window_stained_red",
-    "volume": 50,
-    "files": [ "smash_success/window/window_smash_success.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "smash_success",
-    "variant": "t_window_no_curtains",
-    "volume": 50,
-    "files": [ "smash_success/window/window_smash_success.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "smash_success",
-    "variant": "t_window_open",
-    "volume": 50,
-    "files": [ "smash_success/window/window_smash_success.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "smash_success",
-    "variant": "t_window_no_curtains_open",
-    "volume": 50,
-    "files": [ "smash_success/window/window_smash_success.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "smash_success",
-    "variant": "t_window_taped",
-    "volume": 50,
-    "files": [ "smash_success/window/window_smash_success.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "smash_success",
-    "variant": "t_window_no_curtains_taped",
-    "volume": 50,
-    "files": [ "smash_success/window/window_smash_success.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "smash_success",
-    "variant": "t_window_alarm_taped",
-    "volume": 50,
-    "files": [ "smash_success/window/window_smash_success.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "smash_success",
-    "variant": "t_window_reinforced_noglass",
-    "volume": 75,
-    "files": [ "smash_success/window/wood_smash_success.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "smash_success",
-    "variant": "t_window_enhanced",
-    "volume": 50,
-    "files": [ "smash_success/window/window_boarded_smash_success.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "smash_success",
-    "variant": "t_window_enhanced_noglass",
-    "volume": 75,
-    "files": [ "smash_success/window/wood_smash_success.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "smash_success",
-    "variant": "t_window_bars_curtains",
-    "volume": 50,
-    "files": [ "smash_success/window/window_smash_success.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "smash_success",
-    "variant": "t_window_bars_domestic",
-    "volume": 50,
-    "files": [ "smash_success/window/window_smash_success.ogg" ]
+    "files": [
+      "smash_success/window/wood_smash_success.ogg"
+    ]
   }
 ]
