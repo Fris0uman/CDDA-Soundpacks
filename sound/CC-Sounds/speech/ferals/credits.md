@@ -15,5 +15,4 @@
 | female_mad_whisper_2.ogg | carmsie | **CC0 1.0** | https://freesound.org/people/carmsie/sounds/271633/ |
 | male_mumbling_1.ogg | SilentStrikeZ | **CC0 1.0** | https://freesound.org/people/SilentStrikeZ/sounds/389642/ |
 | male_mumbling_2.ogg | SilentStrikeZ | **CC0 1.0** | https://freesound.org/people/SilentStrikeZ/sounds/389642/ |
-| die_scream_1.ogg | AmeAngelofSin | **CC BY 4.0** | https://freesound.org/people/AmeAngelofSin/sounds/181983/ |
 |  |  | ** ** |  |
